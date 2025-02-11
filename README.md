@@ -1,1 +1,8 @@
-# Portfolio-Data-Analytics
+# Portfolio-Data-Analytics 
+
+## Ich bin leidenschaftlich darin, Daten in aussagekräftige Erkenntnisse zu verwandeln und vereine technisches Fachwissen mit unternehmerischer Erfahrung. Als Ingenieur für Material- und Produktentwicklung sowie ehemaliger Gründer eines E-Commerce-Unternehmens habe ich umfassende Erfahrung in der eigenständigen Abwicklung sämtlicher Geschäftsprozesse – von der Produktentwicklung bis hin zu digitalen Werbemaßnahmen auf Plattformen wie Facebook.
+Meine Leidenschaft für Datenanalyse hat mich dazu motiviert, die Zertifizierungen Google Professional und Advanced Data Analytics zu erwerben. Heute begeistere ich mich dafür, komplexe Daten in umsetzbare Erkenntnisse zu verwandeln, die strategische Entscheidungen unterstützen. Ich freue mich darauf, meine vielseitige Erfahrung und analytischen Fähigkeiten in datengetriebenen Projekten einzusetzen, um Innovation und Wachstum voranzutreiben. 
+
+
+## Passionate about turning data into meaningful insights, I bring a unique combination of technical expertise and entrepreneurial experience. With a background as a Materials and Product Development Engineer and a former founder of an e-commerce business, I have firsthand knowledge of managing end-to-end operations, from product creation to digital marketing on platforms like Facebook.
+My passion for data analytics led me to complete both the Google Professional and Advanced Data Analytics certifications. Today, I thrive on transforming complex data into actionable insights that support strategic decision-making. I'm excited to leverage my diverse experience and analytical skills to drive innovation and growth in data-driven projects.
