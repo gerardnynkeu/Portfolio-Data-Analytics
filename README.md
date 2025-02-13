@@ -37,7 +37,7 @@ Beyond analytics, I have an entrepreneurial mindset, having been an E-commerce s
 I am always open to networking, collaboration, and new opportunities in the world of data. Feel free to reach out!
 
 📧 Email: [gerardnynkeu@gmail.com]
-🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/nynkeu-gerard-63282a327/]
+🔗 LinkedIn: [[LinkedIn Profile](https://www.linkedin.com/in/nynkeu-gerard-63282a327/]
 📂 GitHub: [[Your GitHub Profile](https://github.com/gerardnynkeu)]
 
 🌟 Data is everywhere—let’s make sense of it together!
