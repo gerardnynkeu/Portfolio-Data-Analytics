@@ -1,6 +1,6 @@
 # Portfolio-Data-Analytics 
 
-📊 Gerard's Data Analytics Portfolio
+📊 Gerard's Nynkeu Data Analytics Portfolio
 
 Welcome to my data analytics portfolio! 🚀 This is a collection of projects showcasing my passion for data-driven decision-making, problem-solving, and analytical storytelling. Here, you'll find projects leveraging Python, SQL, Tableau, and more to extract insights, visualize trends, and drive actionable conclusions.
 
