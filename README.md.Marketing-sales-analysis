@@ -122,7 +122,9 @@ Applying appropriate techniques (e.g., imputation or removal) to handle missing 
 
 Using visualization techniques such as pairplots to explore relationships between features.
 
-Step 3: Model Building
+Step 3: Model Building 
+
+The process of creating, training, and validating mathematical or machine learning models to analyze data, make predictions, or solve specific problems. It involves selecting appropriate algorithms, preparing data, and tuning parameters to achieve optimal performance and accuracy.
 
 3.1 Select Relevant Columns
 
@@ -136,7 +138,7 @@ Defining the regression equation to be fitted to the data.
 
 Training the linear regression model using statsmodels.
 
-Step 4: Results and Evaluation
+Step 4: Results and Evaluation 
 
 4.1 Model Summary
 
@@ -164,14 +166,23 @@ Plotting residuals against predicted values to check for patterns or heterosceda
 
 Conclusion
 
-5.1 Key Takeaways
+5.1 Key Takeaways 
 
-Summarizing the key findings and implications of the analysis.
+Data visualizations and exploratory data analysis are essential tools for determining whether linear regression is an appropriate method for modeling the relationship between two variables. A linear regression model provides insights into the relationship between two variables, allowing it to be expressed quantitatively.
 
 5.2 Framing Findings for Stakeholders
 
-Interpreting the results in a way that is actionable for decision-makers and stakeholders.
+In the simple linear regression model, the y-intercept is 41.5326, and the slope is 8.1733.
+
+One interpretation: A company that increases its radio promotion budget by 1 million dollars could experience an average sales increase of 8.1733 million dollars. Another interpretation: Companies spending 1 million dollars more on radio promotions tend to generate 8.1733 million dollars more in sales on average. The results are statistically significant, with a p-value of 0.000, which is much smaller than the common significance threshold of 0.05. This indicates a very low probability that the observed results are due to random chance.
+
+The null hypothesis states that there is no relationship between radio promotion budget and sales (the slope is zero), while the alternative hypothesis suggests a relationship exists (the slope is not zero). The analysis allows us to reject the null hypothesis, confirming a relationship between radio promotion budget and sales in this dataset. The slope of the best-fit line from the regression model is an estimate subject to some uncertainty. The 95% confidence interval for the slope ranges from 7.791 to 8.555, indicating a 95% probability that the true slope falls within this range.
 
 This project showcases fundamental data analysis and machine learning skills relevant for a Data Analyst role. If you have any questions or suggestions, feel free to connect!
 
-Author: GerardGitHub: [Your GitHub Profile Link]LinkedIn: [Your LinkedIn Profile Link]
+Framing the Findings for External Stakeholders:¶
+Based on the dataset analyzed and the regression results, there is a significant relationship between radio promotion budget and sales for the companies in this study. The p-value of 0.000 and a standard error of 0.194 support the validity of this finding. Specifically, a 1 million dollar increase in radio promotion budget is associated with an 8.1733 million dollar increase in sales, on average.
+
+These findings suggest that investing in radio promotions can be an effective strategy for boosting sales. However, further analysis is recommended to explore this relationship in different contexts. For example, additional data could reveal whether this relationship varies across industries or depends on the types of products or services being promoted.
+
+Author: Gerard Nynkeu GitHub: [Your GitHub Profile Link]LinkedIn: [Your LinkedIn Profile Link]
