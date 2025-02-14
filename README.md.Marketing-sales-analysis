@@ -55,6 +55,7 @@ Introduction
 📌 Introduction
 
 Understanding the impact of marketing strategies on sales is crucial for businesses aiming to optimize their advertising budget. This dataset provides insights into the relationship between different marketing channels and sales performance. By analyzing these data points, we can identify key trends and build predictive models to enhance decision-making in marketing investments.
+
 📊 Dataset Description
 
 This dataset contains information on sales performance and marketing expenditures across different advertising channels. It includes 572 observations and 5 variables, described as follows:
