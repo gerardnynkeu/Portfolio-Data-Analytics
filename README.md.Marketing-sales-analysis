@@ -4,13 +4,17 @@ Table of Contents
 
 Introduction
 
-Step 1: Imports and Data Loading
+Step 1: Imports and Data Loading 
 
-1.1 Import Libraries
+The first step involved importing the necessary libraries for data analysis and machine learning, such as pandas, numpy, and scikit-learn. Additionally, I loaded the dataset containing details about marketing campaigns, including investments in TV, radio, and social media promotions, as well as the corresponding revenue generated. This set the foundation for the analysis by ensuring the data was ready for exploration and modeling.
+
+1.1 Import Libraries 
 
 1.2 Load Dataset
 
-Step 2: Data Exploration
+Step 2: Data Exploration 
+
+Performed initial exploratory data analysis (EDA) on diverse datasets, including marketing and sales data, to uncover patterns, trends, and insights. Leveraged Python libraries like Pandas, Matplotlib, and Seaborn to clean, visualize, and summarize datasets effectively. Demonstrated expertise in handling missing values, identifying outliers, and deriving actionable insights to guide data-driven decision-making.
 
 2.1 Display First 10 Rows
 
