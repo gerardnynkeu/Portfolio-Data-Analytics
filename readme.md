@@ -14,5 +14,35 @@ To achieve this, I employed simple linear regression to model the relationship b
 
 The dataset provided contained detailed information about various marketing campaigns, including investments in TV, radio, and social media promotions, as well as the corresponding revenue generated. By analyzing this data, I aimed to provide company leaders with actionable insights to optimize future marketing strategies.
 
-The ultimate goal was to help decision-makers allocate resources more effectively by identifying which marketing channels deliver the highest return on investment. This project demonstrated the power of simple linear regression in transforming large datasets into meaningful insights, enabling better predictions and strategic decision-making.
+The ultimate goal was to help decision-makers allocate resources more effectively by identifying which marketing channels deliver the highest return on investment. This project demonstrated the power of simple linear regression in transforming large datasets into meaningful insights, enabling better predictions and strategic decision-making. 
+
+
+
+### Dataset Description 
+
+This dataset contains information on sales performance and marketing expenditures across different advertising channels. It includes 572 observations and 5 variables, described as follows:
+
+    TV (categorical: "Low", "Medium", "High"): Level of investment in TV advertising.
+    Radio (numeric: float): Amount spent on radio advertising.
+    Social Media (numeric: float): Amount spent on social media advertising.
+    Influencer (categorical: "Mega", "Macro", "Micro"): Type of influencer used in the campaign.
+    Sales (numeric: float): Total sales generated. 
+
+##  Dataset Overview 
+
+   Total Entries: 572
+    Missing Values:
+        TV: 1 missing value
+        Radio: 1 missing value
+        Sales: 1 missing value
+    Descriptive Statistics:
+        Radio: Mean ≈ 18.65, Min ≈ 0.19, Max ≈ 48.87
+        Social Media: Mean ≈ 3.25, Min ≈ 0.01, Max ≈ 11.26
+        Sales: Mean ≈ 193.52, Min ≈ 31.20, Max ≈ 358.42
+
+
+    
+
+
+
 
