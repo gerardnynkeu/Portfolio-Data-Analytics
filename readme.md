@@ -1,3 +1,3 @@
 # Marketing Sales Analysis
 
-![Marketing Sales Analysis](Marketing-Sales-analysis-python.png)
+![Marketing Sales Analysis](keting-Sales-analysis-python.pnghttps://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analytics.png)
