@@ -37,7 +37,7 @@
   - [5.2 Framing Findings for Stakeholders](#52-framing-findings-for-stakeholders)  
   - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
 
-- [Step 6:  Key Questions Answered  ](#step-6-Key-Questions-Answered)
+- [Step 6: Key Questions Answered](#step-6-Key-Questions-Answered)
 
   
  
