@@ -73,7 +73,7 @@ In this step, we analyze the dataset to understand its structure, detect missing
 I also use visualization techniques such as pairplots to explore relationships between features.
 
 
-![Marketing Sales Analysis](model-building.png) 
+![Marketing Sales Analysis](3.5-Pairwise-Relationships.png) 
 
 ## Step 3: Model Building  
 
