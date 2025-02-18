@@ -51,6 +51,28 @@ The dataset is loaded into a Pandas DataFrame and reviewed for initial explorati
 
 
 ![Marketing Sales Analysis](import-load-data.png) 
+
+
+
+## Step 2: Data Exploration  
+
+In this step, we analyze the dataset to understand its structure, detect missing values, and examine relationships between variables. This helps in identifying patterns, potential issues, and key insights before further analysis.  
+
+- **2.1 Display First 10 Rows** – Preview the first few rows to get an overview of the dataset.  
+- **2.2 Dataset Dimensions** – Check the number of rows and columns to understand the dataset size.  
+- **2.3 Check Missing Values** – Identify any missing data that may need to be handled.  
+- **2.4 Handle Missing Values** – Apply strategies to deal with missing data (e.g., imputation or removal).  
+- **2.5 Pairwise Relationships** – Explore relationships between variables using visualizations.  
+
+
+
+
+
+
+
+
+
+EDA.png
         
 
 
