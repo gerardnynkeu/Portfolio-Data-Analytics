@@ -66,13 +66,13 @@ In this step, we analyze the dataset to understand its structure, detect missing
 
 
 
+![Marketing Sales Analysis](EDA.png) 
 
 
 
 
 
 
-EDA.png
         
 
 
