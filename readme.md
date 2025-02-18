@@ -100,7 +100,13 @@ In this step, I evaluate the performance of my regression model by analyzing key
 - **4.3 Regression Plot** – Visualizing the regression line and the relationship between variables.  
 - **4.4 Residual Distribution** – Analyzing the distribution of residuals to check for normality.  
 - **4.5 Q-Q Plot for Normality** – Using a Q-Q plot to further assess the normality of residuals.  
-- **4.6 Scatterplot of Residuals** – Plotting residuals against predicted values to check for patterns or heteroscedasticity.  
+- **4.6 Scatterplot of Residuals** – Plotting residuals against predicted values to check for patterns or heteroscedasticity.
+
+
+![Marketing Sales Analysis](Step-4-Results-and-Evaluation.png) 
+
+
+
 
 
 
