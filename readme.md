@@ -243,22 +243,48 @@ In this step, I evaluate the performance of my regression model by analyzing key
 During the analysis, I addressed several key questions to better understand the dataset and the linear regression model:  
 
 ### **1. Exploratory Data Analysis (EDA)**  
-- **Q1:** What do you observe about the different variables included in the data?  
-- **Q2:** What do you observe about the number of rows and columns in the dataset?  
-- **Q3:** What do you observe about the number of rows containing missing values?  
+- **Q1:** What do you observe about the different variables included in the data?
+  
+The dataset includes: TV promotion budget categorized as "Low," "Medium," or "High." Budgets for radio and social media promotions. Influencer type ("Mega," "Macro," "Micro," or "Nano") based on follower count. Sales generated from the promotion. 
+
+- **Q2:** What do you observe about the number of rows and columns in the dataset?
+
+The dataset contains 572 rows and 5 columns, representing 572 companies and details on their promotion strategies and resulting sales.
+
+- **Q3:** What do you observe about the number of rows containing missing values?
+
+Three rows have missing values, a small proportion of the dataset. These rows can be removed to prepare the data for modeling.
 
 ### **2. Model Assumptions and Interpretation**  
-- **Q4:** Is the assumption of linearity met?  
-- **Q5:** What is the y-intercept?  
-- **Q6:** What is the slope?  
-- **Q7:** What is the linear equation expressing the relationship between sales and the radio promotion budget?  
-- **Q8:** What does the slope mean in this context?  
+- **Q4:** Is the assumption of linearity met?
+The scatter plot of Sales versus Radio shows the points forming a pattern that aligns closely with a straight line, indicating a positive relationship between the two variables. This suggests that the assumption of linearity is likely satisfied.
+
+- **Q5:** What is the y-intercept?
+The y-intercept is 41.5326.
+
+- **Q6:** What is the slope?
+The slope is 8.1733.
+ 
+- **Q7:** What is the linear equation expressing the relationship between sales and the radio promotion budget?
+ y= slope × 𝑥 + y-intercept y=slope×x+y-intercept? The equation is: sales 8.1733 × radio promotion budget + 41.5326 sales=8.1733×radio promotion budget+41.5326
+
+- **Q8:** What does the slope mean in this context?
+One interpretation: For every additional 1 million dollars invested in the radio promotion budget, the company's sales increase by 8.1733 million dollars on average. Another interpretation: Companies that allocate 1 million dollars more to their radio promotion budget typically achieve an additional 8.1733 million dollars in sales on average.
 
 ### **3. Regression Results and Evaluation**  
-- **Q9:** What do you observe from the regression plot?  
-- **Q10:** What do you observe about the distribution of the residuals?  
-- **Q11:** Is the assumption of normality met?  
+- **Q9:** What do you observe from the regression plot?
+The regression plot shows a roughly linear relationship between the two variables, with the best fit line indicating this trend. This supports the assumption of linearity.
+
+- **Q10:** What do you observe about the distribution of the residuals?
+Question 10: What do you observe about the distribution of the residuals in the preceding visualization?
+The residuals appear to follow an approximately normal distribution, suggesting that the assumption of normality is likely satisfied.
+
+- **Q11:** Is the assumption of normality met?
+In the Q-Q plot, the points align closely with the upward-trending diagonal line. This indicates that the assumption of normality is satisfied.
+
 - **Q12:** Are the assumptions of independent observation and homoscedasticity met?
+In the scatterplot, the data points resemble a random cloud without any clear pattern, suggesting that the assumption of independent observations is likely upheld. Additionally, since the residuals seem to be evenly distributed, the assumption of homoscedasticity also appears to be satisfied.
+
 
 
 
