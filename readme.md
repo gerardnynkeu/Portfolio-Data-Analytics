@@ -115,6 +115,23 @@ In this step, we analyze the dataset to understand its structure, detect missing
 
 
 
+
+🔗 Pairwise Relationships
+
+In this step, I explore the pairwise relationships between different variables in the dataset to identify correlations and potential patterns. This helps me understand how variables interact with each other before building the regression model.
+
+I typically use a pairplot (scatterplot matrix) to visualize these relationships:
+
+    If two variables show a linear pattern, they are likely correlated, which is useful for regression modeling.
+    If the points form a random cloud, there may be little or no correlation between them.
+    If the relationship appears non-linear, a different modeling approach may be required.
+
+By analyzing pairwise relationships, I ensure that I select the most relevant variables for my model and check for potential multicollinearity issues. 🚀
+
+
+
+
+
 ![Marketing Sales Analysis](EDA.png) 
 
 
