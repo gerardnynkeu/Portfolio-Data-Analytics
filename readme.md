@@ -38,6 +38,7 @@
   - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
 
 - [Step 6:Key Questions Answered](#step-6-Key-Questions-Answered)
+- 
 
   
  
@@ -243,16 +244,13 @@ In this step, I evaluate the performance of my regression model by analyzing key
 During the analysis, I addressed several key questions to better understand the dataset and the linear regression model:  
 
 ### **1. Exploratory Data Analysis (EDA)**  
-- **Q1:** What do you observe about the different variables included in the data?
-  
+- **Q1:** What do you observe about the different variables included in the data?   
 The dataset includes: TV promotion budget categorized as "Low," "Medium," or "High." Budgets for radio and social media promotions. Influencer type ("Mega," "Macro," "Micro," or "Nano") based on follower count. Sales generated from the promotion. 
 
-- **Q2:** What do you observe about the number of rows and columns in the dataset?
-
+- **Q2:** What do you observe about the number of rows and columns in the dataset? 
 The dataset contains 572 rows and 5 columns, representing 572 companies and details on their promotion strategies and resulting sales.
 
-- **Q3:** What do you observe about the number of rows containing missing values?
-
+- **Q3:** What do you observe about the number of rows containing missing values? 
 Three rows have missing values, a small proportion of the dataset. These rows can be removed to prepare the data for modeling.
 
 ### **2. Model Assumptions and Interpretation**  
