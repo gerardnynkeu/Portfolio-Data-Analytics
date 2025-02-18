@@ -36,8 +36,13 @@
   - [5.1 Key Takeaways](#51-key-takeaways)  
   - [5.2 Framing Findings for Stakeholders](#52-framing-findings-for-stakeholders)  
   - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
+ 
+
 
 - [Step 6:Key Questions Answered](#step-6-Key-Questions-Answered)
+
+
+
 - 
 
   
@@ -45,7 +50,11 @@
 
 
 
-- [Connect with Me](#connect-with-me)  
+- [Connect with Me](#connect-with-me)
+
+
+
+
 
 
 
@@ -64,6 +73,11 @@ The ultimate goal was to help decision-makers allocate resources more effectivel
 
 
 
+
+
+
+
+
 ## Dataset Description 
 
 This dataset contains information on sales performance and marketing expenditures across different advertising channels. It includes 572 observations and 5 variables, described as follows:
@@ -74,7 +88,17 @@ Social Media (numeric: float): Amount spent on social media advertising.
 Influencer (categorical: "Mega", "Macro", "Micro"): Type of influencer used in the campaign.
 Sales (numeric: float): Total sales generated. 
 
-[Download the dataset](marketing-sales-data.csv)
+
+
+
+
+
+[Download the dataset](marketing-sales-data.csv)  
+
+
+
+
+
 
 
 ##  Dataset Overview 
@@ -90,6 +114,9 @@ Social Media: Mean ≈ 3.25, Min ≈ 0.01, Max ≈ 11.26
 Sales: Mean ≈ 193.52, Min ≈ 31.20, Max ≈ 358.42 
 
 
+
+
+
 ## Step 1: Imports and Data Loading  
 
 - **1.1 Import Libraries**  
@@ -99,7 +126,16 @@ Before working with the dataset, we import necessary Python libraries such as pa
 The dataset is loaded into a Pandas DataFrame and reviewed for initial exploration.
 
 
+
+
+
+
 ![Marketing Sales Analysis](import-load-data.png) 
+
+
+
+
+
 
 
 
@@ -122,6 +158,11 @@ In this step, we analyze the dataset to understand its structure, detect missing
 
 
 
+
+
+
+
+
 🔗 Pairwise Relationships
 
 In this step, I explore the pairwise relationships between different variables in the dataset to identify correlations and potential patterns. This helps me understand how variables interact with each other before building the regression model.
@@ -136,7 +177,18 @@ By analyzing pairwise relationships, I ensure that I select the most relevant va
 
 
 
+
+
+
+
+
 ![Marketing Sales Analysis](3.5-Pairwise-Relationships.png) 
+
+
+
+
+
+
 
 
 
@@ -151,7 +203,18 @@ The process of creating, training, and validating mathematical or machine learni
 
 
 
+
+
+
+
+
 ![Marketing Sales Analysis](model-building.png) 
+
+
+
+
+
+
 
 
 
@@ -171,7 +234,17 @@ In this step, I evaluate the performance of my regression model by analyzing key
 - **4.6 Scatterplot of Residuals** – Plotting residuals against predicted values to check for patterns or heteroscedasticity.
 
 
+
+
+
+
 ![Marketing Sales Analysis](Step-4-Results-and-Evaluation.png) 
+
+
+
+
+
+
 
 
 
@@ -189,10 +262,17 @@ Key Observations:
 
     If the data points are closely aligned with the regression line, this suggests a strong linear relationship.
     If the points are widely scattered, this may indicate weak correlation or the need for a more complex model.
+
+
+
+    
     
 
 
 ![Marketing Sales Analysis](regression-plot.png) 
+
+
+
 
 
 
@@ -212,7 +292,15 @@ By examining the residual distribution, I ensure that my regression model produc
 
 
 
+
+
+
 ![Marketing Sales Analysis](Residual-distribution.png) 
+
+
+
+
+
 
 
 
@@ -233,7 +321,17 @@ By analyzing the Q-Q plot, I verify whether my model meets the normality assumpt
 
 
 
+
+
+
+
+
+
 ![Marketing Sales Analysis](Q-Q-plot-of-residuals.png) 
+
+
+
+
 
 
 
@@ -260,7 +358,12 @@ By examining this plot, I ensure that my model is not biased and that the linear
 
 
 
+
+
 ![Marketing Sales Analysis](Scatterplot-of-residuals.png)  
+
+
+
 
 
 
@@ -299,6 +402,8 @@ By examining this plot, I ensure that my model is not biased and that the linear
   - Specifically, a **1 million dollar increase in radio promotion budget** is associated with an **8.1733 million dollar increase in sales**, on average.  
   - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
   - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.
+ 
+  
  
 
 
@@ -354,6 +459,8 @@ In the Q-Q plot, the points align closely with the upward-trending diagonal line
 
 - **Q12:** Are the assumptions of independent observation and homoscedasticity met?
 In the scatterplot, the data points resemble a random cloud without any clear pattern, suggesting that the assumption of independent observations is likely upheld. Additionally, since the residuals seem to be evenly distributed, the assumption of homoscedasticity also appears to be satisfied.
+
+
 
 
 
