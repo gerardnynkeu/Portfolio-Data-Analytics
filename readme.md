@@ -140,7 +140,48 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
-![Marketing Sales Analysis](Scatterplot-of-residuals.png) 
+![Marketing Sales Analysis](Scatterplot-of-residuals.png)  
+
+
+
+
+
+
+
+
+
+## Step 5: Conclusion  
+
+- **5.1 Key Takeaways**  
+  - Data visualizations and exploratory data analysis are essential tools for determining whether linear regression is an appropriate method for modeling the relationship between two variables.  
+  - A linear regression model provides insights into the relationship between two variables, allowing it to be expressed quantitatively.  
+
+- **5.2 Framing Findings for Stakeholders**  
+  - In the simple linear regression model:  
+    - **Y-intercept:** 41.5326  
+    - **Slope:** 8.1733  
+  - Interpretation:  
+    - A company that increases its radio promotion budget by **1 million dollars** could experience an **average sales increase of 8.1733 million dollars**.  
+    - Companies spending **1 million dollars more** on radio promotions tend to generate **8.1733 million dollars more** in sales on average.  
+  - **Statistical Significance:**  
+    - The **p-value is 0.000**, which is much smaller than the common significance threshold of **0.05**.  
+    - This indicates a **very low probability** that the observed results are due to random chance.  
+  - **Hypothesis Testing:**  
+    - **Null Hypothesis (H₀):** No relationship between radio promotion budget and sales (slope = 0).  
+    - **Alternative Hypothesis (H₁):** A relationship exists (slope ≠ 0).  
+    - The analysis allows us to **reject the null hypothesis**, confirming a relationship between radio promotion budget and sales.  
+  - **Confidence Interval:**  
+    - The **95% confidence interval** for the slope ranges from **7.791 to 8.555**, meaning there is a 95% probability that the true slope falls within this range.  
+
+- **5.3 Framing the Findings for External Stakeholders**  
+  - The analysis shows a **significant relationship** between **radio promotion budget and sales**.  
+  - The **p-value of 0.000** and a **standard error of 0.194** support the validity of this finding.  
+  - Specifically, a **1 million dollar increase in radio promotion budget** is associated with an **8.1733 million dollar increase in sales**, on average.  
+  - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
+  - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.  
+
+
+
 
 
 
