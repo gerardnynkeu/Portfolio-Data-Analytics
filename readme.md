@@ -158,12 +158,39 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
+📈 Regression Plot
+
+In this step, I visualize the relationship between the independent variable and the dependent variable using a regression plot. This helps me assess how well the linear regression model fits the data.
+
+The regression plot includes:
+
+    A scatterplot of actual data points, showing the relationship between the variables.
+    A best-fit regression line, which represents the predicted values from my model.
+    A confidence interval, indicating the uncertainty around the regression line.
+
+Key Observations:
+
+    If the data points are closely aligned with the regression line, this suggests a strong linear relationship.
+    If the points are widely scattered, this may indicate weak correlation or the need for a more complex model.
+    
+
 
 ![Marketing Sales Analysis](regression-plot.png) 
 
 
 
 
+📊 Residual Distribution
+
+In this step, I analyze the distribution of residuals to check whether they follow a normal distribution, which is a key assumption in linear regression.
+
+I visualize the residuals using a histogram or density plot to observe their shape:
+
+    If the residuals form a bell-shaped curve, this indicates normality, meaning my model's predictions are unbiased.
+    If the distribution is skewed or has multiple peaks, this suggests that the model may be missing important patterns in the data.
+    If the residuals have extreme outliers, they might indicate the presence of influential data points affecting the regression results.
+
+By examining the residual distribution, I ensure that my regression model produces reliable predictions and meets the normality assumption. 🚀 
 
 
 
@@ -172,6 +199,18 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
+
+
+📊 Q-Q Plot of Residuals
+
+In this step, I use the Q-Q (Quantile-Quantile) plot to check whether the residuals follow a normal distribution, which is a key assumption of linear regression.
+
+The Q-Q plot compares the quantiles of the residuals with the quantiles of a standard normal distribution:
+
+    If the points fall along a straight diagonal line, the residuals are normally distributed, meaning the assumption of normality is satisfied.
+    If the points deviate significantly from the line, especially at the ends, this indicates skewness or heavy tails, suggesting that the residuals are not normally distributed.
+
+By analyzing the Q-Q plot, I verify whether my model meets the normality assumption, ensuring reliable statistical inferences from the regression results. 🚀 
 
 
 
@@ -183,6 +222,22 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
+
+
+
+
+
+📉 Scatterplot of Residuals
+
+In this step, I analyze the scatterplot of residuals to check if the assumptions of homoscedasticity and independent errors are met.
+
+Residuals represent the difference between the actual and predicted values. A well-fitted linear regression model should have residuals randomly scattered around zero without any clear pattern.
+
+    If the residuals show no pattern and are evenly distributed, this confirms homoscedasticity (constant variance).
+    If a funnel shape or systematic trend appears, this suggests heteroscedasticity, meaning the variance of residuals changes across different values.
+    Any clustering or autocorrelation might indicate that independent observations assumption is violated.
+
+By examining this plot, I ensure that my model is not biased and that the linear regression assumptions hold. 🚀 
 
 
 
