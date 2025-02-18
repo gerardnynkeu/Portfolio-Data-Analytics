@@ -189,7 +189,7 @@ Autor: Gerard Nynkeu
 ## Connect with Me  
 
 - **GitHub:** [Your GitHub Profile](https://github.com/gerardnynkeu) 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
 
 
 
