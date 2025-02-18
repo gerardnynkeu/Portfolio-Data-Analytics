@@ -188,7 +188,7 @@ Autor: Gerard Nynkeu
 
 ## Connect with Me  
 
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+- **GitHub:** [My GitHub Profile]([https://github.com/your-username](https://github.com/gerardnynkeu))  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
 
 
