@@ -126,6 +126,20 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
+![Marketing Sales Analysis](Q-Q-plot-of-residuals.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
