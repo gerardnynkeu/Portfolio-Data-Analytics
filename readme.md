@@ -28,7 +28,7 @@ This dataset contains information on sales performance and marketing expenditure
     Influencer (categorical: "Mega", "Macro", "Micro"): Type of influencer used in the campaign.
     Sales (numeric: float): Total sales generated. 
 
-    [Download the dataset](marketing-sales-data.csv)
+    [Download the dataset]([marketing-sales-data.csv](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/marketing-sales-data.csv))
 
 
 ##  Dataset Overview 
