@@ -82,7 +82,7 @@ The process of creating, training, and validating mathematical or machine learni
 
 
 
-![Marketing Sales Analysis](data-analysis-intro.png) 
+![Marketing Sales Analysis](model-building.png) 
 
 
 
