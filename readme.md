@@ -5,7 +5,8 @@
 
 # Table of Contents  
 
-- [Introduction](#Introduction) 
+- [Introduction](#Introduction)
+- [ Dataset Description](#Dataset-Description)
 
 - [Step 1: Imports and Data Loading](#step-1-imports-and-data-loading)  
   - [1.1 Import Libraries](#11-import-libraries)  
