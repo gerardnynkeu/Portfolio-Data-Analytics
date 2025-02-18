@@ -116,6 +116,12 @@ In this step, we analyze the dataset to understand its structure, detect missing
 
 
 
+
+
+![Marketing Sales Analysis](EDA.png) 
+
+
+
 🔗 Pairwise Relationships
 
 In this step, I explore the pairwise relationships between different variables in the dataset to identify correlations and potential patterns. This helps me understand how variables interact with each other before building the regression model.
@@ -130,16 +136,10 @@ By analyzing pairwise relationships, I ensure that I select the most relevant va
 
 
 
-
-
-![Marketing Sales Analysis](EDA.png) 
-
-
-
-I also use visualization techniques such as pairplots to explore relationships between features.
-
-
 ![Marketing Sales Analysis](3.5-Pairwise-Relationships.png) 
+
+
+
 
 ## Step 3: Model Building  
 
