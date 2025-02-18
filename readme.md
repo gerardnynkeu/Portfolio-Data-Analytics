@@ -72,6 +72,19 @@ In this step, we analyze the dataset to understand its structure, detect missing
 
 
 
+## Step 3: Model Building  
+
+The process of creating, training, and validating mathematical or machine learning models to analyze data, make predictions, or solve specific problems. It involves selecting appropriate algorithms, preparing data, and tuning parameters to achieve optimal performance and accuracy.  
+
+- **3.1 Select Relevant Columns** – Choosing the independent and dependent variables for the regression model.  
+- **3.2 Linear Regression Formula** – Defining the regression equation to be fitted to the data.  
+- **3.3 Fit the Model** – Training the linear regression model using `statsmodels`.  
+
+
+
+
+
+
 
         
 
