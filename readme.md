@@ -38,7 +38,20 @@ This dataset contains information on sales performance and marketing expenditure
     Descriptive Statistics:
         Radio: Mean ≈ 18.65, Min ≈ 0.19, Max ≈ 48.87
         Social Media: Mean ≈ 3.25, Min ≈ 0.01, Max ≈ 11.26
-        Sales: Mean ≈ 193.52, Min ≈ 31.20, Max ≈ 358.42
+        Sales: Mean ≈ 193.52, Min ≈ 31.20, Max ≈ 358.42 
+
+
+## Step 1: Imports and Data Loading  
+
+- **1.1 Import Libraries**  
+- **1.2 Load Dataset**
+
+Before working with the dataset, we import necessary Python libraries such as pandas, numpy, seaborn, matplotlib, and statsmodels. 
+The dataset is loaded into a Pandas DataFrame and reviewed for initial exploration.
+
+
+![Marketing Sales Analysis](import-load-data.png) 
+        
 
 
     
