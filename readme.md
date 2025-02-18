@@ -78,7 +78,11 @@ The process of creating, training, and validating mathematical or machine learni
 
 - **3.1 Select Relevant Columns** – Choosing the independent and dependent variables for the regression model.  
 - **3.2 Linear Regression Formula** – Defining the regression equation to be fitted to the data.  
-- **3.3 Fit the Model** – Training the linear regression model using `statsmodels`.  
+- **3.3 Fit the Model** – Training the linear regression model using `statsmodels`.
+
+
+
+![Marketing Sales Analysis](data-analysis-intro.png) 
 
 
 
