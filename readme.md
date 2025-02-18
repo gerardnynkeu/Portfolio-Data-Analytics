@@ -93,6 +93,8 @@ The process of creating, training, and validating mathematical or machine learni
 
 ## Step 4: Results and Evaluation  
 
+In this step, I evaluate the performance of my regression model by analyzing key metrics and visualizations. I check how well the model fits the data, identify potential issues, and ensure its reliability for making predictions. I examine the model summary, key coefficients, and various plots to assess residuals and validate assumptions like normality and homoscedasticity. This step helps me determine if my model is effective or needs further improvements before using it for decision-making. 🚀
+
 - **4.1 Model Summary** – Generating a summary of the fitted model to interpret results.  
 - **4.2 Key Coefficients** – Extracting and analyzing the key coefficients of the regression model.  
 - **4.3 Regression Plot** – Visualizing the regression line and the relationship between variables.  
