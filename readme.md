@@ -35,7 +35,14 @@
 - [Step 5: Conclusion](#step-5-conclusion)  
   - [5.1 Key Takeaways](#51-key-takeaways)  
   - [5.2 Framing Findings for Stakeholders](#52-framing-findings-for-stakeholders)  
-  - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)  
+  - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
+
+- [Step 6:  Key Questions Answered  ](#step-6-Key-Questions-Answered)
+
+  
+ 
+
+
 
 - [Connect with Me](#connect-with-me)  
 
@@ -132,6 +139,8 @@ The process of creating, training, and validating mathematical or machine learni
 
 
 
+
+
 ## Step 4: Results and Evaluation  
 
 In this step, I evaluate the performance of my regression model by analyzing key metrics and visualizations. I check how well the model fits the data, identify potential issues, and ensure its reliability for making predictions. I examine the model summary, key coefficients, and various plots to assess residuals and validate assumptions like normality and homoscedasticity. This step helps me determine if my model is effective or needs further improvements before using it for decision-making. 🚀
@@ -218,6 +227,38 @@ In this step, I evaluate the performance of my regression model by analyzing key
   - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
   - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.
  
+
+
+
+
+ 
+
+
+
+
+
+
+## Step:6 Key Questions Answered  
+
+During the analysis, I addressed several key questions to better understand the dataset and the linear regression model:  
+
+### **1. Exploratory Data Analysis (EDA)**  
+- **Q1:** What do you observe about the different variables included in the data?  
+- **Q2:** What do you observe about the number of rows and columns in the dataset?  
+- **Q3:** What do you observe about the number of rows containing missing values?  
+
+### **2. Model Assumptions and Interpretation**  
+- **Q4:** Is the assumption of linearity met?  
+- **Q5:** What is the y-intercept?  
+- **Q6:** What is the slope?  
+- **Q7:** What is the linear equation expressing the relationship between sales and the radio promotion budget?  
+- **Q8:** What does the slope mean in this context?  
+
+### **3. Regression Results and Evaluation**  
+- **Q9:** What do you observe from the regression plot?  
+- **Q10:** What do you observe about the distribution of the residuals?  
+- **Q11:** Is the assumption of normality met?  
+- **Q12:** Are the assumptions of independent observation and homoscedasticity met?
 
 
 
