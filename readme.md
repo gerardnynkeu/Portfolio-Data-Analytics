@@ -184,12 +184,14 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
-Autor: Gerard Nynkeu
+
 
 ## Connect with Me  
 
-- **GitHub:** [Your GitHub Profile](https://github.com/gerardnynkeu) 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
+Autor: Gerard Nynkeu
+
+- **GitHub:** [My GitHub Profile](https://github.com/gerardnynkeu) 
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
 
 
 
