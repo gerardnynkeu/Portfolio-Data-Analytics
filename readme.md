@@ -178,7 +178,19 @@ In this step, I evaluate the performance of my regression model by analyzing key
   - The **p-value of 0.000** and a **standard error of 0.194** support the validity of this finding.  
   - Specifically, a **1 million dollar increase in radio promotion budget** is associated with an **8.1733 million dollar increase in sales**, on average.  
   - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
-  - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.  
+  - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.
+ 
+
+
+
+
+Autor: Gerard Nynkeu
+
+## Connect with Me  
+
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+
 
 
 
