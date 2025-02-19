@@ -96,6 +96,15 @@ Step 2: Visualizing Missing Data, Removing Rows with Critical Missing Values, Im
 
 
 
+Visualizing Missing Data 
+
+
+![E-commerce-EDA-R](Missing-values-check2.png) 
+
+
+
+
+
 
     📑 4.2 Detecting Duplicates – Checking for duplicate entries that may skew analysis.
     🔢 4.3 Handling Data Types – Ensuring each column has the correct data type for accurate computations.
