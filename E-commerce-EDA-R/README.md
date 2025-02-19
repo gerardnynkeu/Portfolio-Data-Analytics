@@ -226,6 +226,17 @@ Analyzing sales trends over time helps identify patterns, seasonality, and poten
 Customer segmentation involves dividing customers into distinct groups based on shared characteristics such as demographics, purchasing behavior, or order history. This step helps in understanding different customer types and tailoring marketing strategies accordingly.
 
 In this project, i analyze customer segments based on variables like Segment, Region, and Purchase Patterns to identify high-value customers and optimize business decisions. Visualizations such as bar charts and clustering techniques can help uncover meaningful insights into customer behavior.
+
+
+
+
+
+
+| Image 1 | Image 2|
+|-------- |-------  
+| ![E-commerce-EDA-R](custom-segmentation.png) | ![E-commerce-EDA-R](custom-segmentation1.png)
+
+custom-segmentation.png
  
 
 - **7.3 Top-Selling Products** 🏆  
