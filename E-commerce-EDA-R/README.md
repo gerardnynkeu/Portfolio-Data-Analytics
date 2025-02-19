@@ -233,7 +233,7 @@ Effective data visualization helps transform raw data into meaningful insights. 
 
 
 
-  ## 8. Tools & Technologies  
+## 8. Tools & Technologies  
 
 This project was developed and executed using the following tools:  
 
