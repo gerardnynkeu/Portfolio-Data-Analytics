@@ -277,7 +277,7 @@ In this project, i analyze customer segments based on variables like Segment, Re
 
 | Image 1 | Image 2|
 |-------- |-------  
-| ![E-commerce-EDA-R](Discount-vs-Profit-Relationship.png) | ![E-commerce-EDA-R](Discount-vs-Profit-Relationship1.png)
+| ![E-commerce-EDA-R](Discount-vs-Profit-Relationship1.png) | ![E-commerce-EDA-R](Discount-vs-Profit-Relationship.png)
 
   
 
