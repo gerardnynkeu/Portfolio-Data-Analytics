@@ -162,3 +162,15 @@ Overall, the dataset appears well-distributed across categories, ensuring balanc
 This step provides a clear understanding of the dataset, ensuring a solid foundation for analysis and modeling. 🚀
 
 
+
+
+
+
+## 5. Data Cleaning  
+
+- **5.1 Handling Missing Values**  
+- **5.2 Fixing Data Inconsistencies**  
+- **5.3 Removing Duplicates**  
+- **5.4 Correcting Data Types**  
+- **5.5 Handling Outliers**  
+
