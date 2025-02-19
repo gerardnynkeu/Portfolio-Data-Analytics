@@ -180,5 +180,15 @@ Detect and manage extreme values that could skew analysis using methods like the
 - **5.2 Fixing Data Inconsistencies**  
 - **5.3 Removing Duplicates**  
 - **5.4 Correcting Data Types**  
-- **5.5 Handling Outliers**  
+- **5.5 Handling Outliers**
+
+
+
+
+
+Here are all the codes I used to tackle this step 
+
+
+![E-commerce-EDA-R](Data-cleaning.png)  
+
 
