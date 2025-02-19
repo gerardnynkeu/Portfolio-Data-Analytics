@@ -49,5 +49,10 @@ Profit	Profit earned from the order.
     It helps identify regional sales trends and customer behavior.
     Useful for predictive modeling to optimize marketing and logistics strategies.
 
-This structured dataset provides valuable insights for business decision-making and data-driven analysis. 🚀
+This structured dataset provides valuable insights for business decision-making and data-driven analysis. 🚀 
+
+Key Characteristics of the Dataset¶
+✔ Contains missing values, duplicates, and inconsistencies, making it ideal for data cleaning.
+✔ Includes both categorical and numerical data, useful for exploratory data analysis.
+✔ Ideal for data visualization and business insights such as customer segmentation, sales trends, and profitability analysis.
 
