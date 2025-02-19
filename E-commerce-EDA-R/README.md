@@ -2,7 +2,7 @@
 
 
 
-
+![E-commerce-EDA-R](e-commerce-store-intro.png)
 
 
 
