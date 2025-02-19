@@ -86,6 +86,9 @@ Before proceeding with data analysis, I checked and handled missing values to en
 ![E-commerce-EDA-R](Missing-values-check.png) 
 
 
+👉 This helps identify which columns have missing values and how severe the issue is.
+
+
     📑 4.2 Detecting Duplicates – Checking for duplicate entries that may skew analysis.
     🔢 4.3 Handling Data Types – Ensuring each column has the correct data type for accurate computations.
     📊 4.4 Identifying Outliers – Detecting extreme values that might impact model performance.
