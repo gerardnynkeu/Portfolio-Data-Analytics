@@ -70,7 +70,21 @@ Key Characteristics of the Dataset¶
 Before analyzing the dataset, I first loaded it into R, checked for missing values, and handled invalid dates. Below is the step-by-step process with explanations. 
 
 
-R-Code-Loading-and-Cleaning-the-Dataset.png 
 
-![E-commerce-EDA-R](R-Code-Loading-and-Cleaning-the-Dataset.png)
+![E-commerce-EDA-R](R-Code-Loading-and-Cleaning-the-Dataset.png) 
+
+
+
+# 📌 Step 4: Exploratory Data Analysis (EDA)
+
+Before building a model, I performed Exploratory Data Analysis (EDA) to understand the dataset’s structure, identify issues, and prepare it for further analysis. This step includes:
+
+    🔍 4.1 Checking Missing Values – Identifying and handling missing data to ensure data integrity.
+    📑 4.2 Detecting Duplicates – Checking for duplicate entries that may skew analysis.
+    🔢 4.3 Handling Data Types – Ensuring each column has the correct data type for accurate computations.
+    📊 4.4 Identifying Outliers – Detecting extreme values that might impact model performance.
+    📈 4.5 Feature Distribution – Analyzing how different features are distributed to understand patterns in the data.
+
+This step provides a clear understanding of the dataset, ensuring a solid foundation for analysis and modeling. 🚀
+
 
