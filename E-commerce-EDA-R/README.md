@@ -140,6 +140,18 @@ The numbers on top of each category indicate the count of detected outliers, wit
 
 
 
+The bar plots below display the distribution of categorical variables in the dataset:
+
+    Segment: The different customer segments are relatively evenly distributed.
+    Country: Spain has the highest number of transactions, while other countries show a more balanced distribution.
+    Region: The transaction count across regions is quite similar, indicating no strong regional imbalance.
+    Product Category: All categories have nearly equal representation.
+    SubCategory: The subcategories also appear evenly distributed.
+    Payment Method: Different payment methods are used fairly equally, with no dominant preference.
+
+Overall, the dataset appears well-distributed across categories, ensuring balanced representation for analysis.
+
+
 
 ![E-commerce-EDA-R](Barplot-distribution.png)  
 
