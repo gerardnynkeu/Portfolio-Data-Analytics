@@ -199,3 +199,11 @@ Here are all the codes I used to tackle this step
 After completing the data cleaning process, i conduct a final check to ensure data integrity and readiness for analysis. The following steps help us verify the structure, completeness, and uniqueness of the cleaned dataset.
 
 
+
+
+
+![E-commerce-EDA-R](Final-Cleaned-Data.png) 
+
+
+
+
