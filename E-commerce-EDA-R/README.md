@@ -225,7 +225,30 @@ Effective data visualization helps transform raw data into meaningful insights. 
   Compare sales performance across different regions to spot high- and low-performing areas.  
 
 - **7.5 Discount vs. Profit Relationship** 💰  
-  Analyze how discounts impact profitability and identify the optimal discounting strategy.  
+  Analyze how discounts impact profitability and identify the optimal discounting strategy.
+
+
+
+
+
+
+
+  ## 8. Tools & Technologies  
+
+This project was developed and executed using the following tools:  
+
+- **Programming Language:** R  
+- **Platform:** Kaggle Notebooks  
+- **Libraries Used:**  
+  - `tidyverse` – Data manipulation and visualization  
+  - `dplyr` – Data wrangling  
+  - `ggplot2` – Data visualization  
+  - `lubridate` – Date handling  
+  - `stringr` – String manipulation  
+  - `readr` – Reading and writing CSV files  
+
+The project was run entirely on Kaggle, leveraging its cloud-based environment for data analysis and visualization.  
+
 
 
 
