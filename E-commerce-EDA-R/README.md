@@ -99,7 +99,7 @@ Step 2: Visualizing Missing Data, Removing Rows with Critical Missing Values, Im
 Visualizing Missing Data 
 
 
-![E-commerce-EDA-R](E-commerce-EDA-R/Missing-values-check.png) 
+![E-commerce-EDA-R](Missing-values-visualization.png) 
 
 
 
