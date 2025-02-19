@@ -67,5 +67,10 @@ Key Characteristics of the Dataset¶
 
 ## 3. Loading the Dataset and Cleaning the rows
 
-Before analyzing the dataset, I first loaded it into R, checked for missing values, and handled invalid dates. Below is the step-by-step process with explanations.
+Before analyzing the dataset, I first loaded it into R, checked for missing values, and handled invalid dates. Below is the step-by-step process with explanations. 
+
+
+R-Code-Loading-and-Cleaning-the-Dataset.png 
+
+![E-commerce-EDA-R](R-Code-Loading-and-Cleaning-the-Dataset.png)
 
