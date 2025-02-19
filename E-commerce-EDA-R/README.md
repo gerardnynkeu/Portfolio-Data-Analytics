@@ -115,6 +115,13 @@ Here are the fonctions i used to solve Detecting Duplicates, Handling Data Types
 
 
 
+
+![E-commerce-EDA-R](fonctions-used-4.png) 
+
+
+
+
+
 This step provides a clear understanding of the dataset, ensuring a solid foundation for analysis and modeling. 🚀
 
 
