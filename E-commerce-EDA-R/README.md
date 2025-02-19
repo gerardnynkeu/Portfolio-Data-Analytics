@@ -116,7 +116,24 @@ Here are the fonctions i used to solve Detecting Duplicates, Handling Data Types
 
 
 
-![E-commerce-EDA-R](fonctions-used-4.png) 
+![E-commerce-EDA-R](fonctions-used-4.png)  
+
+
+
+
+
+
+
+
+The boxplots below represent the distribution of numerical variables in the dataset, helping to detect outliers.
+
+    Sales: The distribution appears fairly symmetric with no significant outliers.
+    Quantity: Similar to Sales, the data is well distributed without extreme values.
+    Discount: There are outliers, indicating a few transactions with unusually high discounts.
+    Profit: The data is mostly concentrated around lower values, but some high-profit transactions are visible.
+    Shipping Cost: Shows significant outliers, meaning some transactions had exceptionally high shipping costs.
+
+The numbers on top of each category indicate the count of detected outliers, with Discount (1158) and Shipping Cost (1594) being the most affected.
 
 
 
