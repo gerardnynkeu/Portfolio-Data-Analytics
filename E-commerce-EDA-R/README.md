@@ -208,7 +208,7 @@ After completing the data cleaning process, i conduct a final check to ensure da
 
 
 
-## 7. Data Visualization & Insights 
+## 7. Data Visualization & Insights.
 
 Effective data visualization helps transform raw data into meaningful insights. By analyzing sales trends, customer behavior, and product performance, we can uncover patterns that drive business decisions. This section explores key visualizations to better understand sales performance, regional differences, and the impact of discounts on profitability.  
 
