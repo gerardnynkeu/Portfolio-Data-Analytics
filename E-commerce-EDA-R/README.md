@@ -83,7 +83,7 @@ Before building a model, I performed Exploratory Data Analysis (EDA) to understa
 Before proceeding with data analysis, I checked and handled missing values to ensure the dataset's completeness and reliability. Here’s how I approached it:
 🔍 Step 1: Checking for Missing Values
 
-![E-commerce-EDA-R](R-Code-Loading-and-Cleaning-the-Dataset.png) 
+![E-commerce-EDA-R](Missing-values-check.png) 
 
 
     📑 4.2 Detecting Duplicates – Checking for duplicate entries that may skew analysis.
