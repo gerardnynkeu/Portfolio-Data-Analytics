@@ -256,7 +256,17 @@ In this project, i analyze customer segments based on variables like Segment, Re
 
 
 - **7.4 Regional Sales Analysis** 🌍  
-  Compare sales performance across different regions to spot high- and low-performing areas.  
+  Compare sales performance across different regions to spot high- and low-performing areas.
+
+
+
+
+
+
+| Image 1 | Image 2|
+|-------- |-------  
+| ![E-commerce-EDA-R](Regional-Sales-Analysis.png) | ![E-commerce-EDA-R](Regional-Sales-Analysis1.png)
+  
 
 - **7.5 Discount vs. Profit Relationship** 💰  
   Analyze how discounts impact profitability and identify the optimal discounting strategy.
