@@ -192,3 +192,8 @@ Here are all the codes I used to tackle this step
 ![E-commerce-EDA-R](Data-cleaning.png)  
 
 
+
+
+# 6. Final Cleaned Data Overview
+
+
