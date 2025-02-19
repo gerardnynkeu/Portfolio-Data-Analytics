@@ -236,11 +236,24 @@ In this project, i analyze customer segments based on variables like Segment, Re
 |-------- |-------  
 | ![E-commerce-EDA-R](custom-segmentation.png) | ![E-commerce-EDA-R](custom-segmentation1.png)
 
-custom-segmentation.png
+
  
 
 - **7.3 Top-Selling Products** 🏆  
-  Identify the best-performing products based on sales volume and revenue.  
+  Identify the best-performing products based on sales volume and revenue.
+  
+
+
+
+
+| Image 1 | Image 2|
+|-------- |-------  
+| ![E-commerce-EDA-R](Top-selling-products.png) | ![E-commerce-EDA-R](Top-selling-products1.png) 
+
+
+
+
+
 
 - **7.4 Regional Sales Analysis** 🌍  
   Compare sales performance across different regions to spot high- and low-performing areas.  
