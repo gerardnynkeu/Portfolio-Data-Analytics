@@ -134,7 +134,16 @@ The boxplots below represent the distribution of numerical variables in the data
     Shipping Cost: Shows significant outliers, meaning some transactions had exceptionally high shipping costs. 
 The numbers on top of each category indicate the count of detected outliers, with Discount (1158) and Shipping Cost (1594) being the most affected.
 
-![E-commerce-EDA-R](outliers-count.png) 
+![E-commerce-EDA-R](outliers-count.png)  
+
+
+
+
+
+
+![E-commerce-EDA-R](Barplot-distribution.png)  
+
+
 
 
 
