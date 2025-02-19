@@ -109,7 +109,11 @@ Visualizing Missing Data
     📑 4.2 Detecting Duplicates – Checking for duplicate entries that may skew analysis.
     🔢 4.3 Handling Data Types – Ensuring each column has the correct data type for accurate computations.
     📊 4.4 Identifying Outliers – Detecting extreme values that might impact model performance.
-    📈 4.5 Feature Distribution – Analyzing how different features are distributed to understand patterns in the data.
+    📈 4.5 Feature Distribution – Analyzing how different features are distributed to understand patterns in the data. 
+
+Here are the fonctions i used to solve Detecting Duplicates, Handling Data Types, Identifying Outliers, Feature Distribution 
+
+
 
 This step provides a clear understanding of the dataset, ensuring a solid foundation for analysis and modeling. 🚀
 
