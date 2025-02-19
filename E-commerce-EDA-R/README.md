@@ -207,3 +207,27 @@ After completing the data cleaning process, i conduct a final check to ensure da
 
 
 
+
+## 7. Data Visualization & Insights 
+
+Effective data visualization helps transform raw data into meaningful insights. By analyzing sales trends, customer behavior, and product performance, we can uncover patterns that drive business decisions. This section explores key visualizations to better understand sales performance, regional differences, and the impact of discounts on profitability.  
+
+- **7.1 Sales Trends Over Time** 📈  
+  Analyze sales performance over different time periods to identify trends and seasonality.  
+
+- **7.2 Customer Segmentation** 🎯  
+  Group customers based on purchasing behavior, demographics, or other relevant factors.  
+
+- **7.3 Top-Selling Products** 🏆  
+  Identify the best-performing products based on sales volume and revenue.  
+
+- **7.4 Regional Sales Analysis** 🌍  
+  Compare sales performance across different regions to spot high- and low-performing areas.  
+
+- **7.5 Discount vs. Profit Relationship** 💰  
+  Analyze how discounts impact profitability and identify the optimal discounting strategy.  
+
+
+
+
+
