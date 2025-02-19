@@ -168,6 +168,14 @@ This step provides a clear understanding of the dataset, ensuring a solid founda
 
 ## 5. Data Cleaning  
 
+Data cleaning is a crucial step in preparing the dataset for analysis. This process ensures that the data is accurate, consistent, and free from errors that could affect the results. Below are the key steps involved:  
+Identify and address missing data by either imputing values, replacing them with meaningful defaults, or removing incomplete records.  
+Detect and correct inconsistencies in categorical values, such as misspellings or different formats of the same data entry. 
+Identify and eliminate duplicate records to avoid data redundancy and ensure accuracy in analysis.  
+Convert columns to their appropriate data types, such as transforming date fields into date format and categorical values into factors.  
+Detect and manage extreme values that could skew analysis using methods like the interquartile range (IQR) or z-score filtering.  
+
+
 - **5.1 Handling Missing Values**  
 - **5.2 Fixing Data Inconsistencies**  
 - **5.3 Removing Duplicates**  
