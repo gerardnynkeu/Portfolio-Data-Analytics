@@ -65,5 +65,7 @@ Key Characteristics of the Dataset¶
 ✔ Ideal for data visualization and business insights such as customer segmentation, sales trends, and profitability analysis. 
 
 
-## 3. loading the dataset
+## 3. Loading the Dataset and Cleaning the rows
+
+Before analyzing the dataset, I first loaded it into R, checked for missing values, and handled invalid dates. Below is the step-by-step process with explanations.
 
