@@ -219,7 +219,7 @@ Analyzing sales trends over time helps identify patterns, seasonality, and poten
 
 | Image 1 | Image 2 |
 |---------|---------|
-| ![E-commerce-EDA-R](image1.png) | ![E-commerce-EDA-R](image2.png) |
+| ![E-commerce-EDA-R](plot-sales-trend-overtime.png) | ![E-commerce-EDA-R](sales-trend-overtime)
 
 
 - **7.2 Customer Segmentation** 🎯  
