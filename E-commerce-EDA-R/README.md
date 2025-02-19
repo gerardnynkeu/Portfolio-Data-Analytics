@@ -213,7 +213,14 @@ After completing the data cleaning process, i conduct a final check to ensure da
 Effective data visualization helps transform raw data into meaningful insights. By analyzing sales trends, customer behavior, and product performance, we can uncover patterns that drive business decisions. This section explores key visualizations to better understand sales performance, regional differences, and the impact of discounts on profitability.  
 
 - **7.1 Sales Trends Over Time** 📈  
-Analyzing sales trends over time helps identify patterns, seasonality, and potential growth opportunities. By visualizing sales data across different time periods (daily, monthly, yearly), we can uncover fluctuations in revenue, peak sales periods, and trends that impact business performance. This insight is crucial for making data-driven decisions on inventory, marketing strategies, and sales forecasting.  
+Analyzing sales trends over time helps identify patterns, seasonality, and potential growth opportunities. By visualizing sales data across different time periods (daily, monthly, yearly), we can uncover fluctuations in revenue, peak sales periods, and trends that impact business performance. This insight is crucial for making data-driven decisions on inventory, marketing strategies, and sales forecasting.
+
+
+
+| Image 1 | Image 2 |
+|---------|---------|
+| ![E-commerce-EDA-R](image1.png) | ![E-commerce-EDA-R](image2.png) |
+
 
 - **7.2 Customer Segmentation** 🎯  
  
