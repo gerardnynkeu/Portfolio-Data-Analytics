@@ -222,7 +222,10 @@ Analyzing sales trends over time helps identify patterns, seasonality, and poten
 | ![E-commerce-EDA-R](plot-sales-trend-overtime.png) | ![E-commerce-EDA-R](sales-trend-overtime.png)
 
 
-- **7.2 Customer Segmentation** 🎯  
+- **7.2 Customer Segmentation** 🎯
+Customer segmentation involves dividing customers into distinct groups based on shared characteristics such as demographics, purchasing behavior, or order history. This step helps in understanding different customer types and tailoring marketing strategies accordingly.
+
+In this project, i analyze customer segments based on variables like Segment, Region, and Purchase Patterns to identify high-value customers and optimize business decisions. Visualizations such as bar charts and clustering techniques can help uncover meaningful insights into customer behavior.
  
 
 - **7.3 Top-Selling Products** 🏆  
