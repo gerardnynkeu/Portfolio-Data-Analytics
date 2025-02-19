@@ -62,5 +62,8 @@ This structured dataset provides valuable insights for business decision-making 
 Key Characteristics of the Dataset¶
 ✔ Contains missing values, duplicates, and inconsistencies, making it ideal for data cleaning.
 ✔ Includes both categorical and numerical data, useful for exploratory data analysis.
-✔ Ideal for data visualization and business insights such as customer segmentation, sales trends, and profitability analysis.
+✔ Ideal for data visualization and business insights such as customer segmentation, sales trends, and profitability analysis. 
+
+
+## 3. loading the dataset
 
