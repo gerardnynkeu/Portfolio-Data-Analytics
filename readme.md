@@ -368,6 +368,9 @@ By examining this plot, I ensure that my model is not biased and that the linear
 
 
 
+
+
+
 ## Step:5 Key Questions Answered  
 
 During the analysis, I addressed several key questions to better understand the dataset and the linear regression model:  
@@ -415,6 +418,10 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
+
+
+
+
 ## Step 6: Conclusion  
 
 - **5.1 Key Takeaways**  
@@ -444,6 +451,8 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
   - Specifically, a **1 million dollar increase in radio promotion budget** is associated with an **8.1733 million dollar increase in sales**, on average.  
   - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
   - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.
+
+    
  
   
  
@@ -472,15 +481,10 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 - Pandas (for handling missing values & transformations)
 
 ### Notebook Environment:
-- Jupyter Notebook 📓
-- Google Colab (if working in the cloud) ☁️
+- Jupyter Notebook 📓 of Kaggle
 
-### Version Control:
-- Git & GitHub 📝
 
-### Deployment (if needed):
-- Streamlit 🚀 (for building interactive dashboards)
-- Flask/Django (for API development)
+
 
 
 
@@ -505,6 +509,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 6. **Small Sample Size**  
    - With only 572 data points, the model might not generalize well to real-world scenarios with larger datasets.
+   - 
   
 
 
@@ -528,10 +533,6 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 5. **Statsmodels Documentation** - Statistical modeling & regression analysis  
    - [https://www.statsmodels.org/stable/index.html](https://www.statsmodels.org/stable/index.html)  
-
-6. **Marketing Analytics Concepts**  
-   - "Marketing Analytics: Data-Driven Techniques with Microsoft Excel" by Wayne L. Winston  
-   - "Marketing Data Science" by Thomas W. Miller  
 
 7. **Kaggle Datasets & Competitions** - Explore similar datasets  
    - [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)  
