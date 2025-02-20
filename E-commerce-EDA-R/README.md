@@ -14,7 +14,7 @@
 - [2. Data Overview](#2-data-overview)  
 - [3. Loading the Dataset](#3-loading-the-dataset)  
 - [4. Exploratory Data Analysis (EDA)](#4-exploratory-data-analysis-eda)  
-  - [4.1 Checking Missing Values](#41-checking-missing-values)  
+  - [4.1 Checking Missing Values] 
   - [4.2 Detecting Duplicates](#42-detecting-duplicates)  
   - [4.3 Handling Data Types](#43-handling-data-types)  
   - [4.4 Identifying Outliers](#44-identifying-outliers)  
