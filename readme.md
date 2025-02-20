@@ -465,7 +465,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
  
 
 
-## Step 7 Tools & Technologies
+## Step 7 Tools and Technologies
 
 ### Programming Language:
 - Python 🐍
