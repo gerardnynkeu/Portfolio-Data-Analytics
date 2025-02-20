@@ -27,11 +27,11 @@
   - [5.5 Handling Outliers]  
 - [6. Final Cleaned Data Overview](#6-final-cleaned-data-overview)  
 - [7. Data Visualization & Insights](#7-data-visualization--insights)  
-  - [7.1 Sales Trends Over Time](#71-sales-trends-over-time)  
-  - [7.2 Customer Segmentation](#72-customer-segmentation)  
-  - [7.3 Top-Selling Products](#73-top-selling-products)  
-  - [7.4 Regional Sales Analysis](#74-regional-sales-analysis)  
-  - [7.5 Discount vs Profit Relationship](#75-discount-vs-profit-relationship)  
+  - [7.1 Sales Trends Over Time]  
+  - [7.2 Customer Segmentation]  
+  - [7.3 Top-Selling Products]  
+  - [7.4 Regional Sales Analysis] 
+  - [7.5 Discount vs Profit Relationship] 
 - [8. Tools & Technologies](#8-tools--technologies)  
 - [9. References](#9-references)  
 - [10. Addressing Data Limitations](#10-addressing-data-limitations)  
