@@ -20,11 +20,11 @@
   - [4.4 Identifying Outliers] 
   - [4.5 Feature Distribution] 
 - [5. Data Cleaning](#5-data-cleaning)  
-  - [5.1 Handling Missing Values](#51-handling-missing-values)  
-  - [5.2 Fixing Data Inconsistencies](#52-fixing-data-inconsistencies)  
-  - [5.3 Removing Duplicates](#53-removing-duplicates)  
-  - [5.4 Correcting Data Types](#54-correcting-data-types)  
-  - [5.5 Handling Outliers](#55-handling-outliers)  
+  - [5.1 Handling Missing Values] 
+  - [5.2 Fixing Data Inconsistencies]  
+  - [5.3 Removing Duplicates] 
+  - [5.4 Correcting Data Types] 
+  - [5.5 Handling Outliers]  
 - [6. Final Cleaned Data Overview](#6-final-cleaned-data-overview)  
 - [7. Data Visualization & Insights](#7-data-visualization--insights)  
   - [7.1 Sales Trends Over Time](#71-sales-trends-over-time)  
