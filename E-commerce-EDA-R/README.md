@@ -371,7 +371,7 @@ A collection of examples for visualizations in R, including bar plots, line char
 
 
 
-## Addressing Data Limitations
+## 10. Addressing Data Limitations
 
 All identified limitations in the dataset have been thoroughly addressed through data cleaning and preprocessing. The key improvements include:
 
@@ -401,7 +401,7 @@ With these steps, the dataset is now clean, reliable, and ready for accurate ana
 
 
 
-## 9. 📊 Conclusion
+## 11. 📊 Conclusion
 
 The e-commerce data analysis has uncovered several critical insights that can drive strategic decision-making:
 
