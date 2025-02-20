@@ -326,7 +326,9 @@ In this project, i analyze customer segments based on variables like Segment, Re
 
 This project was developed and executed using the following tools:  
 
-- **Programming Language:** R  
+- **Programming Language:** R
+- Kaggle – Cloud-based environment for running R scripts
+- GitHub – Version control and project documentation
 - **Platform:** Kaggle Notebooks  
 - **Libraries Used:**  
   - `tidyverse` – Data manipulation and visualization  
@@ -344,7 +346,28 @@ The project was run entirely on Kaggle, leveraging its cloud-based environment f
 - [Download the dataset](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/E-commerce-EDA-R/dirty_ecommerce_data..csv)  
 - [ggplot2 R Package Documentation](https://ggplot2.tidyverse.org/)  
 - [Tableau Official Guide](https://www.tableau.com/learn/training)  
-- [Handling Missing Data in R - Blog Post](https://r-bloggers.com/handling-missing-data)  
+- [Handling Missing Data in R - Blog Post](https://r-bloggers.com/handling-missing-data)
+
+
+## R Cheat Sheets & Quick References
+
+### 📄 [RStudio Cheat Sheets](https://posit.co/resources/cheatsheets/)
+Quick reference guides for key R packages, including:
+- [ggplot2 Cheat Sheet](https://posit.co/resources/cheatsheets/)
+- [dplyr Cheat Sheet](https://posit.co/resources/cheatsheets/)
+- [Shiny Cheat Sheet](https://posit.co/resources/cheatsheets/)
+- [R Markdown Cheat Sheet](https://posit.co/resources/cheatsheets/)
+- [Tidyr Cheat Sheet](https://posit.co/resources/cheatsheets/)
+  
+
+### 📑 [R Graph Gallery](https://www.r-graph-gallery.com/)
+A collection of examples for visualizations in R, including bar plots, line charts, scatter plots, and more. This is a great resource for inspiration and learning how to build various types of visualizations in R.
+
+- **Examples:**  
+  - [Basic ggplot2 Example](https://www.r-graph-gallery.com/basic-ggplot2-plots/)
+  - [Interactive Graphs with Plotly](https://www.r-graph-gallery.com/interactive-graphs-with-plotly/)
+  - [Maps in R](https://www.r-graph-gallery.com/maps/)
+
 
 
 
