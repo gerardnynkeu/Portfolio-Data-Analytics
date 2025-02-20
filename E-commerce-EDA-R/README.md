@@ -321,6 +321,15 @@ This project was developed and executed using the following tools:
 The project was run entirely on Kaggle, leveraging its cloud-based environment for data analysis and visualization.  
 
 
+## 9. References  
+
+- [Superstore Dataset on Kaggle](https://www.kaggle.com/)  
+- [ggplot2 R Package Documentation](https://ggplot2.tidyverse.org/)  
+- [Tableau Official Guide](https://www.tableau.com/learn/training)  
+- [Handling Missing Data in R - Blog Post](https://r-bloggers.com/handling-missing-data)  
+
+
+
 
 
 
