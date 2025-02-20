@@ -367,6 +367,38 @@ A collection of examples for visualizations in R, including bar plots, line char
   - [Basic ggplot2 Example](https://www.r-graph-gallery.com/basic-ggplot2-plots/)
   - [Interactive Graphs with Plotly](https://www.r-graph-gallery.com/interactive-graphs-with-plotly/)
   - [Maps in R](https://www.r-graph-gallery.com/maps/)
+ 
+
+
+
+## Addressing Data Limitations
+
+All identified limitations in the dataset have been thoroughly addressed through data cleaning and preprocessing. The key improvements include:
+
+1. **Missing Data Handled**:  
+   - Columns with excessive missing values were removed.  
+   - Missing numerical values were imputed using the median, while categorical values were filled with the most frequent category (mode).  
+
+2. **Inconsistent Data Standardized**:  
+   - Text inconsistencies (e.g., `Electrnics` vs. `Electronics`) were corrected using string matching and normalization.  
+   - Leading/trailing spaces in categorical fields were trimmed.  
+
+3. **Incorrect Data Entries Fixed**:  
+   - Invalid country, city, and state values were corrected or removed.  
+   - Unrealistic values such as `InvalidCity` and `Undefined` were replaced with appropriate values or marked as unknown.  
+
+4. **Outliers Treated**:  
+   - Outliers in `Sales`, `Discount`, and `Profit` were detected using the IQR method and adjusted accordingly.  
+
+5. **Incorrect Ratings Corrected**:  
+   - Negative or out-of-range customer ratings were removed or adjusted to a valid range.  
+
+6. **Discount Logic Fixed**:  
+   - Discounts exceeding 100% were capped at a logical maximum to ensure data integrity.  
+
+With these steps, the dataset is now clean, reliable, and ready for accurate analysis and visualization. 🚀  
+
+
 
 
 
