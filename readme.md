@@ -30,14 +30,23 @@
   - [4.3 Regression Plot](#43-regression-plot)  
   - [4.4 Residual Distribution](#44-residual-distribution)  
   - [4.5 Q-Q Plot for Normality](#45-q-q-plot-for-normality)  
-  - [4.6 Scatterplot of Residuals](#46-scatterplot-of-residuals)  
+  - [4.6 Scatterplot of Residuals](#46-scatterplot-of-residuals)
+  
+ - [Step 5:Key Questions Answered](#step-5-Key-Questions-Answered)
 
-- [Step 5: Conclusion](#step-5-conclusion)  
+- [Step 6: Conclusion](#step-6-conclusion)  
   - [5.1 Key Takeaways](#51-key-takeaways)  
   - [5.2 Framing Findings for Stakeholders](#52-framing-findings-for-stakeholders)  
   - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
  
-- [Step 6:Key Questions Answered](#step-6-Key-Questions-Answered)
+- [Step 7: Tools & Technologies](#step-7-Tools-&-Technologies)
+
+
+- [Step 8: Limitations](#step-8-Tools-Limitations)
+
+- [Step 9: References](#step-9-References)
+
+- [Step 10: Connect with Me](#step-10-Connect-with-Me)
 
 
 
@@ -542,7 +551,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
-## Connect with Me  
+## Step:10: Connect with Me  
 
 Autor: Gerard Nynkeu
 
