@@ -435,7 +435,7 @@ With these steps, the dataset is now clean, reliable, and ready for accurate ana
 
 
 
-## 11. 📊 Conclusion
+## 11. Conclusion
 
 The e-commerce data analysis has uncovered several critical insights that can drive strategic decision-making:
 
@@ -464,7 +464,7 @@ These insights provide valuable direction for data-driven decision-making, allow
 
 
 
-## 12. 📬 Contact  
+## 12. Contact  
 
 If you have any questions or would like to collaborate, feel free to reach out to me:  
 
