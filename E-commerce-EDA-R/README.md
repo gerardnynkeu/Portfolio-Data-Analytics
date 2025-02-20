@@ -469,8 +469,8 @@ These insights provide valuable direction for data-driven decision-making, allow
 If you have any questions or would like to collaborate, feel free to reach out to me:  
 
 📧 **Email:** [your.email@example.com](gerardnynkeu@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-📂 **Portfolio:** [yourwebsite.com](https://github.com/gerardnynkeu/Portfolio-Data-Analytics))  
+💼 **LinkedIn:** [linkedin.com/in/myprofile](https://www.linkedin.com/in/yourprofile)  
+📂 **Portfolio:** [mywebsite.com](https://github.com/gerardnynkeu/Portfolio-Data-Analytics))  
 
 
 
