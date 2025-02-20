@@ -467,7 +467,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
  
 
 
-## 7. Tools & Technologies
+## Step 7 Tools & Technologies
 
 ### Programming Language:
 - Python 🐍
@@ -498,7 +498,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
-## 8. Limitations
+## Step 8 Limitations
 
 1. **Data Quality Issues**  
    - Some missing values in the dataset (e.g., "TV" and "Sales" have 571 non-null values instead of 572).  
@@ -525,7 +525,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
-## 9. References
+## Step 9 References
 
 1. **Pandas Documentation** - Data manipulation and analysis  
    - [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)  
@@ -551,7 +551,7 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
-## Step:10: Connect with Me  
+## Step 10 Connect with Me  
 
 Autor: Gerard Nynkeu
 
