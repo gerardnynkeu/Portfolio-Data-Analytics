@@ -470,7 +470,8 @@ If you have any questions or would like to collaborate, feel free to reach out t
 
 📧 **Email:** gerardnynkeu@gmail.com  
 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/yourprofile)  
-📂 **Portfolio:** [Github](https://github.com/gerardnynkeu/Portfolio-Data-Analytics))  
+📂 **Portfolio:** [Github](https://github.com/gerardnynkeu/Portfolio-Data-Analytics)
+Kaggle: [my Kaggle profile]((https://www.kaggle.com/nynkeugerard)
 
 
 
