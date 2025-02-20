@@ -368,53 +368,7 @@ By examining this plot, I ensure that my model is not biased and that the linear
 
 
 
-
-
-
-## Step 5: Conclusion  
-
-- **5.1 Key Takeaways**  
-  - Data visualizations and exploratory data analysis are essential tools for determining whether linear regression is an appropriate method for modeling the relationship between two variables.  
-  - A linear regression model provides insights into the relationship between two variables, allowing it to be expressed quantitatively.  
-
-- **5.2 Framing Findings for Stakeholders**  
-  - In the simple linear regression model:  
-    - **Y-intercept:** 41.5326  
-    - **Slope:** 8.1733  
-  - Interpretation:  
-    - A company that increases its radio promotion budget by **1 million dollars** could experience an **average sales increase of 8.1733 million dollars**.  
-    - Companies spending **1 million dollars more** on radio promotions tend to generate **8.1733 million dollars more** in sales on average.  
-  - **Statistical Significance:**  
-    - The **p-value is 0.000**, which is much smaller than the common significance threshold of **0.05**.  
-    - This indicates a **very low probability** that the observed results are due to random chance.  
-  - **Hypothesis Testing:**  
-    - **Null Hypothesis (H₀):** No relationship between radio promotion budget and sales (slope = 0).  
-    - **Alternative Hypothesis (H₁):** A relationship exists (slope ≠ 0).  
-    - The analysis allows us to **reject the null hypothesis**, confirming a relationship between radio promotion budget and sales.  
-  - **Confidence Interval:**  
-    - The **95% confidence interval** for the slope ranges from **7.791 to 8.555**, meaning there is a 95% probability that the true slope falls within this range.  
-
-- **5.3 Framing the Findings for External Stakeholders**  
-  - The analysis shows a **significant relationship** between **radio promotion budget and sales**.  
-  - The **p-value of 0.000** and a **standard error of 0.194** support the validity of this finding.  
-  - Specifically, a **1 million dollar increase in radio promotion budget** is associated with an **8.1733 million dollar increase in sales**, on average.  
-  - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
-  - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.
- 
-  
- 
-
-
-
-
- 
-
-
-
-
-
-
-## Step:6 Key Questions Answered  
+## Step:5 Key Questions Answered  
 
 During the analysis, I addressed several key questions to better understand the dataset and the linear regression model:  
 
@@ -461,6 +415,127 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
+## Step 6: Conclusion  
+
+- **5.1 Key Takeaways**  
+  - Data visualizations and exploratory data analysis are essential tools for determining whether linear regression is an appropriate method for modeling the relationship between two variables.  
+  - A linear regression model provides insights into the relationship between two variables, allowing it to be expressed quantitatively.  
+
+- **5.2 Framing Findings for Stakeholders**  
+  - In the simple linear regression model:  
+    - **Y-intercept:** 41.5326  
+    - **Slope:** 8.1733  
+  - Interpretation:  
+    - A company that increases its radio promotion budget by **1 million dollars** could experience an **average sales increase of 8.1733 million dollars**.  
+    - Companies spending **1 million dollars more** on radio promotions tend to generate **8.1733 million dollars more** in sales on average.  
+  - **Statistical Significance:**  
+    - The **p-value is 0.000**, which is much smaller than the common significance threshold of **0.05**.  
+    - This indicates a **very low probability** that the observed results are due to random chance.  
+  - **Hypothesis Testing:**  
+    - **Null Hypothesis (H₀):** No relationship between radio promotion budget and sales (slope = 0).  
+    - **Alternative Hypothesis (H₁):** A relationship exists (slope ≠ 0).  
+    - The analysis allows us to **reject the null hypothesis**, confirming a relationship between radio promotion budget and sales.  
+  - **Confidence Interval:**  
+    - The **95% confidence interval** for the slope ranges from **7.791 to 8.555**, meaning there is a 95% probability that the true slope falls within this range.  
+
+- **5.3 Framing the Findings for External Stakeholders**  
+  - The analysis shows a **significant relationship** between **radio promotion budget and sales**.  
+  - The **p-value of 0.000** and a **standard error of 0.194** support the validity of this finding.  
+  - Specifically, a **1 million dollar increase in radio promotion budget** is associated with an **8.1733 million dollar increase in sales**, on average.  
+  - These findings suggest that **investing in radio promotions can be an effective strategy for boosting sales**.  
+  - However, **further analysis is recommended** to explore this relationship in different contexts, such as across industries or different product types.
+ 
+  
+ 
+
+
+## 7. Tools & Technologies
+
+### Programming Language:
+- Python 🐍
+
+### Data Manipulation & Analysis:
+- Pandas 📊
+- NumPy 🔢
+
+### Data Visualization:
+- Matplotlib 📈
+- Seaborn 🎨
+- Plotly 📊 (optional for interactive plots)
+
+### Machine Learning (if applicable):
+- Scikit-learn 🤖
+- Statsmodels 📊 (for regression analysis)
+
+### Data Preprocessing:
+- Scikit-learn (for scaling & encoding)
+- Pandas (for handling missing values & transformations)
+
+### Notebook Environment:
+- Jupyter Notebook 📓
+- Google Colab (if working in the cloud) ☁️
+
+### Version Control:
+- Git & GitHub 📝
+
+### Deployment (if needed):
+- Streamlit 🚀 (for building interactive dashboards)
+- Flask/Django (for API development)
+
+
+
+
+## 8. Limitations
+
+1. **Data Quality Issues**  
+   - Some missing values in the dataset (e.g., "TV" and "Sales" have 571 non-null values instead of 572).  
+   - "TV" and "Influencer" are categorical but stored as objects, which may require preprocessing.
+
+2. **Limited Feature Set**  
+   - The dataset includes only a few marketing channels. Other factors like seasonality, competitor activities, or economic conditions are not considered.  
+
+3. **Correlation vs Causation**  
+   - Regression analysis can identify relationships but does not prove causality. External factors might influence sales.  
+
+4. **Categorical Variable Encoding**  
+   - "TV" and "Influencer" categories might require proper encoding (e.g., one-hot encoding, ordinal encoding) for better model performance.  
+
+5. **Potential Non-Linearity**  
+   - A simple linear regression model may not capture complex interactions between marketing channels. Advanced techniques (e.g., polynomial regression, decision trees) might improve predictions.  
+
+6. **Small Sample Size**  
+   - With only 572 data points, the model might not generalize well to real-world scenarios with larger datasets.
+  
+
+
+
+
+
+## 9. References
+
+1. **Pandas Documentation** - Data manipulation and analysis  
+   - [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)  
+
+2. **NumPy Documentation** - Numerical computing  
+   - [https://numpy.org/doc/](https://numpy.org/doc/)  
+
+3. **Matplotlib & Seaborn Documentation** - Data visualization  
+   - Matplotlib: [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)  
+   - Seaborn: [https://seaborn.pydata.org/](https://seaborn.pydata.org/)  
+
+4. **Scikit-learn Documentation** - Machine learning & regression  
+   - [https://scikit-learn.org/stable/documentation.html](https://scikit-learn.org/stable/documentation.html)  
+
+5. **Statsmodels Documentation** - Statistical modeling & regression analysis  
+   - [https://www.statsmodels.org/stable/index.html](https://www.statsmodels.org/stable/index.html)  
+
+6. **Marketing Analytics Concepts**  
+   - "Marketing Analytics: Data-Driven Techniques with Microsoft Excel" by Wayne L. Winston  
+   - "Marketing Data Science" by Thomas W. Miller  
+
+7. **Kaggle Datasets & Competitions** - Explore similar datasets  
+   - [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)  
+   - [https://www.kaggle.com/competitions](https://www.kaggle.com/competitions)  
 
 
 
