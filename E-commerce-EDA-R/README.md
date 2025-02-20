@@ -8,18 +8,24 @@
 
 ## 1. Introduction 
 
-In this project, we will perform data cleaning and exploratory data analysis (EDA) on a dirty e-commerce dataset. The dataset simulates real-world business data, containing errors, missing values, duplicates, and inconsistencies that are common in raw data collected from various sources.
-
-The goal of this project is to apply data wrangling techniques using R to transform the messy dataset into a structured and analyzable format. This will involve:
-
-Handling missing values and duplicates Correcting invalid or inconsistent data entries Converting data types appropriately Identifying outliers and anomalies Performing exploratory data analysis to extract insights By the end of this project, we will have a clean dataset ready for further business analysis and visualization. 
+This project focuses on cleaning and analyzing an AI-generated e-commerce dataset using R. The dataset simulates real-world transactional data, including order details, customer segmentation, product categories, and financial metrics such as sales, discounts, profit, and shipping costs. The goal is to detect and fix data quality issues, transform the data for analysis, and extract meaningful business insights.
 
 
 ## 2. Data Overview 
 
-This dataset contains 9,000+ rows and 20+ columns, providing detailed information on customer transactions, including order details, customer demographics, sales data, and shipping information. Below is a description of each feature:
+This dataset contains 10,000 rows and 22 columns, providing detailed information on customer transactions, including order details, customer demographics, sales data, and shipping information. 
 
-📂 Feature Description
+This dataset contains inconsistencies, missing values, and incorrect data types, making it an ideal case for data cleaning. The following steps were performed:
+✔ Handling Missing Values – Imputed missing numerical data with the median and categorical data with the mode.
+✔ Fixing Data Inconsistencies – Standardized text formatting (e.g., country and product names).
+✔ Removing Duplicates – Identified and removed duplicate entries.
+✔ Correcting Data Types – Converted columns to appropriate formats (dates, numeric, categorical).
+✔ Handling Outliers – Detected extreme values using IQR and replaced them with the median.
+
+Below is a description of each feature:
+
+📂 Feature Description 
+
 Column Name	Description
 Order ID	Unique identifier for each order.
 Order Date	Date when the order was placed.
@@ -40,7 +46,19 @@ Product Name	Name of the product.
 Sales	Total sales amount for the order.
 Quantity	Number of items ordered.
 Discount	Discount applied to the order.
-Profit	Profit earned from the order.
+Profit	Profit earned from the order. 
+
+
+📊 Data Analysis & Insights
+
+After cleaning, the dataset was used for exploratory data analysis (EDA) to uncover business insights:
+
+    📈 Sales Trends Over Time – Identified seasonal patterns and peak sales periods.
+    👥 Customer Segmentation – Analyzed customer groups to optimize marketing strategies.
+    🏆 Top-Selling Products – Ranked products based on sales and profitability.
+    🌍 Regional Sales Performance – Compared sales across different regions.
+    💰 Discount vs. Profit Relationship – Evaluated how discounts impact profitability. 
+    
 
 
 
@@ -323,7 +341,7 @@ The project was run entirely on Kaggle, leveraging its cloud-based environment f
 
 ## 9. References  
 
-- [Superstore Dataset on Kaggle](https://www.kaggle.com/)  
+- [Download the dataset](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/E-commerce-EDA-R/dirty_ecommerce_data..csv)  
 - [ggplot2 R Package Documentation](https://ggplot2.tidyverse.org/)  
 - [Tableau Official Guide](https://www.tableau.com/learn/training)  
 - [Handling Missing Data in R - Blog Post](https://r-bloggers.com/handling-missing-data)  
