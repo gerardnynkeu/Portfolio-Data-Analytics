@@ -9,43 +9,33 @@
 - [ Dataset Description](#Dataset-Description)
 - [  Dataset Overview](#Dataset-Overview)
 - [Step 1: Imports and Data Loading](#step-1-imports-and-data-loading)  
-  - [1.1 Import Libraries](#11-import-libraries)  
-  - [1.2 Load Dataset](#12-load-dataset)  
-
+  - [1.1 Import Libraries] 
+  - [1.2 Load Dataset] 
 - [Step 2: Data Exploration](#step-2-data-exploration)  
-  - [2.1 Display First 10 Rows](#21-display-first-10-rows)  
-  - [2.2 Dataset Dimensions](#22-dataset-dimensions)  
-  - [2.3 Check Missing Values](#23-check-missing-values)  
-  - [2.4 Handle Missing Values](#24-handle-missing-values)  
-  - [2.5 Pairwise Relationships](#25-pairwise-relationships)  
-
+  - [2.1 Display First 10 Rows] 
+  - [2.2 Dataset Dimensions] 
+  - [2.3 Check Missing Values] 
+  - [2.4 Handle Missing Values]  
+  - [2.5 Pairwise Relationships]  
 - [Step 3: Model Building](#step-3-model-building)  
-  - [3.1 Select Relevant Columns](#31-select-relevant-columns)  
-  - [3.2 Linear Regression Formula](#32-linear-regression-formula)  
-  - [3.3 Fit the Model](#33-fit-the-model)  
-
+  - [3.1 Select Relevant Columns]
+  - [3.2 Linear Regression Formula]  
+  - [3.3 Fit the Model]  
 - [Step 4: Results and Evaluation](#step-4-results-and-evaluation)  
-  - [4.1 Model Summary](#41-model-summary)  
-  - [4.2 Key Coefficients](#42-key-coefficients)  
-  - [4.3 Regression Plot](#43-regression-plot)  
-  - [4.4 Residual Distribution](#44-residual-distribution)  
-  - [4.5 Q-Q Plot for Normality](#45-q-q-plot-for-normality)  
-  - [4.6 Scatterplot of Residuals](#46-scatterplot-of-residuals)
-  
- - [Step 5: Key Questions Answered](#step-5-Key-Questions-Answered)
-
+  - [4.1 Model Summary]
+  - [4.2 Key Coefficients] 
+  - [4.3 Regression Plot] 
+  - [4.4 Residual Distribution]  
+  - [4.5 Q-Q Plot for Normality] 
+  - [4.6 Scatterplot of Residuals]
+- [Step 5: Key Questions Answered](#step-5-Key-Questions-Answered)
 - [Step 6: Conclusion](#step-6-conclusion)  
-  - [5.1 Key Takeaways](#51-key-takeaways)  
-  - [5.2 Framing Findings for Stakeholders](#52-framing-findings-for-stakeholders)  
-  - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
- 
+  - [5.1 Key Takeaways] 
+  - [5.2 Framing Findings for Stakeholders] 
+  - [5.3 Framing the Findings for External Stakeholders]
 - [Step 7: Tools and Technologies](#step-7-Tools-and-Technologies)
-
-
 - [Step 8: Limitations](#step-8-Limitations)
-
 - [Step 9: References](#step-9-References)
-
 - [Step 10: Connect with Me](#step-10-Connect-with-Me)
 
 
