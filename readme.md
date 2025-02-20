@@ -32,7 +32,7 @@
   - [4.5 Q-Q Plot for Normality](#45-q-q-plot-for-normality)  
   - [4.6 Scatterplot of Residuals](#46-scatterplot-of-residuals)
   
- - [Step 5:Key Questions Answered](#step-5-Key-Questions-Answered)
+ - [Step 5: Key Questions Answered](#step-5-Key-Questions-Answered)
 
 - [Step 6: Conclusion](#step-6-conclusion)  
   - [5.1 Key Takeaways](#51-key-takeaways)  
@@ -378,7 +378,7 @@ By examining this plot, I ensure that my model is not biased and that the linear
 
 
 
-## Step:5 Key Questions Answered  
+## Step 5 Key Questions Answered  
 
 During the analysis, I addressed several key questions to better understand the dataset and the linear regression model:  
 
