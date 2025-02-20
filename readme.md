@@ -555,6 +555,7 @@ Autor: Gerard Nynkeu
 
 - **GitHub:** [My GitHub Profile](https://github.com/gerardnynkeu) 
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
+- e-mail: Gerardnynkeu@gmail.com
 
 
 
