@@ -2,7 +2,41 @@
 
 
 
-![E-commerce-EDA-R](e-commerce-store-intro.png)
+![E-commerce-EDA-R](e-commerce-store-intro.png) 
+
+
+
+
+
+
+## 📑 Table of Contents  
+- [1. Introduction](#1-introduction)  
+- [2. Data Overview](#2-data-overview)  
+- [3. Loading the Dataset](#3-loading-the-dataset)  
+- [4. Exploratory Data Analysis (EDA)](#4-exploratory-data-analysis-eda)  
+  - [4.1 Checking Missing Values](#41-checking-missing-values)  
+  - [4.2 Detecting Duplicates](#42-detecting-duplicates)  
+  - [4.3 Handling Data Types](#43-handling-data-types)  
+  - [4.4 Identifying Outliers](#44-identifying-outliers)  
+  - [4.5 Feature Distribution](#45-feature-distribution)  
+- [5. Data Cleaning](#5-data-cleaning)  
+  - [5.1 Handling Missing Values](#51-handling-missing-values)  
+  - [5.2 Fixing Data Inconsistencies](#52-fixing-data-inconsistencies)  
+  - [5.3 Removing Duplicates](#53-removing-duplicates)  
+  - [5.4 Correcting Data Types](#54-correcting-data-types)  
+  - [5.5 Handling Outliers](#55-handling-outliers)  
+- [6. Final Cleaned Data Overview](#6-final-cleaned-data-overview)  
+- [7. Data Visualization & Insights](#7-data-visualization--insights)  
+  - [7.1 Sales Trends Over Time](#71-sales-trends-over-time)  
+  - [7.2 Customer Segmentation](#72-customer-segmentation)  
+  - [7.3 Top-Selling Products](#73-top-selling-products)  
+  - [7.4 Regional Sales Analysis](#74-regional-sales-analysis)  
+  - [7.5 Discount vs Profit Relationship](#75-discount-vs-profit-relationship)  
+- [8. Tools & Technologies](#8-tools--technologies)  
+- [9. References](#9-references)  
+- [10. Addressing Data Limitations](#10-addressing-data-limitations)  
+- [11. Conclusion](#11-conclusion)  
+- [12. Contact](#12-contact) 
 
 
 
