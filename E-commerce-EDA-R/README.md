@@ -35,8 +35,8 @@
 - [8. Tools & Technologies](#8-tools--technologies)  
 - [9. References](#9-references)  
 - [10. Addressing Data Limitations](#10-addressing-data-limitations)  
-- [11. Conclusion](#11-conclusion)  
-- [12. Contact](#12-contact) 
+- [11. Conclusion](#11-conclusion) 
+- [12. Contact](#12-contact)
 
 
 
