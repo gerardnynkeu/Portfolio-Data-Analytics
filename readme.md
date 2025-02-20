@@ -39,10 +39,10 @@
   - [5.2 Framing Findings for Stakeholders](#52-framing-findings-for-stakeholders)  
   - [5.3 Framing the Findings for External Stakeholders](#53-framing-the-findings-for-external-stakeholders)
  
-- [Step 7: Tools & Technologies](#step-7-Tools-&-Technologies)
+- [Step 7: Tools and Technologies](#step-7-Tools-and-Technologies)
 
 
-- [Step 8: Limitations](#step-8-Tools-Limitations)
+- [Step 8: Limitations](#step-8-Limitations)
 
 - [Step 9: References](#step-9-References)
 
