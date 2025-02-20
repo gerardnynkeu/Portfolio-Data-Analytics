@@ -15,10 +15,10 @@
 - [3. Loading the Dataset](#3-loading-the-dataset)  
 - [4. Exploratory Data Analysis (EDA)](#4-exploratory-data-analysis-eda)  
   - [4.1 Checking Missing Values] 
-  - [4.2 Detecting Duplicates](#42-detecting-duplicates)  
-  - [4.3 Handling Data Types](#43-handling-data-types)  
-  - [4.4 Identifying Outliers](#44-identifying-outliers)  
-  - [4.5 Feature Distribution](#45-feature-distribution)  
+  - [4.2 Detecting Duplicates]  
+  - [4.3 Handling Data Types]  
+  - [4.4 Identifying Outliers] 
+  - [4.5 Feature Distribution] 
 - [5. Data Cleaning](#5-data-cleaning)  
   - [5.1 Handling Missing Values](#51-handling-missing-values)  
   - [5.2 Fixing Data Inconsistencies](#52-fixing-data-inconsistencies)  
