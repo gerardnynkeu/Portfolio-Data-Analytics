@@ -181,8 +181,18 @@ Below is the full code for the Feature Engineering step:
 <a id="exploratory-data-analysis-eda"></a>
 <img src="https://img.shields.io/badge/Exploratory--Data--Analysis--(EDA)-blue?style=for-the-badge&labelColor=black&color=blue" alt="Exploratory Data Analysis (EDA)" style="width:100%;">
 
-## Exploratory Data Analysis (EDA)
-Your exploratory data analysis content goes here...
+## Exploratory Data Analysis (EDA) 
+
+Exploratory Data Analysis (EDA) is a crucial step in the data analysis workflow. It involves summarizing, visualizing, and understanding the structure of the dataset before applying advanced modeling techniques. The goal is to detect patterns, identify correlations, and recognize potential outliers that could impact analysis or predictions.
+
+Since this project was executed directly on Kaggle's Jupyter Notebook environment, EDA was performed using Python’s powerful libraries such as pandas, matplotlib, and seaborn. The key steps include:
+
+    Understanding dataset structure (shape, columns, data types).
+    Visualizing distributions of numerical and categorical variables.
+    Detecting correlations and relationships between features.
+    Identifying outliers and potential anomalies.
+
+Below is the full code for the Exploratory Data Analysis (EDA) step:
 
 <!-- Key Insights and Findings Banner -->
 <a id="key-insights-and-findings"></a>
