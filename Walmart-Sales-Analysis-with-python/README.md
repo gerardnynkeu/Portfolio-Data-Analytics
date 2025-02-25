@@ -4,7 +4,7 @@
 
 
 
-![Walmart-Sales-Analysis-with-python](Walmart-sale-intro.jpg)
+<img src="Walmart-Sales-Analysis-with-python/Walmart-sale-intro.jpg" alt="Walmart Sale Intro" style="width:100%;">
 
 
 
