@@ -257,14 +257,20 @@ By expanding the scope of analysis with these methods, deeper business insights 
 
 Below are key references that supported the analysis, data processing, and visualization in this project:
 
-📌 Dataset Source: Walmart Sales Dataset on Kaggle (Replace with the exact URL of your dataset)
-📌 Pandas Documentation (for data manipulation): https://pandas.pydata.org/docs/
+📌 Dataset Source: Walmart Sales Dataset on Kaggle (Replace with the exact URL of your dataset) 
+
+📌 Pandas Documentation (for data manipulation): https://pandas.pydata.org/docs/ 
+
 📌 Matplotlib & Seaborn Documentation (for visualizations):
 Matplotlib: https://matplotlib.org/stable/contents.html
-Seaborn: https://seaborn.pydata.org/
-📌 NumPy Documentation (for numerical operations): https://numpy.org/doc/stable/
-📌 Scikit-Learn Documentation (if ML models are used in the future): https://scikit-learn.org/stable/user_guide.html
-📌 Time Series Forecasting with Statsmodels: https://www.statsmodels.org/stable/index.html
+Seaborn: https://seaborn.pydata.org/ 
+
+📌 NumPy Documentation (for numerical operations): https://numpy.org/doc/stable/ 
+
+📌 Scikit-Learn Documentation (if ML models are used in the future): https://scikit-learn.org/stable/user_guide.html 
+
+📌 Time Series Forecasting with Statsmodels: https://www.statsmodels.org/stable/index.html 
+
 📌 Kaggle Notebooks: (If you published your Kaggle notebook, add a link to it here!)
 
 
