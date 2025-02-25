@@ -123,7 +123,16 @@ Below is the full list of library imports used in this analysis:
 <img src="https://img.shields.io/badge/Loading--and--Dataset--Preparation-blue?style=for-the-badge&labelColor=black&color=blue" alt="Loading and Dataset Preparation" style="width:100%;">
 
 ## Loading and Dataset Preparation
-Your loading and dataset preparation content goes here...
+
+A well-structured data analysis begins with properly loading and preparing the dataset. This step ensures that the data is correctly imported, structured, and ready for further preprocessing.
+
+Since this project was executed directly on Kaggle's Jupyter Notebook environment, the dataset is loaded from Kaggle’s built-in storage. Below are the key steps involved:
+
+    Loading the dataset into a structured format using pandas.
+    Displaying basic information (shape, columns, data types) to understand the dataset’s structure.
+   
+
+Here’s the complete code for this step:
 
 <!-- Data Preprocessing Banner -->
 <a id="data-preprocessing"></a>
