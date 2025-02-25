@@ -132,7 +132,10 @@ Since this project was executed directly on Kaggle's Jupyter Notebook environmen
     Displaying basic information to understand the dataset’s structure.
    
 
-Here’s the complete code for this step:
+Here’s the complete code for this step: 
+
+
+![Loading and Dataset Preparation](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Loading%20and%20Dataset%20Preparation-code.png)
 
 <!-- Data Preprocessing Banner -->
 <a id="data-preprocessing"></a>
