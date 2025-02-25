@@ -116,7 +116,7 @@ Below is the full list of library imports used in this analysis:
 
 
 
-Library Imports for Data Analysis-code.png
+![Library Imports for Data Analysis](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Library%20Imports%20for%20Data%20Analysis-code.png)
 
 <!-- Loading and Dataset Preparation Banner -->
 <a id="loading-and-dataset-preparation"></a>
