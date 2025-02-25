@@ -14,7 +14,124 @@
 
 
 
-#### Walmart Inc. is a leading multinational retail corporation based in Bentonville, Arkansas, United States. The company operates an extensive network of hypermarkets, discount department stores, and grocery stores across the country. Established with the mission of offering affordable products to consumers, Walmart has grown into one of the largest and most influential retailers in the world. Its business model focuses on providing a wide range of goods, including groceries, electronics, clothing, household essentials, and more, at competitive prices. With thousands of locations nationwide, Walmart plays a significant role in the retail industry, serving millions of customers daily through its physical stores and expanding e-commerce platform.
+#### Walmart Inc. is a leading multinational retail corporation based in Bentonville, Arkansas, United States. The company operates an extensive network of hypermarkets, discount department stores, and grocery stores across the country. Established with the mission of offering affordable products to consumers, Walmart has grown into one of the largest and most influential retailers in the world. Its business model focuses on providing a wide range of goods, including groceries, electronics, clothing, household essentials, and more, at competitive prices. With thousands of locations nationwide, Walmart plays a significant role in the retail industry, serving millions of customers daily through its physical stores and expanding e-commerce platform. 
+
+
+
+<!-- Table of Contents -->
+## Table of Contents
+- [Introduction](#introduction)
+- [Dataset Overview](#dataset-overview)
+- [Data Source and Justification](#data-source-and-justification)
+- [Library Imports for Data Analysis](#library-imports-for-data-analysis)
+- [Loading and Dataset Preparation](#loading-and-dataset-preparation)
+- [Data Preprocessing](#data-preprocessing)
+- [Feature Engineering](#feature-engineering)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Limitations](#limitations)
+- [Conclusion](#conclusion)
+- [Actionable Recommendations](#actionable-recommendations)
+- [Future Work](#future-work)
+- [References](#references)
+
+<!-- Introduction Banner -->
+<a id="introduction"></a>
+<img src="https://img.shields.io/badge/Introduction-blue?style=for-the-badge&labelColor=black&color=blue" alt="Introduction" style="width:100%;">
+
+## Introduction
+Your introduction content goes here...
+
+<!-- Dataset Overview Banner -->
+<a id="dataset-overview"></a>
+<img src="https://img.shields.io/badge/Dataset--Overview-blue?style=for-the-badge&labelColor=black&color=blue" alt="Dataset Overview" style="width:100%;">
+
+## Dataset Overview
+Your dataset overview content goes here...
+
+<!-- Data Source and Justification Banner -->
+<a id="data-source-and-justification"></a>
+<img src="https://img.shields.io/badge/Data--Source--and--Justification-blue?style=for-the-badge&labelColor=black&color=blue" alt="Data Source and Justification" style="width:100%;">
+
+## Data Source and Justification
+Your data source and justification content goes here...
+
+<!-- Library Imports for Data Analysis Banner -->
+<a id="library-imports-for-data-analysis"></a>
+<img src="https://img.shields.io/badge/Library--Imports--for--Data--Analysis-blue?style=for-the-badge&labelColor=black&color=blue" alt="Library Imports for Data Analysis" style="width:100%;">
+
+## Library Imports for Data Analysis
+Your library imports for data analysis content goes here...
+
+<!-- Loading and Dataset Preparation Banner -->
+<a id="loading-and-dataset-preparation"></a>
+<img src="https://img.shields.io/badge/Loading--and--Dataset--Preparation-blue?style=for-the-badge&labelColor=black&color=blue" alt="Loading and Dataset Preparation" style="width:100%;">
+
+## Loading and Dataset Preparation
+Your loading and dataset preparation content goes here...
+
+<!-- Data Preprocessing Banner -->
+<a id="data-preprocessing"></a>
+<img src="https://img.shields.io/badge/Data--Preprocessing-blue?style=for-the-badge&labelColor=black&color=blue" alt="Data Preprocessing" style="width:100%;">
+
+## Data Preprocessing
+Your data preprocessing content goes here...
+
+<!-- Feature Engineering Banner -->
+<a id="feature-engineering"></a>
+<img src="https://img.shields.io/badge/Feature--Engineering-blue?style=for-the-badge&labelColor=black&color=blue" alt="Feature Engineering" style="width:100%;">
+
+## Feature Engineering
+Your feature engineering content goes here...
+
+<!-- Exploratory Data Analysis (EDA) Banner -->
+<a id="exploratory-data-analysis-eda"></a>
+<img src="https://img.shields.io/badge/Exploratory--Data--Analysis--(EDA)-blue?style=for-the-badge&labelColor=black&color=blue" alt="Exploratory Data Analysis (EDA)" style="width:100%;">
+
+## Exploratory Data Analysis (EDA)
+Your exploratory data analysis content goes here...
+
+<!-- Key Insights and Findings Banner -->
+<a id="key-insights-and-findings"></a>
+<img src="https://img.shields.io/badge/Key--Insights--and--Findings-blue?style=for-the-badge&labelColor=black&color=blue" alt="Key Insights and Findings" style="width:100%;">
+
+## Key Insights and Findings
+Your key insights and findings content goes here...
+
+<!-- Limitations Banner -->
+<a id="limitations"></a>
+<img src="https://img.shields.io/badge/Limitations-blue?style=for-the-badge&labelColor=black&color=blue" alt="Limitations" style="width:100%;">
+
+## Limitations
+Your limitations content goes here...
+
+<!-- Conclusion Banner -->
+<a id="conclusion"></a>
+<img src="https://img.shields.io/badge/Conclusion-blue?style=for-the-badge&labelColor=black&color=blue" alt="Conclusion" style="width:100%;">
+
+## Conclusion
+Your conclusion content goes here...
+
+<!-- Actionable Recommendations Banner -->
+<a id="actionable-recommendations"></a>
+<img src="https://img.shields.io/badge/Actionable--Recommendations-blue?style=for-the-badge&labelColor=black&color=blue" alt="Actionable Recommendations" style="width:100%;">
+
+## Actionable Recommendations
+Your actionable recommendations content goes here...
+
+<!-- Future Work Banner -->
+<a id="future-work"></a>
+<img src="https://img.shields.io/badge/Future--Work-blue?style=for-the-badge&labelColor=black&color=blue" alt="Future Work" style="width:100%;">
+
+## Future Work
+Your future work content goes here...
+
+<!-- References Banner -->
+<a id="references"></a>
+<img src="https://img.shields.io/badge/References-blue?style=for-the-badge&labelColor=black&color=blue" alt="References" style="width:100%;">
+
+## References
+Your references content goes here...
 
 
 
