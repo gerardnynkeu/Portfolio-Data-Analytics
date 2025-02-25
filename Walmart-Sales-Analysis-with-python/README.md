@@ -1,9 +1,8 @@
-<div id="Walmart-Sales-Analysis-with-python">
-  <h2 style="background-color: purple; color: white; padding: 10px; text-align: center; border-radius: 5px;">
-    Walmart-Sales-Analysis-with-python
-  </h2>
-</div>
+![WALMART-SALES-ANALYSIS-EDA-WITH-PYTHON](https://img.shields.io/badge/WALMART--SALES--ANALYSIS--EDA--WITH--PYTHON-blue?style=for-the-badge&labelColor=black&color=blue)
 
 
 
-Walmart-Sales-Analysis-with-python
+
+
+
+WALMART-SALES-ANALYSIS-EDA-WITH-PYTHON
