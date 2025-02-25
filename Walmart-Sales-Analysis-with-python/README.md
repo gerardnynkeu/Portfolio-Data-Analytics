@@ -172,7 +172,10 @@ Since this project was executed directly on Kaggle's Jupyter Notebook environmen
     Scaling numerical features to standardize the data.
     Extracting time-based features to capture seasonality and trends.
 
-Below is the full code for the Feature Engineering step:
+Below is the full code for the Feature Engineering step: 
+
+
+![Feature Engineering](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Feature%20Engineering-code.png)
 
 <!-- Exploratory Data Analysis (EDA) Banner -->
 <a id="exploratory-data-analysis-eda"></a>
