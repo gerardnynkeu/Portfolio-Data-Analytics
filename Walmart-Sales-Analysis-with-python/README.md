@@ -161,8 +161,18 @@ Below is the full code for the data preprocessing step:
 <a id="feature-engineering"></a>
 <img src="https://img.shields.io/badge/Feature--Engineering-blue?style=for-the-badge&labelColor=black&color=blue" alt="Feature Engineering" style="width:100%;">
 
-## Feature Engineering
-Your feature engineering content goes here...
+## Feature Engineering 
+
+Feature engineering is a crucial step in the data preparation pipeline, where raw data is transformed into more informative features to improve model performance and analytical insights. This process involves creating new variables, encoding categorical data, scaling numerical features, and deriving meaningful attributes.
+
+Since this project was executed directly on Kaggle's Jupyter Notebook environment, feature engineering was performed using Python’s powerful libraries such as pandas and sklearn. The key steps include:
+
+    Creating new features to enhance predictive power.
+    Encoding categorical variables for machine learning models.
+    Scaling numerical features to standardize the data.
+    Extracting time-based features to capture seasonality and trends.
+
+Below is the full code for the Feature Engineering step:
 
 <!-- Exploratory Data Analysis (EDA) Banner -->
 <a id="exploratory-data-analysis-eda"></a>
