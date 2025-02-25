@@ -273,7 +273,7 @@ By expanding the scope of analysis with these methods, deeper business insights 
 
 Below are key references that supported the analysis, data processing, and visualization in this project:
 
-📌 Dataset Source: Walmart Sales Dataset on Kaggle ([lick Here](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)) 
+📌 Dataset Source: Walmart Sales Dataset on Kaggle ([Click Here](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)) 
 
 📌 Pandas Documentation (for data manipulation): https://pandas.pydata.org/docs/ 
 
