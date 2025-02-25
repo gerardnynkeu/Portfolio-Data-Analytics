@@ -205,8 +205,24 @@ Your key insights and findings content goes here...
 <a id="limitations"></a>
 <img src="https://img.shields.io/badge/Limitations-blue?style=for-the-badge&labelColor=black&color=blue" alt="Limitations" style="width:100%;">
 
-## Limitations
-Your limitations content goes here...
+## Limitations 
+
+Despite the insights gained from this analysis, several limitations should be considered:
+
+Data Completeness & Quality – The dataset hat no missing values. Data cleaning techniques were applied, but incomplete records might introduce biases.
+
+Feature Limitations – The dataset primarily includes transactional and time-series data but lacks detailed customer demographics, marketing campaigns, or external economic factors that influence sales trends.
+
+Holiday Influence Simplification – The dataset flags holidays, but it does not account for varying regional effects, holiday-specific promotions, or seasonal factors beyond binary classification.
+
+External Market Conditions – Economic indicators, competitor pricing, and supply chain factors are not included, which limits a more comprehensive market analysis.
+
+Time Scope Constraints – The dataset spans a limited period, meaning long-term trends, shifts in consumer behavior, and emerging market patterns may not be fully captured.
+
+Granularity of Data – The dataset aggregates sales at a higher level, potentially masking store-specific or product-level insights that could enhance targeted decision-making.
+
+By acknowledging these limitations, the analysis remains transparent, and future research directions can be explored to refine predictive modeling and business recommendations. 
+
 
 <!-- Conclusion Banner -->
 <a id="conclusion"></a>
