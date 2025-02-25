@@ -78,11 +78,7 @@ CPI (Consumer Price Index): An economic indicator representing inflation.
 
 Unemployment: The regional unemployment rate.
 
-Data Source and Justification
-
-This dataset is publicly available on Kaggle and provides a real-world scenario for analyzing sales performance using Python. The combination of sales, economic indicators, and seasonal trends makes it a valuable resource for applying data preprocessing, feature engineering, and exploratory data analysis (EDA) techniques.
-
-By examining this data, we can uncover insights that may help retailers optimize inventory, pricing, and promotional strategies while understanding the macroeconomic factors affecting sales performance. 
+ 
 
 
 
@@ -91,7 +87,11 @@ By examining this data, we can uncover insights that may help retailers optimize
 <img src="https://img.shields.io/badge/Data--Source--and--Justification-blue?style=for-the-badge&labelColor=black&color=blue" alt="Data Source and Justification" style="width:100%;">
 
 ## Data Source and Justification
-Your data source and justification content goes here...
+
+This dataset is publicly available on Kaggle and provides a real-world scenario for analyzing sales performance using Python. The combination of sales, economic indicators, and seasonal trends makes it a valuable resource for applying data preprocessing, feature engineering, and exploratory data analysis (EDA) techniques.
+
+By examining this data, we can uncover insights that may help retailers optimize inventory, pricing, and promotional strategies while understanding the macroeconomic factors affecting sales performance. 
+
 
 <!-- Library Imports for Data Analysis Banner -->
 <a id="library-imports-for-data-analysis"></a>
