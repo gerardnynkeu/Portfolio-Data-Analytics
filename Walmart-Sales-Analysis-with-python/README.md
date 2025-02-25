@@ -141,8 +141,18 @@ Here’s the complete code for this step:
 <a id="data-preprocessing"></a>
 <img src="https://img.shields.io/badge/Data--Preprocessing-blue?style=for-the-badge&labelColor=black&color=blue" alt="Data Preprocessing" style="width:100%;">
 
-## Data Preprocessing
-Your data preprocessing content goes here...
+## Data Preprocessing 
+
+Data preprocessing is a critical step in any data analysis workflow. It involves cleaning, transforming, and structuring raw data to ensure high-quality inputs for analysis and modeling. This step addresses common data issues such as missing values, duplicate entries, incorrect data types, and outliers.
+
+Since this project was executed directly on Kaggle's Jupyter Notebook environment, preprocessing was performed using Python’s powerful data manipulation libraries. The key steps include:
+
+    Handling missing values (imputation or removal).
+    Checking and removing duplicate records to maintain data integrity.
+    Converting data types for consistency and efficient processing.
+    Handling outliers using statistical methods.
+
+Below is the full code for the data preprocessing step:
 
 <!-- Feature Engineering Banner -->
 <a id="feature-engineering"></a>
