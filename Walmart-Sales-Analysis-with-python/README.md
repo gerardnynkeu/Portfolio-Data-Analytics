@@ -152,7 +152,10 @@ Since this project was executed directly on Kaggle's Jupyter Notebook environmen
     Converting data types for consistency and efficient processing.
     Handling outliers using statistical methods.
 
-Below is the full code for the data preprocessing step:
+Below is the full code for the data preprocessing step: 
+
+
+![Data Preprocessing](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Data%20Preprocessing-code.png)
 
 <!-- Feature Engineering Banner -->
 <a id="feature-engineering"></a>
