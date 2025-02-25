@@ -93,9 +93,14 @@ This dataset is publicly available on Kaggle and provides a real-world scenario 
 By examining this data, we can uncover insights that may help retailers optimize inventory, pricing, and promotional strategies while understanding the macroeconomic factors affecting sales performance. 
 
 
+[Walmart Sales Data](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Walmart_sales.csv)
+
+
 <!-- Library Imports for Data Analysis Banner -->
 <a id="library-imports-for-data-analysis"></a>
-<img src="https://img.shields.io/badge/Library--Imports--for--Data--Analysis-blue?style=for-the-badge&labelColor=black&color=blue" alt="Library Imports for Data Analysis" style="width:100%;">
+<img src="https://img.shields.io/badge/Library--Imports--for--Data--Analysis-blue?style=for-the-badge&labelColor=black&color=blue" alt="Library Imports for Data Analysis" style="width:100%;"> 
+
+
 
 ## Library Imports for Data Analysis
 Your library imports for data analysis content goes here...
