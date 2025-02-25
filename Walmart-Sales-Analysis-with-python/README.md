@@ -105,7 +105,7 @@ Dataset Link:
 
 ## Library Imports for Data Analysis
 
-Efficient and structured data analysis relies on the right set of libraries. In this project, I utilize Python’s powerful data science stack to handle data preprocessing, exploratory analysis, and visualization. The libraries imported in this step provide essential functionalities such as:
+This project was executed directly on Kaggle's Jupyter Notebook environment, leveraging Python’s powerful data science ecosystem for efficient data preprocessing, exploratory analysis, and visualization. The libraries used in this step provide essential functionalities, including:
 
     Data Manipulation (pandas, numpy)
     Data Visualization (matplotlib, seaborn, plotly)
