@@ -129,7 +129,7 @@ A well-structured data analysis begins with properly loading and preparing the d
 Since this project was executed directly on Kaggle's Jupyter Notebook environment, the dataset is loaded from Kaggle’s built-in storage. Below are the key steps involved:
 
     Loading the dataset into a structured format using pandas.
-    Displaying basic information (shape, columns, data types) to understand the dataset’s structure.
+    Displaying basic information to understand the dataset’s structure.
    
 
 Here’s the complete code for this step:
