@@ -271,7 +271,7 @@ Seaborn: https://seaborn.pydata.org/
 
 📌 Time Series Forecasting with Statsmodels: https://www.statsmodels.org/stable/index.html 
 
-📌 Kaggle Notebooks: (If you published your Kaggle notebook, add a link to it here!)
+📌 Kaggle Notebooks: ([click here](https://www.kaggle.com/code/nynkeugerard/walmart-sales-analysis-eda-with-python/edit)!)
 
 
 
