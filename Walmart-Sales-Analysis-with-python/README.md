@@ -203,7 +203,8 @@ Below is the full code for the Exploratory Data Analysis (EDA) step:
 
 
 
-Distribution Analysis
+Distribution Analysis:
+
 Weekly Sales: Right-skewed with multiple peaks, indicating concentration of lower sales and potential seasonality. Further segmentation may reveal deeper trends.
 Temperature: Bimodal, suggesting data from regions with distinct climates, possibly influencing sales seasonality.
 Fuel Price: Bimodal, likely due to regional or temporal fluctuations, potentially affecting consumer spending.
