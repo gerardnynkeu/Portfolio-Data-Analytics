@@ -192,7 +192,13 @@ Since this project was executed directly on Kaggle's Jupyter Notebook environmen
     Detecting correlations and relationships between features.
     Identifying outliers and potential anomalies.
 
-Below is the full code for the Exploratory Data Analysis (EDA) step:
+Below is the full code for the Exploratory Data Analysis (EDA) step: 
+
+
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Plot%20histogram%20for%20the%20current%20column-code.png" width="45%">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Plot%20histogram%20for%20the%20current%20column.png" width="45%">
+</p>
 
 <!-- Key Insights and Findings Banner -->
 <a id="key-insights-and-findings"></a>
