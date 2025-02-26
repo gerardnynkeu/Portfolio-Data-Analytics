@@ -213,6 +213,35 @@ Unemployment Rate: Right-skewed, with most values between 6-9%. Higher rates may
 
 
 
+
+
+
+
+
+
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Correlation%20Heatmap-code.png" width="45%">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Correlation%20Headmap-plot.png" width="45%">
+</p> 
+
+
+
+
+
+
+
+Correlation Analysis:
+
+Weekly Sales: Very weak correlations with other variables, suggesting non-linear influences like promotions or seasonality. Slight negative correlation with unemployment (-0.11) indicates minimal impact.
+Temperature: Moderately correlated with CPI (0.18) and fuel price (0.14), hinting at seasonal effects.
+Fuel Price: Negatively correlated with CPI (-0.17), but negligible impact on sales (0.01).
+CPI & Unemployment: Moderate negative correlation (-0.30), aligning with economic theory—higher unemployment leads to lower consumer prices.
+
+
+
+
+
+
 <!-- Key Insights and Findings Banner -->
 <a id="key-insights-and-findings"></a>
 <img src="https://img.shields.io/badge/Key--Insights--and--Findings-blue?style=for-the-badge&labelColor=black&color=blue" alt="Key Insights and Findings" style="width:100%;">
