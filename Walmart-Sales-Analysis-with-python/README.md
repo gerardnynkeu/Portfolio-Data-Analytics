@@ -203,7 +203,7 @@ Below is the full code for the Exploratory Data Analysis (EDA) step:
 
 
 
-Distribution Analysis:
+**Distribution Analysis**:
 
 Weekly Sales: Right-skewed with multiple peaks, indicating concentration of lower sales and potential seasonality. Further segmentation may reveal deeper trends.
 Temperature: Bimodal, suggesting data from regions with distinct climates, possibly influencing sales seasonality.
@@ -230,7 +230,7 @@ Unemployment Rate: Right-skewed, with most values between 6-9%. Higher rates may
 
 
 
-Correlation Analysis:
+**Correlation Analysis**:
 
 Weekly Sales: Very weak correlations with other variables, suggesting non-linear influences like promotions or seasonality. Slight negative correlation with unemployment (-0.11) indicates minimal impact.
 Temperature: Moderately correlated with CPI (0.18) and fuel price (0.14), hinting at seasonal effects.
@@ -254,11 +254,13 @@ CPI & Unemployment: Moderate negative correlation (-0.30), aligning with economi
 
 
 
-Seasonal Sales Analysis: 
+**Seasonal Sales Analysis:** 
 
-Autumn & Winter: Highest sales in 2010-2011, driven by holidays (Thanksgiving, Black Friday, Christmas). Peak: Winter 2011 (~$6.29B).
-Spring & Summer: Lower sales, except for Summer 2012 (~$6.69B), possibly due to promotions or external factors.
-2012 Anomaly: Unusual Summer peak, Winter drop (~$3.61B). Likely influenced by economic shifts or retail strategy changes. 
+**Autumn & Winter**: Highest sales in 2010-2011, driven by holidays (Thanksgiving, Black Friday, Christmas). Peak: Winter 2011 (~$6.29B).
+
+**Spring & Summer**: Lower sales, except for Summer 2012 (~$6.69B), possibly due to promotions or external factors.
+
+**2012 Anomaly**: Unusual Summer peak, Winter drop (~$3.61B). Likely influenced by economic shifts or retail strategy changes. 
 
 
 
