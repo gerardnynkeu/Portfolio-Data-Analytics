@@ -352,7 +352,33 @@ Winter 2012 had the lowest sales, suggesting a decline in consumer activity duri
 
 Autumn 2011 saw a peak, contrasting with the drop in 2012, hinting at external economic or market factors.
 
-Sales generally vary across seasons, emphasizing the need for seasonality adjustments in predictive modeling.
+Sales generally vary across seasons, emphasizing the need for seasonality adjustments in predictive modeling. 
+
+
+
+**Total Weekly sales** 
+
+Seasonal Sales Variation:
+
+    Sales fluctuate across different seasons, indicating a strong seasonal trend in Walmart’s revenue.
+    Spring and Summer generally outperform Winter and Autumn, suggesting higher consumer spending during warmer months.
+
+Highest Sales Period:
+
+    Summer 2012 recorded the highest total weekly sales among all seasons and years, indicating strong demand during that period.
+    This suggests that Walmart may have capitalized on summer promotions, increased demand for seasonal products, or economic factors.
+
+Winter 2012 Decline:
+
+    A noticeable drop in Winter 2012 sales compared to previous years, which could be attributed to economic downturns, weather conditions, or changes in consumer behavior.
+
+Year-over-Year Growth:
+
+    While 2010 and 2011 show relatively balanced seasonal trends, 2012 exhibits greater variation, with Summer significantly outperforming other seasons.
+
+Business Implications:
+
+    These seasonal trends could inform inventory planning, marketing strategies, and promotional campaigns to optimize sales in peak seasons and mitigate drops in lower-performing periods.
 
 
 
