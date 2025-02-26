@@ -242,6 +242,31 @@ CPI & Unemployment: Moderate negative correlation (-0.30), aligning with economi
 
 
 
+
+
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Total-sales-years.png" width="45%">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Total-sales-results-season.png" width="45%">
+</p> 
+
+
+
+
+
+
+Seasonal Sales Analysis: 
+
+Autumn & Winter: Highest sales in 2010-2011, driven by holidays (Thanksgiving, Black Friday, Christmas). Peak: Winter 2011 (~$6.29B).
+Spring & Summer: Lower sales, except for Summer 2012 (~$6.69B), possibly due to promotions or external factors.
+2012 Anomaly: Unusual Summer peak, Winter drop (~$3.61B). Likely influenced by economic shifts or retail strategy changes. 
+
+
+
+
+
+
+
+
 <!-- Key Insights and Findings Banner -->
 <a id="key-insights-and-findings"></a>
 <img src="https://img.shields.io/badge/Key--Insights--and--Findings-blue?style=for-the-badge&labelColor=black&color=blue" alt="Key Insights and Findings" style="width:100%;">
