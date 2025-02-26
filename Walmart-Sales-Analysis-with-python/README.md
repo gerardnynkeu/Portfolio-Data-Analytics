@@ -297,6 +297,23 @@ The bar chart presents the total weekly sales of Walmart across different season
 The analysis shows that holidays account for only 6.99% of total sales weeks, indicating that Walmart’s revenue is largely driven by non-holiday periods. There are no significant spikes in holiday sales, suggesting a stable shopping pattern throughout the year. This highlights the importance of year-round promotions rather than relying solely on holiday-driven sales.
 
 
+
+
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Overall%20Holiday%20Distribution-code.png" width="45%">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Overall%20Holiday%20Distribution-plot.png" width="45%">
+</p> 
+
+
+
+
+
+**Interpretation**:
+
+The bar chart and pie chart illustrate the distribution of data points across the years 2010, 2011, and 2012. The data is fairly balanced, with 2011 having the highest count (36.36%), followed by 2010 (33.57%) and 2012 (30.07%). While there is a slight decline in data availability in 2012, the overall distribution remains relatively even, ensuring a well-represented analysis over the three years. This consistency helps maintain the reliability of time-based trends in sales performance.
+
+
+
 <!-- Key Insights and Findings Banner -->
 <a id="key-insights-and-findings"></a>
 <img src="https://img.shields.io/badge/Key--Insights--and--Findings-blue?style=for-the-badge&labelColor=black&color=blue" alt="Key Insights and Findings" style="width:100%;">
