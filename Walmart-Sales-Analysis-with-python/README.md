@@ -327,7 +327,19 @@ Temperature: Normally distributed, suggesting a balanced seasonal variation in r
 Fuel Price: Bimodal distribution, reflecting fluctuations in fuel prices over time.
 CPI (Consumer Price Index): Shows a non-uniform distribution, highlighting economic shifts.
 Unemployment: Right-skewed with a sharp peak, indicating periods of higher unemployment rates.
-These insights help in understanding data trends and potential correlations for predictive modeling.
+These insights help in understanding data trends and potential correlations for predictive modeling. 
+
+
+
+
+
+**Correlation Analysis: Key Insights**
+
+Weak correlations exist between weekly sales and other variables, suggesting external factors influence sales trends.
+CPI and unemployment show a moderate negative correlation (-0.30), indicating potential economic interactions.
+Fuel price and CPI have a slight negative correlation (-0.17), reflecting possible inflationary effects.
+Temperature and fuel price exhibit a weak positive correlation (0.14), hinting at seasonal demand influences.
+These insights guide feature selection and refinement in predictive modeling.
 
 <!-- Limitations Banner -->
 <a id="limitations"></a>
