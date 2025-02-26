@@ -339,7 +339,20 @@ Weak correlations exist between weekly sales and other variables, suggesting ext
 CPI and unemployment show a moderate negative correlation (-0.30), indicating potential economic interactions.
 Fuel price and CPI have a slight negative correlation (-0.17), reflecting possible inflationary effects.
 Temperature and fuel price exhibit a weak positive correlation (0.14), hinting at seasonal demand influences.
-These insights guide feature selection and refinement in predictive modeling.
+These insights guide feature selection and refinement in predictive modeling. 
+
+
+
+
+Seasonal Sales Analysis: Key Insights
+Highest sales were recorded in Spring 2010 and Summer 2012, indicating seasonal demand fluctuations.
+Winter 2012 had the lowest sales, suggesting a decline in consumer activity during that period.
+Autumn 2011 saw a peak, contrasting with the drop in 2012, hinting at external economic or market factors.
+Sales generally vary across seasons, emphasizing the need for seasonality adjustments in predictive modeling.
+
+
+
+
 
 <!-- Limitations Banner -->
 <a id="limitations"></a>
