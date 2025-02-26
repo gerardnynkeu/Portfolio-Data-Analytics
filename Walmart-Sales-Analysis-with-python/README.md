@@ -318,8 +318,16 @@ The bar chart and pie chart illustrate the distribution of data points across th
 <a id="key-insights-and-findings"></a>
 <img src="https://img.shields.io/badge/Key--Insights--and--Findings-blue?style=for-the-badge&labelColor=black&color=blue" alt="Key Insights and Findings" style="width:100%;">
 
-## Key Insights and Findings
-Your key insights and findings content goes here...
+## Key Insights and Findings 
+
+**Distribution Analysis: Key Insights**
+
+Weekly Sales: Right-skewed distribution with multiple peaks, indicating varied sales volumes across different weeks.
+Temperature: Normally distributed, suggesting a balanced seasonal variation in recorded temperatures.
+Fuel Price: Bimodal distribution, reflecting fluctuations in fuel prices over time.
+CPI (Consumer Price Index): Shows a non-uniform distribution, highlighting economic shifts.
+Unemployment: Right-skewed with a sharp peak, indicating periods of higher unemployment rates.
+These insights help in understanding data trends and potential correlations for predictive modeling.
 
 <!-- Limitations Banner -->
 <a id="limitations"></a>
