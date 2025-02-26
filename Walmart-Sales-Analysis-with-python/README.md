@@ -200,6 +200,18 @@ Below is the full code for the Exploratory Data Analysis (EDA) step:
   <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Plot%20histogram%20for%20the%20current%20column.png" width="45%">
 </p>
 
+
+
+
+Distribution Analysis
+Weekly Sales: Right-skewed with multiple peaks, indicating concentration of lower sales and potential seasonality. Further segmentation may reveal deeper trends.
+Temperature: Bimodal, suggesting data from regions with distinct climates, possibly influencing sales seasonality.
+Fuel Price: Bimodal, likely due to regional or temporal fluctuations, potentially affecting consumer spending.
+CPI: Highly skewed, reflecting economic variability that may impact purchasing power.
+Unemployment Rate: Right-skewed, with most values between 6-9%. Higher rates may correlate with reduced sales.
+
+
+
 <!-- Key Insights and Findings Banner -->
 <a id="key-insights-and-findings"></a>
 <img src="https://img.shields.io/badge/Key--Insights--and--Findings-blue?style=for-the-badge&labelColor=black&color=blue" alt="Key Insights and Findings" style="width:100%;">
