@@ -364,25 +364,17 @@ Your actionable recommendations content goes here...
 
 ## Future Work 
 
-This exploratory analysis provided valuable insights into Walmart's sales trends, but further work can enhance the depth and applicability of findings:
+This exploratory analysis provided key insights into Walmart’s sales trends. To deepen the analysis and enhance decision-making, future work could include:
 
-Predictive Modeling – Implement machine learning models (e.g., Linear Regression, Random Forest, XGBoost) to forecast future sales based on historical data and external factors.
+Predictive Modeling: Leverage machine learning models (e.g., Linear Regression, Random Forest, XGBoost) to forecast sales based on historical data and external factors.
+Time Series Analysis: Apply forecasting techniques (e.g., ARIMA, Prophet) to capture seasonality, holiday effects, and long-term trends.
+Market Basket Analysis: Use association rule mining (e.g., Apriori, FP-Growth) to uncover customer purchasing patterns if item-level data is available.
+Sentiment & External Data Integration: Incorporate social media sentiment, economic indicators, and competitor pricing for demand forecasting.
+Advanced Feature Engineering: Develop new variables such as moving averages, holiday impact, and store segmentation to improve predictions.
+Geospatial Analysis: Analyze regional sales trends and optimize store performance using location data.
+Dashboard Development: Build interactive dashboards with Tableau, Power BI, or Plotly Dash for real-time insights.
+Causal Inference & A/B Testing: Assess the impact of promotions, pricing, and in-store strategies on sales performance.
 
-Time Series Analysis – Apply time series forecasting techniques (e.g., ARIMA, Prophet) to capture seasonality, holiday effects, and long-term sales trends.
-
-Market Basket Analysis – If item-level data becomes available, association rule mining (e.g., Apriori, FP-Growth) can be used to analyze customer purchasing patterns.
-
-Sentiment Analysis & External Data Integration – Incorporate social media sentiment, economic reports, and competitor pricing data to better understand demand fluctuations.
-
-Advanced Feature Engineering – Engineer new variables such as moving averages, holiday proximity impact, and store-type segmentation to improve sales predictions.
-
-Geospatial Analysis – If location data is available, map sales performance across different regions to identify geographic trends and store-level optimizations.
-
-Dashboard Development – Build interactive dashboards using Tableau, Power BI, or Plotly Dash to visualize insights in real-time for stakeholders.
-
-Causal Inference & A/B Testing – Conduct experiments to assess the effectiveness of promotions, pricing strategies, and in-store changes on sales performance.
-
-By expanding the scope of analysis with these methods, deeper business insights can be generated to support data-driven decision-making at Walmart. 
 
 
 <!-- References Banner -->
