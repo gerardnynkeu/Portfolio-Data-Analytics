@@ -320,29 +320,39 @@ The bar chart and pie chart illustrate the distribution of data points across th
 
 ## Key Insights and Findings 
 
-Distribution Analysis
-Weekly Sales: Right-skewed with multiple peaks, indicating varied sales volumes.
-Temperature: Normally distributed, reflecting balanced seasonal variation.
-Fuel Price: Bimodal, showing price fluctuations over time.
-CPI & Unemployment: Non-uniform and right-skewed, highlighting economic shifts.
-Correlation Analysis
-Sales & Other Variables: Weak correlations suggest external factors drive sales.
-CPI & Unemployment (-0.30): Moderate negative correlation, indicating economic interactions.
-Fuel Price & CPI (-0.17): Slight negative correlation, hinting at inflationary effects.
-Temperature & Fuel Price (0.14): Weak positive correlation, suggesting seasonal demand impact.
-Seasonal Sales Trends
-Highest Sales: Spring 2010 & Summer 2012, showing seasonal demand surges.
-Winter 2012 Drop: Potential economic downturn or consumer behavior shift.
-Autumn 2011 Peak: Contrasting with 2012’s decline, reflecting external market factors.
-Holiday Sales Impact
-Minimal Holiday Contribution (6.99% of weeks): Sales are primarily driven by non-holiday periods.
-Stable Holiday Sales: Consistent trends from 2010-2012 with no major spikes.
-Business Strategy: Strengthening holiday promotions and non-holiday marketing is key.
-Sales Distribution Over Time
-Balanced Representation: 2011 (36.36%), 2010 (33.57%), 2012 (30.07%).
-2012 Decline: Possible operational or market shifts.
-Reliable Trend Analysis: Even distribution enables strong year-over-year insights.
-This analysis highlights sales patterns, economic influences, and seasonality trends, supporting data-driven decision-making.
+# Distribution and Correlation Analysis
+
+## Distribution Analysis
+- **Weekly Sales:** Right-skewed with multiple peaks, indicating varied sales volumes.
+- **Temperature:** Normally distributed, reflecting balanced seasonal variation.
+- **Fuel Price:** Bimodal, showing price fluctuations over time.
+- **CPI & Unemployment:** Non-uniform and right-skewed, highlighting economic shifts.
+
+## Correlation Analysis
+- **Sales & Other Variables:** Weak correlations suggest external factors drive sales.
+- **CPI & Unemployment (-0.30):** Moderate negative correlation, indicating economic interactions.
+- **Fuel Price & CPI (-0.17):** Slight negative correlation, hinting at inflationary effects.
+- **Temperature & Fuel Price (0.14):** Weak positive correlation, suggesting seasonal demand impact.
+
+## Seasonal Sales Trends
+- **Highest Sales:** Spring 2010 & Summer 2012, showing seasonal demand surges.
+- **Winter 2012 Drop:** Potential economic downturn or consumer behavior shift.
+- **Autumn 2011 Peak:** Contrasting with 2012’s decline, reflecting external market factors.
+
+## Holiday Sales Impact
+- **Minimal Holiday Contribution (6.99% of weeks):** Sales are primarily driven by non-holiday periods.
+- **Stable Holiday Sales:** Consistent trends from 2010-2012 with no major spikes.
+- **Business Strategy:** Strengthening holiday promotions and non-holiday marketing is key.
+
+## Sales Distribution Over Time
+- **Balanced Representation:** 2011 (36.36%), 2010 (33.57%), 2012 (30.07%).
+- **2012 Decline:** Possible operational or market shifts.
+- **Reliable Trend Analysis:** Even distribution enables strong year-over-year insights.
+
+---
+
+This analysis highlights **sales patterns**, **economic influences**, and **seasonality trends**, supporting **data-driven decision-making**.
+
 
 
 
