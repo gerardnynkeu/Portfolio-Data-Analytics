@@ -344,10 +344,14 @@ These insights guide feature selection and refinement in predictive modeling.
 
 
 
-Seasonal Sales Analysis: Key Insights
+**Seasonal Sales Analysis: Key Insights**
+
 Highest sales were recorded in Spring 2010 and Summer 2012, indicating seasonal demand fluctuations.
+
 Winter 2012 had the lowest sales, suggesting a decline in consumer activity during that period.
+
 Autumn 2011 saw a peak, contrasting with the drop in 2012, hinting at external economic or market factors.
+
 Sales generally vary across seasons, emphasizing the need for seasonality adjustments in predictive modeling.
 
 
