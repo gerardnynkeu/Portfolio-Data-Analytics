@@ -266,7 +266,10 @@ CPI & Unemployment: Moderate negative correlation (-0.30), aligning with economi
 
 
 
-
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Yearly%20Season-wise%20Total%20Weekly%20Sale-code.png" width="45%">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Yearly%20Season-wise%20Total%20Weekly%20Sale-plot.png" width="45%">
+</p>
 
 
 <!-- Key Insights and Findings Banner -->
