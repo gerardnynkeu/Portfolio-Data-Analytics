@@ -330,10 +330,14 @@ Your key insights and findings content goes here...
 While this analysis provided valuable insights, several limitations should be considered:
 
 Data Completeness & Quality: No missing values were present, but potential data inconsistencies could introduce biases.
+
 Feature Limitations: The dataset lacks customer demographics, marketing data, and external economic factors that impact sales.
 Holiday Influence Simplification: Holiday effects are flagged but do not account for regional variations, promotions, or seasonality beyond binary classification.
+
 External Market Conditions: Economic trends, competitor pricing, and supply chain disruptions are not included, limiting market context.
+
 Time Scope Constraints: The dataset covers a limited period, restricting insights into long-term trends and shifting consumer behavior.
+
 Granularity of Data: Aggregated sales data may obscure store-specific or product-level trends critical for targeted analysis.
 Recognizing these limitations ensures analytical transparency and highlights areas for future refinement in predictive modeling and business insights.
 
