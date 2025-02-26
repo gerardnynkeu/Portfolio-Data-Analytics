@@ -269,7 +269,15 @@ CPI & Unemployment: Moderate negative correlation (-0.30), aligning with economi
 <p align="center">
   <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Yearly%20Season-wise%20Total%20Weekly%20Sale-code.png" width="45%">
   <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Yearly%20Season-wise%20Total%20Weekly%20Sale-plot.png" width="45%">
-</p>
+</p> 
+
+
+
+
+
+**Interpretation**:
+
+The bar chart presents the total weekly sales of Walmart across different seasons from 2010 to 2012. Sales patterns indicate seasonal variations, with Spring and Summer consistently performing well. Notably, Summer 2012 recorded the highest sales, while Winter 2012 experienced a decline. These insights highlight the impact of seasonal trends on sales performance, which could inform inventory and marketing strategies.
 
 
 <!-- Key Insights and Findings Banner -->
