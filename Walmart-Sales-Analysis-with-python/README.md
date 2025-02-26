@@ -378,7 +378,25 @@ Year-over-Year Growth:
 
 Business Implications:
 
-    These seasonal trends could inform inventory planning, marketing strategies, and promotional campaigns to optimize sales in peak seasons and mitigate drops in lower-performing periods.
+    These seasonal trends could inform inventory planning, marketing strategies, and promotional campaigns to optimize sales in peak seasons and mitigate drops in lower-performing periods. 
+
+
+
+**Overall Holiday Distribution**
+
+
+    Holidays Contribute Minimally to Sales Weeks:
+        Only 6.99% of total sales weeks are classified as holidays, indicating that Walmart’s revenue is primarily generated during non-holiday periods.
+
+    Stable Holiday Sales Across Years:
+        The proportion of holiday sales remains relatively consistent from 2010 to 2012, suggesting no major spikes in holiday-driven shopping behavior.
+
+    Non-Holiday Sales Dominate:
+        With 93.01% of sales occurring on non-holiday weeks, Walmart experiences steady year-round demand, reducing dependence on holiday events.
+
+    Business Implications:
+        Walmart should focus on strategic holiday promotions to maximize revenue during holiday weeks, as they do not currently show significant sales surges.
+        Maintaining strong non-holiday marketing and inventory strategies is crucial, as consistent sales outside of holiday periods drive overall business performance.
 
 
 
