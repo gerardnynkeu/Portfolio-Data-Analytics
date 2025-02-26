@@ -165,14 +165,24 @@ Below is the full code for the data preprocessing step:
 
 Feature engineering is a crucial step in the data preparation pipeline, where raw data is transformed into more informative features to improve model performance and analytical insights. This process involves creating new variables, encoding categorical data, scaling numerical features, and deriving meaningful attributes.
 
-Since this project was executed directly on Kaggle's Jupyter Notebook environment, feature engineering was performed using Python’s powerful libraries such as pandas and sklearn. The key steps include:
+Since this project was executed directly on Kaggle's Jupyter Notebook environment, feature engineering was performed using Python’s powerful libraries such as **pandas** and **sklearn**. The key steps include:
 
-    Creating new features to enhance predictive power.
-    Encoding categorical variables for machine learning models.
-    Scaling numerical features to standardize the data.
-    Extracting time-based features to capture seasonality and trends.
+- **Creating New Features:** 
+  - Generating additional variables to enhance predictive power.
+  
+- **Encoding Categorical Variables:** 
+  - Converting categorical data into a format suitable for machine learning models.
+  
+- **Scaling Numerical Features:** 
+  - Standardizing the data to ensure that all features contribute equally to model performance.
+  
+- **Extracting Time-Based Features:** 
+  - Deriving features from date-related information to capture seasonality and trends.
 
-Below is the full code for the Feature Engineering step: 
+---
+
+Below is the full code for the **Feature Engineering** step:
+
 
 
 ![Feature Engineering](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Walmart-Sales-Analysis-with-python/Feature%20Engineering-code.png)
