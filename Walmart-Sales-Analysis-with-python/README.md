@@ -320,96 +320,29 @@ The bar chart and pie chart illustrate the distribution of data points across th
 
 ## Key Insights and Findings 
 
-**Distribution Analysis: Key Insights**
-
-Weekly Sales: Right-skewed distribution with multiple peaks, indicating varied sales volumes across different weeks.
-Temperature: Normally distributed, suggesting a balanced seasonal variation in recorded temperatures.
-Fuel Price: Bimodal distribution, reflecting fluctuations in fuel prices over time.
-CPI (Consumer Price Index): Shows a non-uniform distribution, highlighting economic shifts.
-Unemployment: Right-skewed with a sharp peak, indicating periods of higher unemployment rates.
-These insights help in understanding data trends and potential correlations for predictive modeling. 
-
-
-
-
-
-**Correlation Analysis: Key Insights**
-
-Weak correlations exist between weekly sales and other variables, suggesting external factors influence sales trends.
-CPI and unemployment show a moderate negative correlation (-0.30), indicating potential economic interactions.
-Fuel price and CPI have a slight negative correlation (-0.17), reflecting possible inflationary effects.
-Temperature and fuel price exhibit a weak positive correlation (0.14), hinting at seasonal demand influences.
-These insights guide feature selection and refinement in predictive modeling. 
-
-
-
-
-**Seasonal Sales Analysis: Key Insights**
-
-Highest sales were recorded in Spring 2010 and Summer 2012, indicating seasonal demand fluctuations.
-
-Winter 2012 had the lowest sales, suggesting a decline in consumer activity during that period.
-
-Autumn 2011 saw a peak, contrasting with the drop in 2012, hinting at external economic or market factors.
-
-Sales generally vary across seasons, emphasizing the need for seasonality adjustments in predictive modeling. 
-
-
-
-**Total Weekly sales** 
-
-Seasonal Sales Variation:
-
-    Sales fluctuate across different seasons, indicating a strong seasonal trend in Walmart’s revenue.
-    Spring and Summer generally outperform Winter and Autumn, suggesting higher consumer spending during warmer months.
-
-Highest Sales Period:
-
-    Summer 2012 recorded the highest total weekly sales among all seasons and years, indicating strong demand during that period.
-    This suggests that Walmart may have capitalized on summer promotions, increased demand for seasonal products, or economic factors.
-
-Winter 2012 Decline:
-
-    A noticeable drop in Winter 2012 sales compared to previous years, which could be attributed to economic downturns, weather conditions, or changes in consumer behavior.
-
-Year-over-Year Growth:
-
-    While 2010 and 2011 show relatively balanced seasonal trends, 2012 exhibits greater variation, with Summer significantly outperforming other seasons.
-
-Business Implications:
-
-    These seasonal trends could inform inventory planning, marketing strategies, and promotional campaigns to optimize sales in peak seasons and mitigate drops in lower-performing periods. 
-
-
-
-**Overall Holiday Distribution**
-
-
-    Holidays Contribute Minimally to Sales Weeks:
-        Only 6.99% of total sales weeks are classified as holidays, indicating that Walmart’s revenue is primarily generated during non-holiday periods.
-
-    Stable Holiday Sales Across Years:
-        The proportion of holiday sales remains relatively consistent from 2010 to 2012, suggesting no major spikes in holiday-driven shopping behavior.
-
-    Non-Holiday Sales Dominate:
-        With 93.01% of sales occurring on non-holiday weeks, Walmart experiences steady year-round demand, reducing dependence on holiday events.
-
-    Business Implications:
-        Walmart should focus on strategic holiday promotions to maximize revenue during holiday weeks, as they do not currently show significant sales surges.
-        Maintaining strong non-holiday marketing and inventory strategies is crucial, as consistent sales outside of holiday periods drive overall business performance. 
-
-
-**sales distribution over time**
-
-
-Balanced Data Distribution: The dataset is fairly well distributed across the years, with 2011 having the highest representation (36.36%), followed by 2010 (33.57%) and 2012 (30.07%). 
-
-Slight Decline in 2012: A decrease in data points in 2012 suggests potential changes in reporting, business operations, or external factors influencing sales.
-
-Reliable Trend Analysis: The even distribution across three years ensures a solid foundation for identifying year-over-year trends and seasonality in sales performance.
-
-This analysis provides a comprehensive view of sales distribution over time, supporting data-driven decision-making.
-
+Distribution Analysis
+Weekly Sales: Right-skewed with multiple peaks, indicating varied sales volumes.
+Temperature: Normally distributed, reflecting balanced seasonal variation.
+Fuel Price: Bimodal, showing price fluctuations over time.
+CPI & Unemployment: Non-uniform and right-skewed, highlighting economic shifts.
+Correlation Analysis
+Sales & Other Variables: Weak correlations suggest external factors drive sales.
+CPI & Unemployment (-0.30): Moderate negative correlation, indicating economic interactions.
+Fuel Price & CPI (-0.17): Slight negative correlation, hinting at inflationary effects.
+Temperature & Fuel Price (0.14): Weak positive correlation, suggesting seasonal demand impact.
+Seasonal Sales Trends
+Highest Sales: Spring 2010 & Summer 2012, showing seasonal demand surges.
+Winter 2012 Drop: Potential economic downturn or consumer behavior shift.
+Autumn 2011 Peak: Contrasting with 2012’s decline, reflecting external market factors.
+Holiday Sales Impact
+Minimal Holiday Contribution (6.99% of weeks): Sales are primarily driven by non-holiday periods.
+Stable Holiday Sales: Consistent trends from 2010-2012 with no major spikes.
+Business Strategy: Strengthening holiday promotions and non-holiday marketing is key.
+Sales Distribution Over Time
+Balanced Representation: 2011 (36.36%), 2010 (33.57%), 2012 (30.07%).
+2012 Decline: Possible operational or market shifts.
+Reliable Trend Analysis: Even distribution enables strong year-over-year insights.
+This analysis highlights sales patterns, economic influences, and seasonality trends, supporting data-driven decision-making.
 
 
 
