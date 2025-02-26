@@ -396,7 +396,19 @@ Business Implications:
 
     Business Implications:
         Walmart should focus on strategic holiday promotions to maximize revenue during holiday weeks, as they do not currently show significant sales surges.
-        Maintaining strong non-holiday marketing and inventory strategies is crucial, as consistent sales outside of holiday periods drive overall business performance.
+        Maintaining strong non-holiday marketing and inventory strategies is crucial, as consistent sales outside of holiday periods drive overall business performance. 
+
+
+**sales distribution over time**
+
+
+Balanced Data Distribution: The dataset is fairly well distributed across the years, with 2011 having the highest representation (36.36%), followed by 2010 (33.57%) and 2012 (30.07%). 
+
+Slight Decline in 2012: A decrease in data points in 2012 suggests potential changes in reporting, business operations, or external factors influencing sales.
+
+Reliable Trend Analysis: The even distribution across three years ensures a solid foundation for identifying year-over-year trends and seasonality in sales performance.
+
+This analysis provides a comprehensive view of sales distribution over time, supporting data-driven decision-making.
 
 
 
