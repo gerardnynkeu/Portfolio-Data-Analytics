@@ -332,6 +332,7 @@ While this analysis provided valuable insights, several limitations should be co
 Data Completeness & Quality: No missing values were present, but potential data inconsistencies could introduce biases.
 
 Feature Limitations: The dataset lacks customer demographics, marketing data, and external economic factors that impact sales.
+
 Holiday Influence Simplification: Holiday effects are flagged but do not account for regional variations, promotions, or seasonality beyond binary classification.
 
 External Market Conditions: Economic trends, competitor pricing, and supply chain disruptions are not included, limiting market context.
@@ -365,12 +366,19 @@ Your actionable recommendations content goes here...
 This exploratory analysis provided key insights into Walmart’s sales trends. To deepen the analysis and enhance decision-making, future work could include:
 
 Predictive Modeling: Leverage machine learning models (e.g., Linear Regression, Random Forest, XGBoost) to forecast sales based on historical data and external factors.
+
 Time Series Analysis: Apply forecasting techniques (e.g., ARIMA, Prophet) to capture seasonality, holiday effects, and long-term trends.
+
 Market Basket Analysis: Use association rule mining (e.g., Apriori, FP-Growth) to uncover customer purchasing patterns if item-level data is available.
+
 Sentiment & External Data Integration: Incorporate social media sentiment, economic indicators, and competitor pricing for demand forecasting.
+
 Advanced Feature Engineering: Develop new variables such as moving averages, holiday impact, and store segmentation to improve predictions.
+
 Geospatial Analysis: Analyze regional sales trends and optimize store performance using location data.
+
 Dashboard Development: Build interactive dashboards with Tableau, Power BI, or Plotly Dash for real-time insights.
+
 Causal Inference & A/B Testing: Assess the impact of promotions, pricing, and in-store strategies on sales performance.
 
 
