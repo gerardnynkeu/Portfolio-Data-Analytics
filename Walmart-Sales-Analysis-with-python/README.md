@@ -327,21 +327,15 @@ Your key insights and findings content goes here...
 
 ## Limitations 
 
-Despite the insights gained from this analysis, several limitations should be considered:
+While this analysis provided valuable insights, several limitations should be considered:
 
-Data Completeness & Quality – The dataset hat no missing values. Data cleaning techniques were applied, but incomplete records might introduce biases.
-
-Feature Limitations – The dataset primarily includes transactional and time-series data but lacks detailed customer demographics, marketing campaigns, or external economic factors that influence sales trends.
-
-Holiday Influence Simplification – The dataset flags holidays, but it does not account for varying regional effects, holiday-specific promotions, or seasonal factors beyond binary classification.
-
-External Market Conditions – Economic indicators, competitor pricing, and supply chain factors are not included, which limits a more comprehensive market analysis.
-
-Time Scope Constraints – The dataset spans a limited period, meaning long-term trends, shifts in consumer behavior, and emerging market patterns may not be fully captured.
-
-Granularity of Data – The dataset aggregates sales at a higher level, potentially masking store-specific or product-level insights that could enhance targeted decision-making.
-
-By acknowledging these limitations, the analysis remains transparent, and future research directions can be explored to refine predictive modeling and business recommendations. 
+Data Completeness & Quality: No missing values were present, but potential data inconsistencies could introduce biases.
+Feature Limitations: The dataset lacks customer demographics, marketing data, and external economic factors that impact sales.
+Holiday Influence Simplification: Holiday effects are flagged but do not account for regional variations, promotions, or seasonality beyond binary classification.
+External Market Conditions: Economic trends, competitor pricing, and supply chain disruptions are not included, limiting market context.
+Time Scope Constraints: The dataset covers a limited period, restricting insights into long-term trends and shifting consumer behavior.
+Granularity of Data: Aggregated sales data may obscure store-specific or product-level trends critical for targeted analysis.
+Recognizing these limitations ensures analytical transparency and highlights areas for future refinement in predictive modeling and business insights.
 
 
 <!-- Conclusion Banner -->
