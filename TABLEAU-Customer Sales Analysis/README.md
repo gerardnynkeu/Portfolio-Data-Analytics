@@ -129,14 +129,16 @@ Feel free to explore the project and let me know your thoughts!
 This project showcases a Customer Sales Analysis using Tableau for data visualization and business intelligence.
 
 Customer-Sales-Analysis/
-│── README.md                      Project documentation
-│── Tableau-Dashboard.twbx         Tableau workbook
-│── dataset/                       Raw dataset used for analysis
+│── README.md                     # Project documentation
+│── Tableau-Dashboard.twbx        # Tableau workbook
+│── dataset/                      # Raw dataset used for analysis
 
 
 ## How to Use
 
-Download the dataset and open it in Tableau.
+Download the dataset ## Dataset
+
+The dataset used in this project can be found on Kaggle: [Sales Data](https://www.kaggle.com/datasets/miketaylor123/sales-data) and open it in Tableau.
 
 Explore the provided dashboard to gain insights.
 
