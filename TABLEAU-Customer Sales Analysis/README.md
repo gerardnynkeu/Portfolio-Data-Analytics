@@ -62,7 +62,7 @@ This Tableau dashboard provides a comprehensive analysis of customer revenue dat
 
 
 
-# Customer Analysis Visualization with Tableau
+
 
 ## Dashboard Components
 
@@ -114,7 +114,8 @@ This Tableau dashboard provides valuable insights into revenue distribution acro
 
 ## Tools
 
-Check out my Tableau project for Customer Sales Analysis: [View my Tableau project](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/tableau-customer-analysis/Dashboard1)
+Check out my Tableau project for Customer Sales Analysis: [View my Tableau project](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/tableau-customer-analysis/Dashboard1) 
+
 
 ### Tools Used
 - **Tableau**: For creating interactive and shareable dashboards.
@@ -129,9 +130,24 @@ This project showcases a Customer Sales Analysis using Tableau for data visualiz
 
 ```plaintext
 Customer-Sales-Analysis/
-│── README.md                     # Project documentation
-│── Tableau-Dashboard.twbx        # Tableau workbook
-│── dataset/                      # Raw dataset used for analysis
+│── README.md                      Project documentation
+│── Tableau-Dashboard.twbx         Tableau workbook
+│── dataset/                       Raw dataset used for analysis
+
+
+
+## How to Use
+
+1. **Download the Dataset**: Obtain the dataset provided in the repository.
+
+2. **Open in Tableau**: Launch Tableau and open the dataset to begin your analysis.
+
+3. **Explore the Dashboard**: Navigate through the pre-built dashboard to gain insights into customer sales data.
+
+4. **Customize Visualizations**: Modify or expand the existing visualizations
+ to fit your specific analysis needs and extract further insights.
+
+Feel free to let me know if you need any additional modifications!
 
 
 
