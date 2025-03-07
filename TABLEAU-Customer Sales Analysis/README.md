@@ -25,7 +25,29 @@ Customer Information: Name, age, gender, email, and location.
 Sales Metrics: Total revenue, discount amounts, and payment methods.
 
 ## Key Insights
-[Highlight the key insights derived from the analysis here.]
+
+In this project, a comprehensive analysis of customer sales data was conducted using Tableau. Below are the key insights derived from the analysis:
+
+- **Revenue per State**: 
+  - Analysis of the total revenue generated from each state, highlighting the states with the highest and lowest revenue contributions.
+
+- **Revenue Based on Month of the Year**: 
+  - Examination of revenue trends across different months, identifying peak sales periods and off-peak months.
+
+- **Revenue Based on Age**: 
+  - Insights into how revenue varies across different age groups, pinpointing the most lucrative age demographics.
+
+- **Quantity-Discount Percentage Correlation**: 
+  - Analysis of the relationship between the quantity of items purchased and the discount percentage offered, illustrating how discounts influence purchase quantities.
+
+- **Percentage of Revenue per Region**: 
+  - Breakdown of revenue by region, showcasing the percentage contribution of each region to the overall revenue.
+
+- **Revenue per Category per Gender**: 
+  - Detailed analysis of revenue generated from different product categories, segmented by gender to understand purchasing patterns.
+
+- **Total Revenue**: 
+  - Overview of the total revenue generated from the dataset, providing a comprehensive view of the overall sales performance.
 
 ## Visualizations & Dashboard
 [Detail the visualizations and dashboard created using Tableau here.]
