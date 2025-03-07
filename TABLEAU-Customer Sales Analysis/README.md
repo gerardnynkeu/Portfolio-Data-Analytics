@@ -49,8 +49,11 @@ In this project, a comprehensive analysis of customer sales data was conducted u
 - **Total Revenue**: 
   - Overview of the total revenue generated from the dataset, providing a comprehensive view of the overall sales performance.
 
+## Visualizations & Dashboard 
+
+
 ## Visualizations & Dashboard
-[Detail the visualizations and dashboard created using Tableau here.]
+![Customer Sales Analysis](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/raw/main/TABLEAU-Customer%20Sales%20Analysis/Customer-viz-tableau.png)
 
 ## Tools
 [List the tools and technologies used in this project here.]
