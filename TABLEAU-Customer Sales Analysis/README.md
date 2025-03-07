@@ -11,10 +11,18 @@
 - [Connect with Me](#connect-with-me)
 
 ## Introduction
-[Provide a brief introduction about the project here.]
 
-## Dataset Overview
-[Describe the dataset used in the analysis here.]
+This project analyzes customer sales data using Tableau to provide insights into order trends, revenue distribution, and customer demographics. The dataset contains 286,392 transactions with details on sales, customers, payment methods, and geographical distribution.
+
+## Dataset Overview 
+
+The dataset consists of 36 columns, including:
+
+Order Details: Order ID, date, status, item ID, SKU, quantity, price, and discount.
+
+Customer Information: Name, age, gender, email, and location.
+
+Sales Metrics: Total revenue, discount amounts, and payment methods.
 
 ## Key Insights
 [Highlight the key insights derived from the analysis here.]
