@@ -147,4 +147,14 @@ Modify or expand visualizations to suit your analysis needs.
 
 
 ## Connect with Me
-[Share your contact information or links to your social media profiles here.]
+
+**Author:** Gerard Nynkeu
+
+- **GitHub:** [gerardnynkeu](https://github.com/gerardnynkeu)
+- **Kaggle:** [Your Kaggle Profile](https://github.com/gerardnynkeu/Portfolio-Data-Analytics)
+- **Tableau:** [Your Tableau Profile](https://public.tableau.com/profile/yourprofile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+---
+
+End of the project.
