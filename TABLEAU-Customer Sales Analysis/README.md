@@ -128,10 +128,11 @@ Feel free to explore the project and let me know your thoughts!
 
 This project showcases a Customer Sales Analysis using Tableau for data visualization and business intelligence.
 
-📁 Customer-Sales-Analysis
-│── 📜 README.md  # Project documentation
-│── 📊 Tableau-Dashboard.twbx  # Tableau workbook
-│── 📁 dataset  # Raw dataset used for analysis
+#### Customer-Sales-Analysis
+
+- **README.md**: Project documentation
+- **Tableau-Dashboard.twbx**: Tableau workbook
+- **dataset**: Raw dataset used for analysis
 
 
 
@@ -158,4 +159,4 @@ Modify or expand visualizations to suit your analysis needs.
 
 ---
 
-End of the project.
+## End of the project
