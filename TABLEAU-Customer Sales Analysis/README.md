@@ -110,11 +110,18 @@ This Tableau dashboard provides a comprehensive analysis of customer revenue dat
 This Tableau dashboard provides valuable insights into revenue distribution across various dimensions. It aids in strategic decision-making by identifying high-performing regions, optimal discount strategies, seasonal revenue trends, and customer demographics. Future improvements could include deeper drill-down analysis, predictive analytics, and customer segmentation for targeted marketing strategies. 
 
 
-[View my Tableau project](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/tableau-customer-analysis/Dashboard1)
 
 
 ## Tools
-[List the tools and technologies used in this project here.]
+
+Check out my Tableau project for Customer Sales Analysis: [View my Tableau project](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/tableau-customer-analysis/Dashboard1)
+
+### Tools Used
+- **Tableau**: For creating interactive and shareable dashboards.
+- **Data Visualization**: Techniques and tools to create visual representations of data.
+- **Business Intelligence**: Strategies and technologies used by enterprises for data analysis.
+
+Feel free to explore the project and let me know your thoughts!
 
 ## Project Structure
 [Outline the structure of the project here.]
