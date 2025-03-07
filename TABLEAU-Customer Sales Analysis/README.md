@@ -124,7 +124,14 @@ Check out my Tableau project for Customer Sales Analysis: [View my Tableau proje
 Feel free to explore the project and let me know your thoughts!
 
 ## Project Structure
-[Outline the structure of the project here.]
+
+This project showcases a Customer Sales Analysis using Tableau for data visualization and business intelligence.
+
+```plaintext
+Customer-Sales-Analysis/
+│── README.md                     # Project documentation
+│── Tableau-Dashboard.twbx        # Tableau workbook
+│── dataset/                      # Raw dataset used for analysis
 
 ## How to Use
 [Provide instructions on how to use or interact with the project here.]
