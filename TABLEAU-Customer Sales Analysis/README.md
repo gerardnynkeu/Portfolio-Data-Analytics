@@ -107,7 +107,10 @@ This Tableau dashboard provides a comprehensive analysis of customer revenue dat
 - Helps stakeholders understand overall business performance and customer segmentation.
 
 ## Conclusion
-This Tableau dashboard provides valuable insights into revenue distribution across various dimensions. It aids in strategic decision-making by identifying high-performing regions, optimal discount strategies, seasonal revenue trends, and customer demographics. Future improvements could include deeper drill-down analysis, predictive analytics, and customer segmentation for targeted marketing strategies.
+This Tableau dashboard provides valuable insights into revenue distribution across various dimensions. It aids in strategic decision-making by identifying high-performing regions, optimal discount strategies, seasonal revenue trends, and customer demographics. Future improvements could include deeper drill-down analysis, predictive analytics, and customer segmentation for targeted marketing strategies. 
+
+
+[View my Tableau project](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/tableau-customer-analysis/Dashboard1)
 
 
 ## Tools
