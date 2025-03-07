@@ -1,4 +1,10 @@
-# <h1 align="center">Tableau: Customer Sales Analysis</h1>
+# <h1 align="center">Tableau: Customer Sales Analysis</h1> 
+
+
+
+<img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU-Customer%20Sales%20Analysis/customer%20viz.jpg" alt="Customer Visualization" style="width:100%;"> 
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
