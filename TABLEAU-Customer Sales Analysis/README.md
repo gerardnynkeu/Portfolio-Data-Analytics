@@ -159,4 +159,10 @@ Modify or expand visualizations to suit your analysis needs.
 
 ---
 
-## End of the project
+## End of the project 
+
+At the end of this project, i have successfully analyzed customer sales data using Tableau. Key insights and visualizations have been created to help understand sales trends, customer behavior, and overall performance. This project showcases the capabilities of Tableau in transforming raw data into actionable insights.
+
+Thank you for following along with this project. If you have any questions or suggestions, feel free to reach out.
+
+[Back to top](#top)
