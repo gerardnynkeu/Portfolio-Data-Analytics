@@ -138,32 +138,11 @@ Customer-Sales-Analysis/
 
 ## How to Use
 
+Download the dataset and open it in Tableau.
 
+Explore the provided dashboard to gain insights.
 
-
-
-
-
-
-
-
-
-
-
-
-
-## How to Use
-
-1. **Download the Dataset**: Obtain the dataset provided in the repository.
-
-2. **Open in Tableau**: Launch Tableau and open the dataset to begin your analysis.
-
-3. **Explore the Dashboard**: Navigate through the pre-built dashboard to gain insights into customer sales data.
-
-4. **Customize Visualizations**: Modify or expand the existing visualizations
- to fit your specific analysis needs and extract further insights.
-
-Feel free to let me know if you need any additional modifications!
+Modify or expand visualizations to suit your analysis needs.
 
 
 
