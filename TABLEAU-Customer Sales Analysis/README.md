@@ -152,8 +152,8 @@ Modify or expand visualizations to suit your analysis needs.
 
 - **GitHub:** [gerardnynkeu](https://github.com/gerardnynkeu/Portfolio-Data-Analytics)
 - **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/nynkeugerard)
-- **Tableau:** [Your Tableau Profile](https://public.tableau.com/profile/yourprofile)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Tableau:** [Your Tableau Profile](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/tableau-customer-analysis/Dashboard1)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
 
 ---
 
