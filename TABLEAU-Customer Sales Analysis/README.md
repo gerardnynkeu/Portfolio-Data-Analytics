@@ -151,7 +151,7 @@ Modify or expand visualizations to suit your analysis needs.
 **Author:** Gerard Nynkeu
 
 - **GitHub:** [gerardnynkeu](https://github.com/gerardnynkeu)
-- **Kaggle:** [Your Kaggle Profile](https://github.com/gerardnynkeu/Portfolio-Data-Analytics)
+- **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/nynkeugerard)
 - **Tableau:** [Your Tableau Profile](https://public.tableau.com/profile/yourprofile)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
