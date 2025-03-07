@@ -138,6 +138,22 @@ Customer-Sales-Analysis/
 
 ## How to Use
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## How to Use
+
 1. **Download the Dataset**: Obtain the dataset provided in the repository.
 
 2. **Open in Tableau**: Launch Tableau and open the dataset to begin your analysis.
