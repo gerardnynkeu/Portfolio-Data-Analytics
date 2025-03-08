@@ -79,7 +79,10 @@ Key Insights & Findings
 
     Video game sales saw a significant growth from the late 1990s to the mid-2010s, peaking around 2008–2010.
     Action, Sports, and Shooter games contributed the most to overall sales.
-    Sales declined post-2015, likely due to digital distribution overtaking physical game sales, which may not be reflected in this dataset.
+    Sales declined post-2015, likely due to digital distribution overtaking physical game sales,
+    which may not be reflected in this dataset. 
+
+    
 
 2️⃣ Top 10 Best-Selling Games
 
