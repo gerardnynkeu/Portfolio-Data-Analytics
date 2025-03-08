@@ -1,4 +1,4 @@
-# TABLEAU2-Video Game Sales
+<img src="https://img.shields.io/badge/Video--Game--Sales-blue?style=for-the-badge&labelColor=black&color=yellow" alt="Video--Game--Sales" style="width:100%;"> 
 
 ## Table of Contents
 1. [📌 Introduction](#introduction)
@@ -12,28 +12,28 @@
 9. [📌 Connect with Me](#connect-with-me)
 
 ## 📌 Introduction
-Welcome to the Introduction section.
+This is the introduction section.
 
 ## 📌 Dataset Overview
-Overview of the dataset used.
+This is the dataset overview section.
 
 ## 📌 Key Insights
-Key insights derived from the data.
+This is the key insights section.
 
 ## 📌 Visualizations & Dashboard
-Visualizations and dashboard information.
+This is the visualizations & dashboard section.
 
 ## 📌 Project Structure
-Details about the project structure.
+This is the project structure section.
 
 ## 📌 How to Use
-Instructions on how to use this project.
+This is the how to use section.
 
 ## 📌 Tools
-Tools used in this project.
+This is the tools section.
 
 ## 📌 References
-References and sources.
+This is the references section.
 
 ## 📌 Connect with Me
-Information on how to connect with me.
+This is the connect with me section.
