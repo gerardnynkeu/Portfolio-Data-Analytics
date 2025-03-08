@@ -184,6 +184,6 @@ This is the connect with me section.
 
 **Author:** Gerard Nynkeu
 
-**LinkedIn:** [Gerard Nynkeu](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/))
+**LinkedIn:** [Gerard Nynkeu](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
 
 **GitHub:** [Gerard Nynkeu](https://github.com/gerardnynkeu)
