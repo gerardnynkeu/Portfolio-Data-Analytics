@@ -34,7 +34,16 @@ The dataset consists of 11 columns, including:
 
 Game Details: Rank, Name, Platform, Year, Genre, Publisher.
 
-Sales Metrics: Sales in North America, Europe, Japan, Other regions, and Global Sales.
+Sales Metrics: Sales in North America, Europe, Japan, Other regions, and Global Sales. 
+
+
+
+[Dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) 
+
+
+
+
+
 
 ## 📌 Key Insights 
 
