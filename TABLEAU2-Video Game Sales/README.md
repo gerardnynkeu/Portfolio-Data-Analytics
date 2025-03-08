@@ -121,7 +121,14 @@ Key Insights & Findings
     The data confirms the importance of franchise-building and platform exclusivity in driving high sales.
     The transition from physical to digital sales post-2015 explains the declining sales trend in the dataset.
     Nintendo, Sony, and Microsoft remain key players, indicating that game publishers should align their releases
-    with their ecosystems for maximum reach and profitability.
+    with their ecosystems for maximum reach and profitability. 
+
+
+
+
+
+
+**Tableau Public:** [Gerard Nynkeu's Visualizations](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/VideoGameSales_17414327172940/Dashboard1)
 
 
 
