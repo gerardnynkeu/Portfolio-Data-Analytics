@@ -129,7 +129,12 @@ Key Insights & Findings
 
 
 ## 📌 Project Structure
+
 This is the project structure section.
+
+
+![Project Structure](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/project%20structure.png)
+
 
 ## 📌 How to Use
 This is the how to use section.
