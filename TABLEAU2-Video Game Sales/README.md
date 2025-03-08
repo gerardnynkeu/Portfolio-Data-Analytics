@@ -137,7 +137,13 @@ This is the project structure section.
 
 
 ## 📌 How to Use
-This is the how to use section.
+This is the how to use section. 
+
+Download the dataset and open it in Tableau.
+
+Explore the provided dashboard to gain insights.
+
+Modify or expand visualizations to suit your analysis needs.
 
 ## 📌 Tools
 This is the tools section.
