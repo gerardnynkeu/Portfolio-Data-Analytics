@@ -11,39 +11,29 @@
 8. [📌 References](#references)
 9. [📌 Connect with Me](#connect-with-me)
 
+## 📌 Introduction
+Welcome to the Introduction section.
 
-<div id="introduction" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Introduction</h2>
-</div>
+## 📌 Dataset Overview
+Overview of the dataset used.
 
-<div id="dataset-overview" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Dataset Overview</h2>
-</div>
+## 📌 Key Insights
+Key insights derived from the data.
 
-<div id="key-insights" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Key Insights</h2>
-</div>
+## 📌 Visualizations & Dashboard
+Visualizations and dashboard information.
 
-<div id="visualizations--dashboard" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Visualizations & Dashboard</h2>
-</div>
+## 📌 Project Structure
+Details about the project structure.
 
-<div id="project-structure" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Project Structure</h2>
-</div>
+## 📌 How to Use
+Instructions on how to use this project.
 
-<div id="how-to-use" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 How to Use</h2>
-</div>
+## 📌 Tools
+Tools used in this project.
 
-<div id="tools" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Tools</h2>
-</div>
+## 📌 References
+References and sources.
 
-<div id="references" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 References</h2>
-</div>
-
-<div id="connect-with-me" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <h2>📌 Connect with Me</h2>
-</div>
+## 📌 Connect with Me
+Information on how to connect with me.
