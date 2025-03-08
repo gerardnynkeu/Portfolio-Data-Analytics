@@ -139,7 +139,7 @@ This is the project structure section.
 ## 📌 How to Use
 This is the how to use section. 
 
-Download the dataset and open it in Tableau.
+Download the dataset and open it in Tableau. [Dataset on GitHub](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/vgsales.csv)
 
 Explore the provided dashboard to gain insights.
 
