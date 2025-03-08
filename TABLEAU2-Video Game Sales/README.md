@@ -24,14 +24,37 @@
 8. [📌 References](#references)
 9. [📌 Connect with Me](#connect-with-me)
 
-## 📌 Introduction
-This is the introduction section.
+## 📌 Introduction 
+
+This project analyzes video game sales data using Tableau to uncover trends in sales performance, platform popularity, and publisher influence. The dataset includes 16,598 games with details on sales, platforms, and genres.
 
 ## 📌 Dataset Overview
-This is the dataset overview section.
 
-## 📌 Key Insights
-This is the key insights section.
+The dataset consists of 11 columns, including:
+
+Game Details: Rank, Name, Platform, Year, Genre, Publisher.
+
+Sales Metrics: Sales in North America, Europe, Japan, Other regions, and Global Sales.
+
+## 📌 Key Insights 
+
+Sales Trends by Year & Genre - Analyzing how sales have evolved across different game genres.
+
+Top 10 Best-Selling Games - Identifying the top-selling titles in the dataset.
+
+Top 10 Platforms by Sales - Understanding which platforms dominate the market.
+
+Top 10 Publishers by Sales - Discovering the most successful publishers.
+
+Total Unique Games - Calculating the total number of unique titles.
+
+Total Platforms in the Dataset - Identifying the number of gaming platforms included.
+
+Total Publishers in the Dataset - Counting the number of unique publishers.
+
+Total Genres Covered - Analyzing the diversity of game genres.
+
+Total Sales by Genre - Understanding which genres generate the highest revenue.
 
 ## 📌 Visualizations & Dashboard
 This is the visualizations & dashboard section.
