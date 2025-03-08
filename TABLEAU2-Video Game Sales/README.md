@@ -145,6 +145,7 @@ Explore the provided dashboard to gain insights.
 
 Modify or expand visualizations to suit your analysis needs.
 
+
 ## 📌 Tools 
 
 🔹 Tools Used
@@ -156,10 +157,13 @@ Modify or expand visualizations to suit your analysis needs.
 
 
 📚 References & Certifications
+
 🔹 Dataset Source
 
-    The dataset used in this analysis is the Video Game Sales dataset, which contains historical sales data for video games across multiple platforms, including sales by region, genre, and publisher.
-    Source: (Provide the original dataset link if available, e.g., Kaggle, data.world, or another source).
+    The dataset used in this analysis is the Video Game Sales dataset, which contains historical sales data 
+    for video games across multiple platforms, including sales by region, genre, and publisher.
+    Source:
+    [Dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 🔹 Relevant Documentation
 
