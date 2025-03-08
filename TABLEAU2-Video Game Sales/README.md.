@@ -1,4 +1,3 @@
-
 # TABLEAU2-Video Game Sales
 
 ## Table of Contents
@@ -14,29 +13,38 @@
 
 ---
 
-<div id="introduction"></div>
-## 📌 Introduction
+<div id="introduction" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Introduction</h2>
+</div>
 
-<div id="dataset-overview"></div>
-## 📌 Dataset Overview
+<div id="dataset-overview" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Dataset Overview</h2>
+</div>
 
-<div id="key-insights"></div>
-## 📌 Key Insights
+<div id="key-insights" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Key Insights</h2>
+</div>
 
-<div id="visualizations--dashboard"></div>
-## 📌 Visualizations & Dashboard
+<div id="visualizations--dashboard" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Visualizations & Dashboard</h2>
+</div>
 
-<div id="project-structure"></div>
-## 📌 Project Structure
+<div id="project-structure" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Project Structure</h2>
+</div>
 
-<div id="how-to-use"></div>
-## 📌 How to Use
+<div id="how-to-use" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 How to Use</h2>
+</div>
 
-<div id="tools"></div>
-## 📌 Tools
+<div id="tools" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Tools</h2>
+</div>
 
-<div id="references"></div>
-## 📌 References
+<div id="references" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 References</h2>
+</div>
 
-<div id="connect-with-me"></div>
-## 📌 Connect with Me
+<div id="connect-with-me" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h2>📌 Connect with Me</h2>
+</div>
