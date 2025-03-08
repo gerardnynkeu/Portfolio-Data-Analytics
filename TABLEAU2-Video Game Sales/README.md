@@ -163,7 +163,7 @@ Modify or expand visualizations to suit your analysis needs.
     The dataset used in this analysis is the Video Game Sales dataset, which contains historical sales data 
     for video games across multiple platforms, including sales by region, genre, and publisher.
     Source:
-    [Dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
+    [Dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) 
 
 🔹 Relevant Documentation
 
