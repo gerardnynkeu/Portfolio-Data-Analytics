@@ -64,6 +64,57 @@ This interactive Tableau dashboard provides a comprehensive analysis of video ga
 
 
 
+![Dashboard Image](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/Dashboard%201%20(1).png) 
+
+
+
+
+
+
+
+
+Key Insights & Findings 
+
+1️⃣ Sales Trends Over Time (Sales per Year & Genre)
+
+    Video game sales saw a significant growth from the late 1990s to the mid-2010s, peaking around 2008–2010.
+    Action, Sports, and Shooter games contributed the most to overall sales.
+    Sales declined post-2015, likely due to digital distribution overtaking physical game sales, which may not be reflected in this dataset.
+
+2️⃣ Top 10 Best-Selling Games
+
+    Wii Sports leads with 29.02 million units sold, followed by Grand Theft Auto V (23.04M) and Mario Kart Wii (12.88M).
+    The dominance of Nintendo and Rockstar Games highlights the influence of flagship franchises.
+
+3️⃣ Top 10 Publishers by Sales
+
+    Nintendo dominates the market with 418.3M sales, followed by Electronic Arts (367.4M) and Activision (213.7M).
+    Publishers with strong multi-platform releases and long-running franchises drive the highest sales.
+
+4️⃣ Top 10 Platforms by Sales
+
+    The Nintendo Wii leads with 53.96M units sold, followed by PlayStation 3 (30.41M) and Xbox 360 (19.85M).
+    The PlayStation and Xbox ecosystems have consistently remained strong contenders.
+
+5️⃣ Total Sales by Genre
+
+    Action games dominate with 516.5M sales, followed by Sports (371.3M) and Shooter (310.5M) genres.
+    Casual-friendly genres like Platformers, Puzzle, and Strategy have lower total sales, showing a more niche market. 
+
+
+
+
+🚀 Conclusion & Business Impact
+
+    The data confirms the importance of franchise-building and platform exclusivity in driving high sales.
+    The transition from physical to digital sales post-2015 explains the declining sales trend in the dataset.
+    Nintendo, Sony, and Microsoft remain key players, indicating that game publishers should align their releases
+    with their ecosystems for maximum reach and profitability.
+
+
+
+
+
 
 ## 📌 Project Structure
 This is the project structure section.
