@@ -1,5 +1,18 @@
 <img src="https://img.shields.io/badge/Video--Game--Sales-blue?style=for-the-badge&labelColor=black&color=yellow" alt="Video--Game--Sales" style="width:100%;"> 
 
+
+
+
+
+
+<!-- Video Game Sales Banner -->
+<a id="video-game-sales"></a>
+<img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/Video--Game--Sales.jpg" alt="Video Game Sales" style="width:100%;"> 
+
+
+
+
+
 ## Table of Contents
 1. [📌 Introduction](#introduction)
 2. [📌 Dataset Overview](#dataset-overview)
