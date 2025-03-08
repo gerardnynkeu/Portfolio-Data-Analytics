@@ -145,11 +145,35 @@ Explore the provided dashboard to gain insights.
 
 Modify or expand visualizations to suit your analysis needs.
 
-## 📌 Tools
-This is the tools section.
+## 📌 Tools 
 
-## 📌 References
-This is the references section.
+🔹 Tools Used
+
+    Tableau – For data visualization and dashboard creation.
+    
+
+## 📌 References 
+
+
+📚 References & Certifications
+🔹 Dataset Source
+
+    The dataset used in this analysis is the Video Game Sales dataset, which contains historical sales data for video games across multiple platforms, including sales by region, genre, and publisher.
+    Source: (Provide the original dataset link if available, e.g., Kaggle, data.world, or another source).
+
+🔹 Relevant Documentation
+
+    Tableau Documentation – For best practices in data visualization.
+    Google Data Analytics Certificate – Applied data analysis and visualization techniques from my certification.
+    Industry Reports – Used insights from market analysis reports on the gaming industry to contextualize trends.
+
+🔹 Certifications
+
+🎓 Google Data Analytics Certificate
+
+    Completed an intensive 8-course program covering data cleaning, analysis, and visualization.
+    Learned industry-standard tools such as SQL, R, Tableau, and Spreadsheets.
+    Applied knowledge to real-world datasets, reinforcing data storytelling and visualization best practices.
 
 ## 9.📌 Connect with Me
 This is the connect with me section.
