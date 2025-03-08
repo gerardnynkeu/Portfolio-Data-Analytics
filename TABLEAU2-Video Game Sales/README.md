@@ -56,8 +56,14 @@ Total Genres Covered - Analyzing the diversity of game genres.
 
 Total Sales by Genre - Understanding which genres generate the highest revenue.
 
-## 📌 Visualizations & Dashboard
-This is the visualizations & dashboard section.
+## 📌 Visualizations & Dashboard 
+
+This interactive Tableau dashboard provides a comprehensive analysis of video game sales across different dimensions, including publishers, platforms, genres, and yearly trends. The dataset includes 11,493 video games, categorized by 579 publishers, 31 platforms, and 12 genres, making it an extensive dataset for industry insights. 
+
+
+
+
+
 
 ## 📌 Project Structure
 This is the project structure section.
