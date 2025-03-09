@@ -1,4 +1,8 @@
-<img src="https://img.shields.io/badge/Video--Game--Sales-blue?style=for-the-badge&labelColor=black&color=yellow" alt="Video--Game--Sales" style="width:100%;"> 
+ <img src="https://img.shields.io/badge/Video--Game--Sales-blue?style=for-the-badge&labelColor=black&color=yellow" alt="Video--Game--Sales" style="width:100%;"> 
+
+
+
+ 
 
 
 
@@ -8,6 +12,9 @@
 <!-- Video Game Sales Banner -->
 <a id="video-game-sales"></a>
 <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/Video--Game--Sales.jpg" alt="Video Game Sales" style="width:100%;"> 
+
+
+
 
 
 
@@ -24,9 +31,14 @@
 8. [📌 References](#references)
 9. [📌 Connect with Me](#connect-with-me)
 
+
+
+
 ## 1. 📌 Introduction 
 
 This project analyzes video game sales data using Tableau to uncover trends in sales performance, platform popularity, and publisher influence. The dataset includes 16,598 games with details on sales, platforms, and genres.
+
+
 
 ## 2. 📌 Dataset Overview
 
@@ -64,6 +76,9 @@ Total Publishers in the Dataset - Counting the number of unique publishers.
 Total Genres Covered - Analyzing the diversity of game genres.
 
 Total Sales by Genre - Understanding which genres generate the highest revenue.
+
+
+
 
 
 
@@ -130,7 +145,12 @@ Key Insights & Findings
 
 
 
-**Tableau Public:** [Gerard Nynkeu's Visualizations](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/VideoGameSales_17414327172940/Dashboard1)
+**Tableau Public:** [Gerard Nynkeu's Visualizations](https://public.tableau.com/app/profile/gerard.nynkeu.njike/viz/VideoGameSales_17414327172940/Dashboard1) 
+
+
+
+
+
 
 
 
@@ -147,6 +167,9 @@ This is the project structure section.
 
 
 
+
+
+
 ## 6. 📌 How to Use
 This is the how to use section. 
 
@@ -159,11 +182,18 @@ Modify or expand visualizations to suit your analysis needs.
 
 
 
+
+
+
 ## 7. 📌 Tools 
 
 🔹 Tools Used
 
     Tableau – For data visualization and dashboard creation.
+
+
+
+    
     
 
 ## 8. 📌 References 
@@ -191,6 +221,10 @@ Modify or expand visualizations to suit your analysis needs.
     Completed an intensive 8-course program covering data cleaning, analysis, and visualization.
     Learned industry-standard tools such as SQL, R, Tableau, and Spreadsheets.
     Applied knowledge to real-world datasets, reinforcing data storytelling and visualization best practices.
+
+
+
+    
 
     
 
