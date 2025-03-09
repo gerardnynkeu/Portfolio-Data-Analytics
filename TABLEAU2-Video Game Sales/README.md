@@ -24,11 +24,11 @@
 8. [📌 References](#references)
 9. [📌 Connect with Me](#connect-with-me)
 
-## 📌 Introduction 
+## 1. 📌 Introduction 
 
 This project analyzes video game sales data using Tableau to uncover trends in sales performance, platform popularity, and publisher influence. The dataset includes 16,598 games with details on sales, platforms, and genres.
 
-## 📌 Dataset Overview
+## 2. 📌 Dataset Overview
 
 The dataset consists of 11 columns, including:
 
@@ -45,7 +45,7 @@ Sales Metrics: Sales in North America, Europe, Japan, Other regions, and Global 
 
 
 
-## 📌 Key Insights 
+## 3. 📌 Key Insights 
 
 Sales Trends by Year & Genre - Analyzing how sales have evolved across different game genres.
 
@@ -65,7 +65,9 @@ Total Genres Covered - Analyzing the diversity of game genres.
 
 Total Sales by Genre - Understanding which genres generate the highest revenue.
 
-## 📌 Visualizations & Dashboard 
+
+
+## 4. 📌 Visualizations & Dashboard 
 
 This interactive Tableau dashboard provides a comprehensive analysis of video game sales across different dimensions, including publishers, platforms, genres, and yearly trends. The dataset includes 11,493 video games, categorized by 579 publishers, 31 platforms, and 12 genres, making it an extensive dataset for industry insights. 
 
@@ -135,32 +137,36 @@ Key Insights & Findings
 
 
 
-## 📌 Project Structure
+## 5. 📌 Project Structure
 
 This is the project structure section.
 
 
-![Project Structure](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/project%20structure.png)
+![Project Structure](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/project%20structure.png) 
 
 
-## 📌 How to Use
+
+
+## 6. 📌 How to Use
 This is the how to use section. 
 
 Download the dataset and open it in Tableau. [Dataset on GitHub](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/TABLEAU2-Video%20Game%20Sales/vgsales.csv)
 
 Explore the provided dashboard to gain insights.
 
-Modify or expand visualizations to suit your analysis needs.
+Modify or expand visualizations to suit your analysis needs. 
 
 
-## 📌 Tools 
+
+
+## 7. 📌 Tools 
 
 🔹 Tools Used
 
     Tableau – For data visualization and dashboard creation.
     
 
-## 📌 References 
+## 8. 📌 References 
 
 
 📚 References & Certifications
