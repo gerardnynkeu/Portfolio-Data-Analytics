@@ -123,7 +123,9 @@ To prepare the dataset for analysis, I first checked for missing values. I disco
 
 | Cleaning Step 1 | Cleaning Step 2 |
 |------------------|------------------|
-| ![Cleaning 1](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/cleaning.png) | ![Cleaning 2](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/cleaning1.png) |
+| ![Cleaning 1](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/cleaning.png) | ![Cleaning 2](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/cleaning1.png) | 
+
+dataset is clean! No missing values left
 
 ---
 
