@@ -105,8 +105,9 @@ This step initializes the environment and provides a quick look at the structure
 
 
 
-### <span style="color:#A93226"><b>Data Cleaning</b></span>
-Handle missing values, remove unnecessary columns, and prepare the data for analysis.
+### <span style="color:#A93226"><b>Data Cleaning</b></span> 
+
+Before diving into analysis, it was essential to clean the dataset by addressing missing values and removing redundant or irrelevant columns. This step ensures the quality and reliability of insights derived from the data. Proper data cleaning helps improve performance in both exploratory analysis and any potential machine learning applications.
 
 ---
 
