@@ -133,6 +133,70 @@ dataset is clean! No missing values left
 
 To understand the overall structure and distribution of the data, I performed an initial statistical exploration. This included calculating key measures of central tendency (mean, median) and dispersion (standard deviation, min, max, quartiles). These insights provide a solid foundation for identifying patterns, outliers, and potential data quality issues before deeper analysis.
 
+### Basic Statistics
+
+| Statistic 1 | Statistic 2 |
+|-------------|-------------|
+| ![Basic Statistic](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/basic%20statistic.png) | ![Basic Statistic 1](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/basic%20statistic1.png) | 
+
+Quantity:
+
+Count: 401,604 records, which is the total number of transactions.
+
+Mean: The average quantity purchased per transaction is 12.18.
+
+Standard Deviation: A high standard deviation (250.28) suggests significant variation in the quantity of items purchased per transaction.
+
+Min: The minimum quantity is -80,995, which likely indicates an error (possibly a return or refund).
+
+25th Percentile (Q1): 25% of transactions involve purchasing 2 or fewer items.
+
+50th Percentile (Median): The median quantity is 5, meaning half of the transactions have 5 or fewer items.
+
+75th Percentile (Q3): 75% of transactions involve purchasing 12 or fewer items.
+
+Max: The maximum quantity is 80,995, which is an outlier, likely indicating a bulk purchase.
+UnitPrice:
+
+Count: 401,604 records.
+
+Mean: The average unit price of items is 3.47, which suggests most items are priced affordably.
+
+Standard Deviation: The standard deviation (69.76) indicates there’s a wide range of item prices, likely due to a few high-priced items.
+
+Min: The minimum price is 0, which could indicate free items or missing price data.
+
+25th Percentile (Q1): 25% of items have a unit price of 1.25 or less.
+
+50th Percentile (Median): The median price is 1.95, meaning half of the items are priced below this value.
+
+75th Percentile (Q3): 75% of items are priced below 3.75.
+
+Max: The highest unit price is 38,970, which could be a luxury or high-end item, or it may indicate an error.
+Summary:
+
+The data shows significant variation in both quantities and prices, with a few extreme values (negative quantities and very high prices), which may require further cleaning or investigation.
+
+The majority of transactions involve low-priced items in small quantities, but there are some outliers with very large quantities and high-priced items. 
+
+
+
+Here’s a brief interpretation of the median and mode values: Median:
+
+Median Quantity: 5.0 – Half of the transactions involve purchasing 5 or fewer items, showing that most purchases are on the smaller side, but not too small.
+
+Median Unit Price: 1.95 – Half of the items are priced below 1.95, indicating that the majority of items are relatively low-priced.
+Mode:
+
+Mode Quantity: 1 – The most common quantity purchased in a transaction is 1 item, which suggests that many purchases are single-item transactions.
+
+Mode Unit Price: 1.25 – The most common unit price is 1.25, showing that a significant portion of items are priced at this value.
+Summary:
+
+Most transactions tend to involve purchasing one item, and these items are typically priced at 1.25. However, when looking at the broader dataset, the median indicates that many transactions involve slightly more items (around 5), with a price point around 1.95. This suggests a mix of small, low-priced purchases and occasional larger purchases.
+
+
+
 ---
 
 ## <span style="color:#16A085"><b>Data Visualization</b></span>
