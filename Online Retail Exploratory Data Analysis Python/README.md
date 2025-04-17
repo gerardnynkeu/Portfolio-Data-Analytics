@@ -179,7 +179,13 @@ The following aspects were explored:
 
     Monthly Sales Trend – Analyze seasonality and performance over time.
 
-These visualizations provide a strong foundation for understanding customer behavior and business performance.
+These visualizations provide a strong foundation for understanding customer behavior and business performance. 
+
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/raw/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/a1..png" alt="Image 2" style="width: 45%; margin-right: 10px;">
+    <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/raw/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/a..png" alt="Image 1" style="width: 45%;">
+</div>
 
 ### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
 Analyze sales trends and identify busy months and days of the week.
