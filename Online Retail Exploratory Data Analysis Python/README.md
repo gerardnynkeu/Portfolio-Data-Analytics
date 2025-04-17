@@ -82,8 +82,7 @@ The dataset contains the following columns:
 
 ---
 
-## <span style="color:#A93226"><b>Tasks</b></span>
-### <span style="color:#A93226"><b>Load the Data</b></span> 
+## <span style="color:#A93226"><b>Tasks</b></span> 
 
 You may explore this dataset in any way you would like - however if you'd like some help getting started, here are a few ideas:
 
@@ -95,6 +94,8 @@ You may explore this dataset in any way you would like - however if you'd like s
 6. Explore the top-selling products and countries based on the quantity sold.
 7. Identify any outliers or anomalies in the dataset and discuss their potential impact on the analysis.
 8. Draw conclusions and summarize your findings from the exploratory data analysis.
+
+### <span style="color:#A93226"><b>Load the Data</b></span> 
 
 ### <span style="color:#A93226"><b>Data Cleaning</b></span>
 Handle missing values, remove unnecessary columns, and prepare the data for analysis.
