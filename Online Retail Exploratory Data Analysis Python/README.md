@@ -1,8 +1,8 @@
-# Online Retail Exploratory Data Analysis with Python 
+# Online Retail Exploratory Data Analysis with Python
 
-<div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; font-size:20px; border-radius:5px;">
-    Online Retail Exploratory Data Analysis with Python
-</div>
+
+
+
 
 ---
 
