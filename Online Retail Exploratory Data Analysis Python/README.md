@@ -191,6 +191,9 @@ These visualizations provide a strong foundation for understanding customer beha
 
 This histogram with KDE (Kernel Density Estimation) shows the distribution of unit prices in the dataset after filtering out extreme outliers. The data is highly right-skewed, indicating that most unit prices are concentrated at the lower end (between 0 and 5), with very few items priced above 20. This suggests that the majority of products are low-cost, and only a small proportion are premium-priced items. This insight can help businesses adjust pricing strategies or identify potential pricing anomalies.
 
+
+![Combined Image](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/raw/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/combined_image.png)
+
 ### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
 Analyze sales trends and identify busy months and days of the week.
 
