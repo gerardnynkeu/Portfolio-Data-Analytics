@@ -97,6 +97,14 @@ You may explore this dataset in any way you would like - however if you'd like s
 
 ### <span style="color:#A93226"><b>Load the Data</b></span> 
 
+The dataset was loaded using pandas from an Excel file named Online Retail.xlsx. Below is the initial setup:
+
+import pandas as pd  
+import numpy as np  
+import matplotlib.pyplot as plt  
+import seaborn as sns
+
+
 ### <span style="color:#A93226"><b>Data Cleaning</b></span>
 Handle missing values, remove unnecessary columns, and prepare the data for analysis.
 
