@@ -129,8 +129,9 @@ dataset is clean! No missing values left
 
 ---
 
-## <span style="color:#1F618D"><b>Basic Statistics</b></span>
-Explore the measures of central tendency and dispersion in the dataset.
+## <span style="color:#1F618D"><b>Basic Statistics</b></span> 
+
+To understand the overall structure and distribution of the data, I performed an initial statistical exploration. This included calculating key measures of central tendency (mean, median) and dispersion (standard deviation, min, max, quartiles). These insights provide a solid foundation for identifying patterns, outliers, and potential data quality issues before deeper analysis.
 
 ---
 
