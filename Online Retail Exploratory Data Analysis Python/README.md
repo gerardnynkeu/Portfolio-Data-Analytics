@@ -109,6 +109,12 @@ This step initializes the environment and provides a quick look at the structure
 
 Before diving into analysis, it was essential to clean the dataset by addressing missing values and removing redundant or irrelevant columns. This step ensures the quality and reliability of insights derived from the data. Proper data cleaning helps improve performance in both exploratory analysis and any potential machine learning applications.
 
+![Missing Value Analysis](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/missing%20value.png) 
+
+There are 1,454 missing values in the Description column.
+
+There are 135,080 missing values in the CustomerID column — that's a lot!
+
 ---
 
 ## <span style="color:#1F618D"><b>Basic Statistics</b></span>
