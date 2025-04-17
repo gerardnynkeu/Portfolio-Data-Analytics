@@ -165,8 +165,22 @@ The dataset contains 401,604 transactions, with noticeable variation in both qua
 
 ---
 
-## <span style="color:#16A085"><b>Data Visualization</b></span>
-Generate plots to visualize the dataset and uncover trends.
+## <span style="color:#16A085"><b>Data Visualization</b></span> 
+
+To gain deeper insights into the dataset, I performed exploratory data visualization using matplotlib and seaborn. Visualizations help uncover patterns, trends, and anomalies that may not be obvious through raw statistics alone.
+
+The following aspects were explored:
+
+    Distribution of Unit Price – Understand pricing behavior across products.
+
+    Top 10 Countries by Total Sales – Identify key markets contributing to revenue.
+
+    Top 10 Products by Revenue – Highlight the most profitable items.
+
+    Monthly Sales Trend – Analyze seasonality and performance over time.
+
+These visualizations provide a strong foundation for understanding customer behavior and business performance.
+
 ### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
 Analyze sales trends and identify busy months and days of the week.
 
