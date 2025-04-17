@@ -113,7 +113,11 @@ Before diving into analysis, it was essential to clean the dataset by addressing
 
 There are 1,454 missing values in the Description column.
 
-There are 135,080 missing values in the CustomerID column — that's a lot!
+There are 135,080 missing values in the CustomerID column — that's a lot! 
+
+
+
+To prepare the dataset for analysis, I first checked for missing values. I discovered that the CustomerID column had over 135,000 missing entries, and the Description column had 1,454 missing values. Since these columns are essential for customer segmentation and product-level insights, I removed rows where either CustomerID or Description was missing. I also removed duplicate rows to avoid skewing the analysis.
 
 ---
 
