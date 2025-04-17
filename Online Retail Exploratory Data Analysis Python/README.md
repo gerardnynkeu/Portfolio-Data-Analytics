@@ -117,7 +117,13 @@ There are 135,080 missing values in the CustomerID column — that's a lot!
 
 
 
-To prepare the dataset for analysis, I first checked for missing values. I discovered that the CustomerID column had over 135,000 missing entries, and the Description column had 1,454 missing values. Since these columns are essential for customer segmentation and product-level insights, I removed rows where either CustomerID or Description was missing. I also removed duplicate rows to avoid skewing the analysis.
+To prepare the dataset for analysis, I first checked for missing values. I discovered that the CustomerID column had over 135,000 missing entries, and the Description column had 1,454 missing values. Since these columns are essential for customer segmentation and product-level insights, I removed rows where either CustomerID or Description was missing. I also removed duplicate rows to avoid skewing the analysis. 
+
+### Data Cleaning
+
+| Cleaning Step 1 | Cleaning Step 2 |
+|------------------|------------------|
+| ![Cleaning 1](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/cleaning.png) | ![Cleaning 2](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/cleaning1.png) |
 
 ---
 
