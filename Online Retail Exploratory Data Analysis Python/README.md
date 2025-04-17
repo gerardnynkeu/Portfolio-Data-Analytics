@@ -99,21 +99,10 @@ You may explore this dataset in any way you would like - however if you'd like s
 
 The dataset was loaded using pandas from an Excel file named Online Retail.xlsx. Below is the initial setup:
 
-Import necessary libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-Load the dataset
-df = pd.read_excel('Online Retail.xlsx')
-Preview the data
-df.head()
-Load the dataset
-df = pd.read_excel('Online Retail.xlsx')
-Preview the data
-df.head()
-
 This step initializes the environment and provides a quick look at the structure of the dataset before beginning the data exploration and analysis process.
+
+![Load Data](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/Load%20Data..png)
+
 
 
 ### <span style="color:#A93226"><b>Data Cleaning</b></span>
