@@ -1,10 +1,9 @@
-# Online Retail Exploratory Data Analysis with Python
+# Online Retail Exploratory Data Analysis with Python 
 
 
+<img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/online%20retail.jpg?raw=true" alt="Online Retail Banner" style="display: block; margin: 0 auto; width: 100%;">
 
 
-
----
 
 ## Table of Contents
 1. [Overview](#overview)
