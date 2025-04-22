@@ -239,6 +239,19 @@ This bar chart shows the total monthly sales from December 2010 through December
 ### <span style="color:#16A085"><b>Top-Selling Products and Countries</b></span>
 Discover the products and countries with the highest sales.
 
+
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/f1.png" alt="Image 1" width="45%" />
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/f..png" alt="Image 2" width="45%" />
+</p> 
+
+
+### Total Sales by Day of the Week
+
+The bar chart reveals how sales are distributed across the days of the week. Thursday stands out as the most profitable day, with total sales nearing 1.9 million. Tuesday and Wednesday also perform strongly, followed by Monday and Friday with moderate sales levels. Notably, Sunday records the lowest total sales, while Saturday shows no data—possibly indicating either no sales or missing data for that day. This trend suggests that customer activity is highest during weekdays, particularly mid-week, which could inform staffing, marketing campaigns, or inventory planning.
+
+
+
 ### <span style="color:#16A085"><b>Outliers and Anomalies</b></span>
 Identify and discuss the impact of outliers on the analysis.
 
