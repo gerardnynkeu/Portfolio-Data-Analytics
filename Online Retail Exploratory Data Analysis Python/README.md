@@ -192,7 +192,13 @@ These visualizations provide a strong foundation for understanding customer beha
 This histogram with KDE (Kernel Density Estimation) shows the distribution of unit prices in the dataset after filtering out extreme outliers. The data is highly right-skewed, indicating that most unit prices are concentrated at the lower end (between 0 and 5), with very few items priced above 20. This suggests that the majority of products are low-cost, and only a small proportion are premium-priced items. This insight can help businesses adjust pricing strategies or identify potential pricing anomalies.
 
 
-![Combined Image](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/raw/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/combined_image.png)
+| ![Image 1](https://raw.githubusercontent.com/gerardnynkeu/Portfolio-Data-Analytics/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/b1..png) | ![Image 2](https://raw.githubusercontent.com/gerardnynkeu/Portfolio-Data-Analytics/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/b..png) |
+|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+
+
+
+### 🌍 Top 10 Countries by Total Sales – Interpretation
+The bar chart displays the top 10 countries ranked by total sales. The United Kingdom stands out with an overwhelmingly higher sales volume compared to all other countries, indicating it is the primary market in this dataset. Other countries such as the Netherlands, Ireland (EIRE), Germany, and France follow but contribute significantly less in comparison. This suggests a strong geographic sales concentration, highlighting the UK as a key driver of revenue and a potential focal point for targeted business strategies.
 
 ### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
 Analyze sales trends and identify busy months and days of the week.
