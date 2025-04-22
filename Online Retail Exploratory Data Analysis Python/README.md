@@ -420,5 +420,6 @@ The following sources, libraries, platforms, and tools were referenced or used d
 ## <span style="color:#566573"><b>Contact</b></span>
 Feel free to reach out for further information:
 - **Author**: Gerard Nynkeu
+- **Linkedin**: https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/
 - **GitHub**: [gerardnynkeu](https://github.com/gerardnynkeu)
-- **Email**: [Your Email Here]
+- **Email**: gerardnynkeu@yahoo.de
