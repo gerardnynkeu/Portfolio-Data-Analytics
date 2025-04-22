@@ -252,6 +252,21 @@ The bar chart reveals how sales are distributed across the days of the week. Thu
 
 
 
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/g1.png" alt="Image 1" width="45%" />
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/g..png" alt="Image 2" width="45%" />
+</p> 
+
+
+
+
+
+Here's a short interpretation:
+
+This bar chart visualizes the top 10 best-selling products by quantity. The data shows that "WORLD WAR 2 GLIDERS ASSTD DESIGNS" is the most sold item, with over 50,000 units sold. It is followed by "JUMBO BAG RED RETROSPOT" and "ASSORTED COLOUR BIRD ORNAMENT", which also demonstrate high sales figures. The chart reveals a gradual decline in quantities sold among the top 10 products, with "PACK OF 60 PINK PAISLEY CAKE CASES" rounding out the list. This analysis helps identify customer preferences and high-demand items, which can guide inventory planning and marketing strategies.
+
+
+
 ### <span style="color:#16A085"><b>Outliers and Anomalies</b></span>
 Identify and discuss the impact of outliers on the analysis.
 
