@@ -200,11 +200,19 @@ This histogram with KDE (Kernel Density Estimation) shows the distribution of un
 ### 🌍 Top 10 Countries by Total Sales – Interpretation
 The bar chart displays the top 10 countries ranked by total sales. The United Kingdom stands out with an overwhelmingly higher sales volume compared to all other countries, indicating it is the primary market in this dataset. Other countries such as the Netherlands, Ireland (EIRE), Germany, and France follow but contribute significantly less in comparison. This suggests a strong geographic sales concentration, highlighting the UK as a key driver of revenue and a potential focal point for targeted business strategies.
 
-### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
-Analyze sales trends and identify busy months and days of the week.
 
 | ![Image 1](https://raw.githubusercontent.com/gerardnynkeu/Portfolio-Data-Analytics/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/c1.png) | ![Image 2](https://raw.githubusercontent.com/gerardnynkeu/Portfolio-Data-Analytics/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/c..png) |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+
+
+### 🏆 Top 10 Products by Revenue – Interpretation
+This horizontal bar chart highlights the top 10 best-performing products based on total revenue. The “Regency Cake Stand 3 Tier” is the top revenue generator, significantly outperforming all other products. It is followed by the “White Hanging Heart T-Light Holder” and “Jumbo Bag Red Retrospot.” The chart reveals a concentration of revenue among a few key products, which suggests these items are either high in demand, high in price, or both. This insight can guide inventory planning, marketing focus, and product promotion strategies.
+
+
+
+### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
+Analyze sales trends and identify busy months and days of the week.
+
 
 ### <span style="color:#16A085"><b>Top-Selling Products and Countries</b></span>
 Discover the products and countries with the highest sales.
