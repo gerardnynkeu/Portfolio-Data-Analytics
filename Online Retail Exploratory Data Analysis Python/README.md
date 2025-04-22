@@ -209,6 +209,17 @@ The bar chart displays the top 10 countries ranked by total sales. The United Ki
 This horizontal bar chart highlights the top 10 best-performing products based on total revenue. The “Regency Cake Stand 3 Tier” is the top revenue generator, significantly outperforming all other products. It is followed by the “White Hanging Heart T-Light Holder” and “Jumbo Bag Red Retrospot.” The chart reveals a concentration of revenue among a few key products, which suggests these items are either high in demand, high in price, or both. This insight can guide inventory planning, marketing focus, and product promotion strategies.
 
 
+| ![Image 1](https://raw.githubusercontent.com/gerardnynkeu/Portfolio-Data-Analytics/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/d1.png) | ![Image 2](https://raw.githubusercontent.com/gerardnynkeu/Portfolio-Data-Analytics/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/d..png) |
+|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+
+
+
+
+### Monthly Sales Trend Analysis
+
+The line chart illustrates the monthly sales trend over a one-year period. Sales began moderately in December, dipped slightly during the first quarter, and showed a noticeable recovery in March and May. Despite minor fluctuations in mid-year, there was a significant increase from August to November, peaking in November with total sales surpassing 1.1 million. However, December experienced a sharp drop. This pattern may reflect seasonal purchasing behavior, possibly linked to holiday sales and year-end consumer trends. Overall, the business appears to experience strong performance in the last quarter of the year.
+
+
 
 ### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
 Analyze sales trends and identify busy months and days of the week.
