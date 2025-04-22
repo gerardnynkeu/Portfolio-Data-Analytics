@@ -353,8 +353,28 @@ The pricing distribution reveals a long tail of low-priced items.
 
 ---
 
-## <span style="color:#CA6F1E"><b>Tools & Technologies</b></span>
-List of tools and technologies used in this project.
+## <span style="color:#CA6F1E"><b>Tools & Technologies</b></span> 
+
+
+The following tools and technologies were used throughout the project for data analysis, visualization, and reporting:
+
+    Python – Core programming language for data manipulation and analysis
+
+    Pandas – Data cleaning, transformation, and exploration
+
+    NumPy – Numerical operations and array processing
+
+    Matplotlib & Seaborn – Data visualization and graphical analysis
+
+    Plotly – Interactive charts and dashboards
+
+    Scikit-learn – Statistical modeling and anomaly detection
+
+    Jupyter Notebook – Development environment for running and documenting code
+
+    Kaggle – Project hosting, sharing, and collaboration platform
+
+    GitHub – Version control and portfolio presentation
 
 ---
 
