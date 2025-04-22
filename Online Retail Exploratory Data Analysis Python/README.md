@@ -224,6 +224,17 @@ The line chart illustrates the monthly sales trend over a one-year period. Sales
 ### <span style="color:#16A085"><b>Sales Trends Over Time</b></span>
 Analyze sales trends and identify busy months and days of the week.
 
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/e1.png" alt="Image 1" width="45%" />
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/e..png" alt="Image 2" width="45%" />
+</p> 
+
+
+
+### Total Sales by Month
+
+This bar chart shows the total monthly sales from December 2010 through December 2011. Sales remained relatively stable during the first half of 2011, fluctuating between approximately 430,000 and 650,000. A strong upward trend began in August, with a notable peak in November 2011 reaching over 1.1 million. This spike may reflect seasonal demand, such as holiday shopping or promotional events. Interestingly, sales dropped sharply in December 2011, which could suggest a shift in consumer behavior or reporting timing. Overall, the business demonstrated strong growth momentum in the final quarter of the year.
+
 
 ### <span style="color:#16A085"><b>Top-Selling Products and Countries</b></span>
 Discover the products and countries with the highest sales.
