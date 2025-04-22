@@ -69,6 +69,11 @@ These packages should already be installed in Coursera's Jupyter Notebook enviro
 
 The dataset you will be working with is the "Online Retail" dataset. It contains transactional data of an online retail store from 2010 to 2011. The dataset is available as a .xlsx file named `Online Retail.xlsx`. 
 
+## Dataset Links
+
+- [Retail Dataset](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/Retail%20dataset..xlsx)
+
+
 The dataset contains the following columns:
 
 - InvoiceNo: Invoice number of the transaction
