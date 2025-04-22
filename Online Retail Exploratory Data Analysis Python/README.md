@@ -267,6 +267,19 @@ This bar chart visualizes the top 10 best-selling products by quantity. The data
 
 
 
+<p align="center">
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/h1.png" alt="Image 1" width="45%" />
+  <img src="https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Online%20Retail%20Exploratory%20Data%20Analysis%20Python/h..png" alt="Image 2" width="45%" />
+</p> 
+
+
+
+Here's a concise interpretation:
+
+This bar chart displays the top 10 countries by total quantity of products sold. The United Kingdom overwhelmingly leads in sales, with over 4 million units sold—far surpassing all other countries. The Netherlands, EIRE (Ireland), and Germany follow, but with significantly smaller volumes. This suggests that the business is primarily driven by the UK market, while international sales remain relatively modest. These insights highlight the importance of focusing on the UK for core operations, while also presenting opportunities to expand market presence abroad.
+
+
+
 ### <span style="color:#16A085"><b>Outliers and Anomalies</b></span>
 Identify and discuss the impact of outliers on the analysis.
 
