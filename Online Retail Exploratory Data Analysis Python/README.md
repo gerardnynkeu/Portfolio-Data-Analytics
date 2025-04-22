@@ -378,8 +378,42 @@ The following tools and technologies were used throughout the project for data a
 
 ---
 
-## <span style="color:#B03A2E"><b>References</b></span>
-Provide references to any sources, libraries, or datasets used.
+## <span style="color:#B03A2E"><b>References</b></span> 
+
+
+The following sources, libraries, platforms, and tools were referenced or used during the project:
+
+    Open Datasets:
+
+        Kaggle: Public datasets used for exploratory and applied analysis
+
+     Libraries & Frameworks:
+
+        Pandas – Data manipulation
+
+        NumPy – Numerical computing
+
+        Matplotlib & Seaborn – Visualization
+
+        Plotly – Interactive data visualization
+
+        Scikit-learn – Machine learning and statistical modeling
+
+    Learning Platforms:
+
+        Coursera – Google Data Analytics & Google Advanced Data Analytics Certificates
+
+        ChatGPT (OpenAI) – Assisted with explanations, writing, and review
+
+        Kaggle Learn – Tutorials and code examples
+
+        GitHub – Code versioning and project portfolio
+
+    Additional References:
+
+        Documentation from Python, Jupyter, and various official library sources
+
+        Data cleaning and EDA best practices from industry blogs and community notebooks on Kaggle
 
 ---
 
