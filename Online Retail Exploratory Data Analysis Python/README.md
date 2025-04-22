@@ -308,8 +308,20 @@ Check out my Kaggle notebook for the Online Retail Exploratory Data Analysis pro
 
 ---
 
-## <span style="color:#7D3C98"><b>Conclusions & Key Findings</b></span>
-Summarize the key findings from the exploratory data analysis.
+## <span style="color:#7D3C98"><b>Conclusions & Key Findings</b></span> 
+
+
+Outliers Removed: Extreme values in Quantity and UnitPrice (e.g., -80,995 units, £38,970) were filtered to ensure clean, reliable data.
+
+Top Products: The 10 highest-revenue products made up a major share of total sales—high demand and pricing drove their impact.
+
+Regional Sales: The UK led total sales, followed by the Netherlands, Germany, and France—key markets for strategic focus.
+
+Seasonal Trends: Sales peaked during certain months, useful for inventory and marketing planning.
+
+Pricing Insights: After cleaning, prices showed a right-skewed distribution—many low-cost items, few high-priced outliers.
+
+Data Quality: Detected invalid entries (e.g., negative quantities, zero prices)—highlighting the need for robust preprocessing.
 
 ---
 
