@@ -303,6 +303,9 @@ Outliers can distort the results of statistical analyses and machine learning mo
 
     Misleading trend detection and predictive modeling.
 
+Check out my Kaggle notebook for the Online Retail Exploratory Data Analysis project:  
+[View on Kaggle](https://www.kaggle.com/code/nynkeugerard/online-retail-exploratory-data-analysis-python/edit/run/234438439)
+
 ---
 
 ## <span style="color:#7D3C98"><b>Conclusions & Key Findings</b></span>
