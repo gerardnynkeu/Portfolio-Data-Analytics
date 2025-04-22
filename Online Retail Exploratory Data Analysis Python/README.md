@@ -280,8 +280,28 @@ This bar chart displays the top 10 countries by total quantity of products sold.
 
 
 
-### <span style="color:#16A085"><b>Outliers and Anomalies</b></span>
-Identify and discuss the impact of outliers on the analysis.
+### <span style="color:#16A085"><b>Outliers and Anomalies</b></span> 
+
+In this section, we focused on identifying and analyzing outliers and anomalies within the dataset. Outliers are data points that significantly deviate from the overall pattern of the data. These anomalies can arise due to a variety of reasons such as data entry errors, rare events, or shifts in behavior.
+🔍 Detection Methods:
+
+To uncover these anomalies, we applied a mix of statistical techniques and visualization tools, including:
+
+    Boxplots to visualize distributions and spot extreme values.
+
+    Z-score and IQR methods to quantify and flag statistical outliers.
+
+    Time-series analysis, where applicable, to detect sudden spikes or drops in metrics.
+
+⚠️ Impact on Analysis:
+
+Outliers can distort the results of statistical analyses and machine learning models by:
+
+    Skewing averages (mean),
+
+    Increasing variance,
+
+    Misleading trend detection and predictive modeling.
 
 ---
 
