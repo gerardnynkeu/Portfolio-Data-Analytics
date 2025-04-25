@@ -137,6 +137,14 @@ This plot shows how a numerical value (such as stock prices, sales, or measureme
 This chart illustrates the daily number of new confirmed COVID-19 cases in China during the early phase of the pandemic. The data reveals a rapid rise in cases peaking dramatically around mid-February, followed by a sharp decline. The large spike is likely associated with a change in case reporting methodology. After the peak, new daily cases remained consistently low, reflecting the effectiveness of strict containment and mitigation measures implemented by Chinese authorities. This visualization showcases the impact of aggressive public health interventions in controlling an outbreak's spread.
 
 
+![China Visualization](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/china.png?raw=true) 
+
+
+**Maximum Daily Infection Rates: China, Italy, and Spain**
+
+This analysis identifies the highest single-day increase in confirmed COVID-19 cases for three countries using the .diff().max() method on the time series data. China reported the highest daily spike with 15,136 cases, likely reflecting a change in diagnostic criteria. Spain followed with a peak of 9,630 cases, and Italy with 6,557 cases. These figures highlight the varying outbreak intensities and reporting patterns across countries, offering insight into how the pandemic unfolded differently in each region.
+
+
 
 ## World Happiness Report
 (Discuss how the World Happiness Report is analyzed in the project.)
