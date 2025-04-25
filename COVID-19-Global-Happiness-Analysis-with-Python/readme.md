@@ -17,10 +17,72 @@
 ---
 
 ## Introduction
-(Provide an overview of the project here.)
+
+This project aims to explore the global impact of COVID-19 and how it correlates with various socio-economic indicators. By analyzing the confirmed COVID-19 cases across different countries and comparing them with metrics from the World Happiness Report, the project provides insights into how countries with different levels of development and well-being managed the spread of the virus.
+
+We investigate:
+
+    How fast and wide COVID-19 spread in different regions.
+
+    The maximum infection rates per country.
+
+    The relationship between the pandemic's impact and factors like GDP per capita, social support, healthy life expectancy, and freedom to make life choices.
+
+The analysis leverages Python’s robust data science stack to clean, merge, analyze, and visualize real-world datasets.
 
 ## Dataset Overview
-(Describe the datasets used, their sources, and structure here.)
+
+1. COVID-19 Confirmed Cases Dataset
+
+    File: covid19_Confirmed_dataset.csv
+
+    Source: Johns Hopkins University (Time-series COVID-19 data)
+
+    Description: This dataset contains daily confirmed COVID-19 cases for each region globally. The data spans from January 22, 2020, to April 30, 2020, and includes:
+
+        Province/State
+
+        Country/Region
+
+        Lat and Long
+
+        A timeline of confirmed cases (one column per date)
+
+Preprocessing included:
+
+    Dropping latitude and longitude columns.
+
+    Aggregating data by Country/Region.
+
+    Calculating the first derivative of cases (daily increases).
+
+    Identifying the maximum infection rate per country.
+
+2. World Happiness Report Dataset
+
+    File: worldwide_happiness_report.csv
+
+    Source: 2019 World Happiness Report
+
+    Description: Contains socio-economic indicators for over 150 countries. Key columns used in this analysis include:
+
+        Country or region
+
+        GDP per capita
+
+        Social support
+
+        Healthy life expectancy
+
+        Freedom to make life choices
+
+Preprocessing included:
+
+    Dropping less relevant columns such as Overall rank, Generosity, and Perceptions of corruption.
+
+    Cleaning column names and setting the index to Country or region.
+
+
 
 ## Import Modules
 (List and explain the Python libraries and modules utilized in the project.)
