@@ -122,7 +122,11 @@ This line chart visualizes the cumulative number of confirmed COVID-19 cases in 
 
 we need to find a good measure reperestend as a number, describing the spread of the virus in a country. 
 
-![Spread Measure](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/spread%20measure.png?raw=true)
+![Spread Measure](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/spread%20measure.png?raw=true) 
+
+**Spread Measure Line Chart**
+
+This plot shows how a numerical value (such as stock prices, sales, or measurements) evolves over three consecutive dates. The upward trend indicates a consistent increase, with a sharper rise between the second and third points. The x-axis represents dates, and the y-axis represents the measured values. The graph was created using Python's Matplotlib library.
 
 
 
