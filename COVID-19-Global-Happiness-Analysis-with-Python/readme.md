@@ -91,7 +91,22 @@ Preprocessing included:
 ![Import Modules](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/import%20module.png?raw=true)
 
 ## Working with COVID-19 Dataset
-(This section explains how the COVID-19 dataset is processed and analyzed.)
+(This section explains how the COVID-19 dataset is processed and analyzed.) 
+
+
+In this step, we load and preprocess the global COVID-19 confirmed cases dataset. The data is initially structured by province/state and date, and includes latitude and longitude, which are not needed for our analysis and are removed.
+
+Key actions performed:
+
+    ✅ Loaded the time-series data from Kaggle.
+
+    🧹 Cleaned the dataset by dropping geolocation columns.
+
+    📊 Aggregated case numbers by Country/Region to simplify the analysis.
+
+    🔢 Converted all values to numeric types for accurate computation.
+
+    📈 Visualized the progression of COVID-19 in China, Italy, and Spain over time to observe early global patterns and compare trends.
 
 ### Spread Measures
 (Highlight the spread measures evaluated in the dataset.)
