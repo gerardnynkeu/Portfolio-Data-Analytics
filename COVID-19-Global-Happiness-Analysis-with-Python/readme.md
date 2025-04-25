@@ -118,7 +118,10 @@ This line chart visualizes the cumulative number of confirmed COVID-19 cases in 
 
 
 ### Spread Measures
-(Highlight the spread measures evaluated in the dataset.)
+
+we need to find a good measure reperestend as a number, describing the spread of the virus in a country. 
+
+
 
 ## World Happiness Report
 (Discuss how the World Happiness Report is analyzed in the project.)
