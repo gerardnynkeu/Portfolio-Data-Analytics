@@ -87,7 +87,6 @@ Preprocessing included:
 ## Import Modules
 (List and explain the Python libraries and modules utilized in the project.) 
 
-## Import Modules
 
 ![Import Modules](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/import%20module.png?raw=true)
 
