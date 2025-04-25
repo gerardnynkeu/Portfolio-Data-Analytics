@@ -152,7 +152,19 @@ This analysis identifies the highest single-day increase in confirmed COVID-19 c
 ![World Happiness Visualization](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/world%20happiness.png?raw=true)
 
 ## Visualizations
-(Include key visualizations and explain their significance.)
+(Include key visualizations and explain their significance.) 
+
+![GDP vs Max Infection Rate Visualization](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/GDP%20vs%20Max%20Infection%20Rate.png?raw=true)
+
+This scatter plot shows the relationship between GDP per capita (x-axis) and maximum infection rate (y-axis). 
+Each dot represents a country or region.
+Key insight:
+
+    There appears to be a positive correlation: as GDP per capita increases, 
+    the maximum infection rate also tends to increase.
+
+    This could suggest that wealthier countries (with higher GDP per capita) may have 
+    had higher peaks in infection rates — possibly due to higher testing rates, urbanization, or international travel.
 
 ## Conclusions & Key Findings
 (Summarize the insights and findings from the analysis.)
