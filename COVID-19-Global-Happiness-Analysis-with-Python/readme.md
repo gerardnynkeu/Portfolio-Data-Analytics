@@ -106,7 +106,16 @@ Key actions performed:
 
     🔢 Converted all values to numeric types for accurate computation.
 
-    📈 Visualized the progression of COVID-19 in China, Italy, and Spain over time to observe early global patterns and compare trends.
+    📈 Visualized the progression of COVID-19 in China, Italy, and Spain over time to observe early global patterns and compare trends. 
+
+
+![Visualization 1](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/viz1.png?raw=true) 
+
+
+**COVID-19 Case Growth Comparison: China, Italy, and Spain (Jan–Apr 2020)**
+
+This line chart visualizes the cumulative number of confirmed COVID-19 cases in China, Italy, and Spain from late January to April 2020. Initially, China experienced a rapid increase in cases, peaking early before stabilizing. In contrast, Italy and Spain showed a delayed but much steeper rise, eventually surpassing China in total reported cases. The visualization highlights how the pandemic unfolded differently across countries, emphasizing the critical timing and intensity of outbreaks in Europe compared to the earlier wave in China. The data underscores the global variability in outbreak trajectories and healthcare responses.
+
 
 ### Spread Measures
 (Highlight the spread measures evaluated in the dataset.)
