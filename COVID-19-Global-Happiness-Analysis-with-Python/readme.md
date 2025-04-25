@@ -129,6 +129,14 @@ we need to find a good measure reperestend as a number, describing the spread of
 This plot shows how a numerical value (such as stock prices, sales, or measurements) evolves over three consecutive dates. The upward trend indicates a consistent increase, with a sharper rise between the second and third points. The x-axis represents dates, and the y-axis represents the measured values. The graph was created using Python's Matplotlib library.
 
 
+![Visualization 2](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/viz2.png?raw=true) 
+
+
+**Daily New COVID-19 Cases in China (Jan–Apr 2020)**
+
+This chart illustrates the daily number of new confirmed COVID-19 cases in China during the early phase of the pandemic. The data reveals a rapid rise in cases peaking dramatically around mid-February, followed by a sharp decline. The large spike is likely associated with a change in case reporting methodology. After the peak, new daily cases remained consistently low, reflecting the effectiveness of strict containment and mitigation measures implemented by Chinese authorities. This visualization showcases the impact of aggressive public health interventions in controlling an outbreak's spread.
+
+
 
 ## World Happiness Report
 (Discuss how the World Happiness Report is analyzed in the project.)
