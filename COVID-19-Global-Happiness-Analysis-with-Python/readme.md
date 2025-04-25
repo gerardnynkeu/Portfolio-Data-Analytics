@@ -147,7 +147,9 @@ This analysis identifies the highest single-day increase in confirmed COVID-19 c
 
 
 ## World Happiness Report
-(Discuss how the World Happiness Report is analyzed in the project.)
+(Discuss how the World Happiness Report is analyzed in the project.) 
+
+![World Happiness Visualization](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/world%20happiness.png?raw=true)
 
 ## Visualizations
 (Include key visualizations and explain their significance.)
