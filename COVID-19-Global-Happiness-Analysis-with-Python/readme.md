@@ -85,6 +85,7 @@ Preprocessing included:
 
 
 ## Import Modules
+
 (List and explain the Python libraries and modules utilized in the project.) 
 
 
@@ -120,6 +121,8 @@ This line chart visualizes the cumulative number of confirmed COVID-19 cases in 
 ### Spread Measures
 
 we need to find a good measure reperestend as a number, describing the spread of the virus in a country. 
+
+![Spread Measure](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/spread%20measure.png?raw=true)
 
 
 
