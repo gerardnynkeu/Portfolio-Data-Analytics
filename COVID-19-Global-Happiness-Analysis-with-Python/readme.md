@@ -205,11 +205,15 @@ Future policies should focus on global data collaboration to identify trends and
 
 Kaggle Datasets: COVID-19 Data Repository
 
-World Health Organization (WHO) COVID-19 Situation Reports
+## Related Projects
 
-Johns Hopkins University COVID-19 Data Repository
+- [COVID-19 Data Analysis with Python on Kaggle](https://www.kaggle.com/code/nynkeugerard/covid19-data-analysis-with-python/edit/run/235945383)
 
-Python Official Documentation
+- World Health Organization (WHO) COVID-19 Situation Reports
+
+- Johns Hopkins University COVID-19 Data Repository
+
+- Python Official Documentation
 
 ## Contact
 Feel free to reach out for further information:
