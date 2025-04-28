@@ -18,7 +18,10 @@
 
 ## Introduction
 
-This project aims to explore the global impact of COVID-19 and how it correlates with various socio-economic indicators. By analyzing the confirmed COVID-19 cases across different countries and comparing them with metrics from the World Happiness Report, the project provides insights into how countries with different levels of development and well-being managed the spread of the virus.
+This project aims to explore the global impact of COVID-19 and how it correlates with various socio-economic indicators. 
+By analyzing the confirmed COVID-19 cases across different countries and comparing them with metrics
+from the World Happiness Report, the project provides insights into how countries with different 
+levels of development and well-being managed the spread of the virus.
 
 We investigate:
 
@@ -26,7 +29,8 @@ We investigate:
 
     The maximum infection rates per country.
 
-    The relationship between the pandemic's impact and factors like GDP per capita, social support, healthy life expectancy, and freedom to make life choices.
+    The relationship between the pandemic's impact and factors like GDP per capita, social support, healthy life expectancy,
+    and freedom to make life choices.
 
 The analysis leverages Python’s robust data science stack to clean, merge, analyze, and visualize real-world datasets.
 
@@ -42,7 +46,8 @@ File: [covid19_Confirmed_dataset.csv](https://github.com/gerardnynkeu/Portfolio-
 
     Source: Johns Hopkins University (Time-series COVID-19 data)
 
-    Description: This dataset contains daily confirmed COVID-19 cases for each region globally. The data spans from January 22, 2020, to April 30, 2020, and includes:
+    Description: This dataset contains daily confirmed COVID-19 cases for each region globally. The data spans from January 22,
+    2020, to April 30, 2020, and includes:
 
         Province/State
 
@@ -99,7 +104,9 @@ Preprocessing included:
 (This section explains how the COVID-19 dataset is processed and analyzed.) 
 
 
-In this step, we load and preprocess the global COVID-19 confirmed cases dataset. The data is initially structured by province/state and date, and includes latitude and longitude, which are not needed for our analysis and are removed.
+In this step, we load and preprocess the global COVID-19 confirmed cases dataset. The data is initially 
+structured by province/state and date, and includes latitude and longitude, which are not needed 
+for our analysis and are removed.
 
 Key actions performed:
 
@@ -111,7 +118,8 @@ Key actions performed:
 
     🔢 Converted all values to numeric types for accurate computation.
 
-    📈 Visualized the progression of COVID-19 in China, Italy, and Spain over time to observe early global patterns and compare trends. 
+    📈 Visualized the progression of COVID-19 in China, Italy, and Spain over time to observe early 
+    global patterns and compare trends. 
 
 
 ![Visualization 1](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/viz1.png?raw=true) 
@@ -119,7 +127,11 @@ Key actions performed:
 
 **COVID-19 Case Growth Comparison: China, Italy, and Spain (Jan–Apr 2020)**
 
-This line chart visualizes the cumulative number of confirmed COVID-19 cases in China, Italy, and Spain from late January to April 2020. Initially, China experienced a rapid increase in cases, peaking early before stabilizing. In contrast, Italy and Spain showed a delayed but much steeper rise, eventually surpassing China in total reported cases. The visualization highlights how the pandemic unfolded differently across countries, emphasizing the critical timing and intensity of outbreaks in Europe compared to the earlier wave in China. The data underscores the global variability in outbreak trajectories and healthcare responses.
+This line chart visualizes the cumulative number of confirmed COVID-19 cases in China, Italy, and Spain from late January to April 2020. Initially,
+China experienced a rapid increase in cases, peaking early before stabilizing. In contrast, Italy and Spain showed a delayed but much steeper rise,
+eventually surpassing China in total reported cases. The visualization highlights how the pandemic unfolded differently across countries, 
+emphasizing the critical timing and intensity of outbreaks in Europe compared to the earlier wave in China. The data underscores
+the global variability in outbreak trajectories and healthcare responses.
 
 
 ### Spread Measures
@@ -130,7 +142,9 @@ we need to find a good measure reperestend as a number, describing the spread of
 
 **Spread Measure Line Chart**
 
-This plot shows how a numerical value (such as stock prices, sales, or measurements) evolves over three consecutive dates. The upward trend indicates a consistent increase, with a sharper rise between the second and third points. The x-axis represents dates, and the y-axis represents the measured values. The graph was created using Python's Matplotlib library.
+This plot shows how a numerical value (such as stock prices, sales, or measurements) evolves over three consecutive dates. The upward 
+trend indicates a consistent increase, with a sharper rise between the second and third points. The x-axis represents dates,
+and the y-axis represents the measured values. The graph was created using Python's Matplotlib library.
 
 
 ![Visualization 2](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/viz2.png?raw=true) 
@@ -138,7 +152,11 @@ This plot shows how a numerical value (such as stock prices, sales, or measureme
 
 **Daily New COVID-19 Cases in China (Jan–Apr 2020)**
 
-This chart illustrates the daily number of new confirmed COVID-19 cases in China during the early phase of the pandemic. The data reveals a rapid rise in cases peaking dramatically around mid-February, followed by a sharp decline. The large spike is likely associated with a change in case reporting methodology. After the peak, new daily cases remained consistently low, reflecting the effectiveness of strict containment and mitigation measures implemented by Chinese authorities. This visualization showcases the impact of aggressive public health interventions in controlling an outbreak's spread.
+This chart illustrates the daily number of new confirmed COVID-19 cases in China during the early phase of the pandemic.
+The data reveals a rapid rise in cases peaking dramatically around mid-February, followed by a sharp decline. 
+The large spike is likely associated with a change in case reporting methodology. After the peak, new daily cases 
+remained consistently low, reflecting the effectiveness of strict containment and mitigation measures implemented 
+by Chinese authorities. This visualization showcases the impact of aggressive public health interventions in controlling an outbreak's spread.
 
 
 ![China Visualization](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/china.png?raw=true) 
@@ -146,7 +164,10 @@ This chart illustrates the daily number of new confirmed COVID-19 cases in China
 
 **Maximum Daily Infection Rates: China, Italy, and Spain**
 
-This analysis identifies the highest single-day increase in confirmed COVID-19 cases for three countries using the .diff().max() method on the time series data. China reported the highest daily spike with 15,136 cases, likely reflecting a change in diagnostic criteria. Spain followed with a peak of 9,630 cases, and Italy with 6,557 cases. These figures highlight the varying outbreak intensities and reporting patterns across countries, offering insight into how the pandemic unfolded differently in each region.
+This analysis identifies the highest single-day increase in confirmed COVID-19 cases for three countries using the .diff().max() 
+method on the time series data. China reported the highest daily spike with 15,136 cases, likely reflecting a change in 
+diagnostic criteria. Spain followed with a peak of 9,630 cases, and Italy with 6,557 cases. These figures highlight 
+the varying outbreak intensities and reporting patterns across countries, offering insight into how the pandemic unfolded differently in each region.
 
 
 
