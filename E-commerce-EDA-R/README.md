@@ -385,7 +385,12 @@ The project was run entirely on Kaggle, leveraging its cloud-based environment f
 
 ## R Cheat Sheets & Quick References
 
-### 📄 [RStudio Cheat Sheets](https://posit.co/resources/cheatsheets/)
+### 📄 [RStudio Cheat Sheets](https://posit.co/resources/cheatsheets/) 
+## Kaggle Notebook
+
+You can check out the E-commerce EDA R notebook on Kaggle using the following link:
+[E-commerce EDA R - Kaggle Notebook](https://www.kaggle.com/code/nynkeugerard/e-commerce-eda-r/edit/run/223625854)
+
 Quick reference guides for key R packages, including:
 - [ggplot2 Cheat Sheet](https://posit.co/resources/cheatsheets/)
 - [dplyr Cheat Sheet](https://posit.co/resources/cheatsheets/)
