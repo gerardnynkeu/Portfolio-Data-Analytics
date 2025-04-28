@@ -167,18 +167,45 @@ Key insight:
     had higher peaks in infection rates — possibly due to higher testing rates, urbanization, or international travel.
 
 ## Conclusions & Key Findings
-(Summarize the insights and findings from the analysis.)
+
+1. The COVID-19 pandemic showed clear patterns of case surges corresponding to different phases (early outbreaks, global spread, vaccination rollout).
+
+2. Mortality rates decreased over time, indicating improvements in treatment protocols and healthcare system responses.
+
+3. Countries with early intervention measures (e.g., lockdowns, testing) experienced slower growth rates in infections.
+
+4. Vaccination campaigns had a significant positive impact on reducing new cases and deaths.
 
 ## Business Insights & Recommendations
-(Provide actionable insights and recommendations based on the findings.)
+
+Early data-driven decision-making is critical in managing large-scale health crises.
+
+Investment in healthcare infrastructure and rapid response mechanisms can significantly reduce mortality rates.
+
+Public communication strategies based on real-time data analytics improve compliance with health measures.
+
+Future policies should focus on global data collaboration to identify trends and respond proactively to emerging threats.
+
 
 ## Tools & Technologies
+
 - **Programming Language**: Python
-- **Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Others**: Jupyter Notebook
+- **Development Platform**: Kaggle
+- **Libraries Used**: 
+  - Pandas (data manipulation)
+  - Matplotlib, Seaborn (data visualization)
+  - NumPy (numerical operations)
+- **AI Support**: ChatGPT (for documentation assistance and content refinement)
 
 ## References
-(Include references to data sources, documentation, and other materials.)
+
+Kaggle Datasets: COVID-19 Data Repository
+
+World Health Organization (WHO) COVID-19 Situation Reports
+
+Johns Hopkins University COVID-19 Data Repository
+
+Python Official Documentation
 
 ## Contact
 Feel free to reach out for further information:
