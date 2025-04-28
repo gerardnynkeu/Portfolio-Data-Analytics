@@ -36,6 +36,10 @@ The analysis leverages Python’s robust data science stack to clean, merge, ana
 
     File: covid19_Confirmed_dataset.csv
 
+File: [covid19_Confirmed_dataset.csv](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/covid19_Confirmed_dataset.csv) 
+
+ File: [worldwide_happiness_report.csv](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/COVID-19-Global-Happiness-Analysis-with-Python/worldwide_happiness_report.csv)
+
     Source: Johns Hopkins University (Time-series COVID-19 data)
 
     Description: This dataset contains daily confirmed COVID-19 cases for each region globally. The data spans from January 22, 2020, to April 30, 2020, and includes:
