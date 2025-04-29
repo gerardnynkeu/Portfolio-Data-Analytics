@@ -236,7 +236,7 @@ Key Observations:
     
 
 
-![Marketing Sales Analysis](regression-plot.png) 
+![Regression Plot](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/regression-plot.png) 
 
 
 
