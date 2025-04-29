@@ -485,7 +485,13 @@ In the scatterplot, the data points resemble a random cloud without any clear pa
 
 
 
-## Step 9 References
+## Step 9 References 
+
+
+Project Execution on Kaggle
+This project was executed on Kaggle using Python, where its tools and resources were utilized for comprehensive data analysis and visualization. The complete workflow is available on Kaggle through the following link:
+Kaggle Notebook: Python Marketing Sales Regression
+
 
 1. **Pandas Documentation** - Data manipulation and analysis  
    - [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)  
