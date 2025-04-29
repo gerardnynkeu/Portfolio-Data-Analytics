@@ -88,7 +88,7 @@ Sales (numeric: float): Total sales generated.
 
 
 
-[Download the dataset](marketing-sales-data.csv)  
+- [View the CSV file here](marketing-sales-data.csv)  
 
 
 
