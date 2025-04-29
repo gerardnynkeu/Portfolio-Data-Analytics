@@ -327,7 +327,7 @@ By examining this plot, I ensure that my model is not biased and that the linear
 
 
 
-![Marketing Sales Analysis](Scatterplot-of-residuals.png)  
+![Scatterplot of Residuals](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/Scatterplot-of-residuals.png) 
 
 
 
