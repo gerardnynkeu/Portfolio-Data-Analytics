@@ -262,7 +262,7 @@ By examining the residual distribution, I ensure that my regression model produc
 
 
 
-![Marketing Sales Analysis](Residual-distribution.png) 
+![Residual Distribution](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/Residual-distribution.png)
 
 
 
