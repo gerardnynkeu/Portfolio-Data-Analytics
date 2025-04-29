@@ -97,7 +97,7 @@ The dataset is loaded into a Pandas DataFrame and reviewed for initial explorati
 
 
 
-![Marketing Sales Analysis](import-load-data.png) 
+![Marketing Sales Analysis](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/import-load-data%20(1).png) 
 
 
 
