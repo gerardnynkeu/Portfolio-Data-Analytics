@@ -121,7 +121,7 @@ In this step, we analyze the dataset to understand its structure, detect missing
 
 
 
-![Marketing Sales Analysis](EDA.png) 
+![EDA](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/EDA%20(1).png) 
 
 
 
