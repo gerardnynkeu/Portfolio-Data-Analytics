@@ -294,7 +294,7 @@ By analyzing the Q-Q plot, I verify whether my model meets the normality assumpt
 
 
 
-![Marketing Sales Analysis](Q-Q-plot-of-residuals.png) 
+![Q-Q Plot of Residuals](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/Q-Q-plot-of-residuals.png) 
 
 
 
