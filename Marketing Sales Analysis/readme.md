@@ -1,6 +1,6 @@
 # Marketing Sales Analysis
 
-![Marketing Sales Analysis](data-analysis-intro.png) 
+![Data Analysis Intro](data-analysis-intro%20(1).png) 
 
 
 # Table of Contents  
