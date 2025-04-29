@@ -205,7 +205,7 @@ In this step, I evaluate the performance of my regression model by analyzing key
 
 
 
-![Marketing Sales Analysis](Step-4-Results-and-Evaluation.png) 
+![Step 4 Results and Evaluation](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/Step-4-Results-and-Evaluation.png) 
 
 
 
