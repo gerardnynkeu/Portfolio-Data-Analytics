@@ -175,7 +175,7 @@ The process of creating, training, and validating mathematical or machine learni
 
 
 
-![Marketing Sales Analysis](model-building.png) 
+![Model Building](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Marketing%20Sales%20Analysis/model-building.png) 
 
 
 
