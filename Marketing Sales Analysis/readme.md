@@ -9,30 +9,11 @@
 - [ Dataset Description](#Dataset-Description)
 - [  Dataset Overview](#Dataset-Overview)
 - [Step 1: Imports and Data Loading](#step-1-imports-and-data-loading)  
-  - [1.1 Import Libraries] 
-  - [1.2 Load Dataset] 
 - [Step 2: Data Exploration](#step-2-data-exploration)  
-  - [2.1 Display First 10 Rows] 
-  - [2.2 Dataset Dimensions] 
-  - [2.3 Check Missing Values] 
-  - [2.4 Handle Missing Values]  
-  - [2.5 Pairwise Relationships]  
 - [Step 3: Model Building](#step-3-model-building)  
-  - [3.1 Select Relevant Columns]
-  - [3.2 Linear Regression Formula]  
-  - [3.3 Fit the Model]  
 - [Step 4: Results and Evaluation](#step-4-results-and-evaluation)  
-  - [4.1 Model Summary]
-  - [4.2 Key Coefficients] 
-  - [4.3 Regression Plot] 
-  - [4.4 Residual Distribution]  
-  - [4.5 Q-Q Plot for Normality] 
-  - [4.6 Scatterplot of Residuals]
 - [Step 5: Key Questions Answered](#step-5-Key-Questions-Answered)
 - [Step 6: Conclusion](#step-6-conclusion)  
-  - [5.1 Key Takeaways] 
-  - [5.2 Framing Findings for Stakeholders] 
-  - [5.3 Framing the Findings for External Stakeholders]
 - [Step 7: Tools and Technologies](#step-7-Tools-and-Technologies)
 - [Step 8: Limitations](#step-8-Limitations)
 - [Step 9: References](#step-9-References)
@@ -44,15 +25,6 @@
 
   
  
-
-
-
-
-
-
-
-
-
 
 ## Introduction
 
