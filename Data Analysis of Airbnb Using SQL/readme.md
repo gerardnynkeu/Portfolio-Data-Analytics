@@ -77,7 +77,10 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 - Practiced translating technical findings into actionable business insights
 
 ## Next Steps
-Outline future improvements or follow-up tasks for the project.
+
+- Expand the analysis with Python for visualization (e.g., Seaborn, Matplotlib)
+- Conduct predictive modeling for pricing or demand forecasting
+- Compare with other cities to contextualize York’s market
 
 ## Repository Structure
 Describe the structure of the repository, including file or folder organization.
