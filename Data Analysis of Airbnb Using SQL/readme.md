@@ -19,7 +19,14 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 [View the full project on Kaggle »](https://www.kaggle.com/code/nynkeugerard/data-analysis-of-airbnb-york-city-sql/edit/run/236854706#%F0%9F%93%88-Availability-&-Pricing-Insights)
 
 ## Objectives
-Highlight the main goals of the project.
+
+- **Practice and demonstrate real-world SQL data exploration skills**
+
+- **Understand Airbnb market trends in York City**
+
+- **Identify actionable insights for both hosts and guests**
+
+- **Communicate findings in a clear, business-oriented manner**
 
 ## Tools & Technologies
 List the tools and technologies you used for this project (e.g., SQL, Jupyter Notebook, etc.).
