@@ -92,4 +92,10 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 I'm an aspiring Junior Data Analyst with a passion for data storytelling and a strong foundation in SQL, Python, and data visualization. I enjoy uncovering hidden trends in complex datasets and turning them into actionable insights that drive better decisions.
 
 ## Contact Me
-Share your contact information or links to your professional profiles (e.g., LinkedIn, email).
+
+Feel free to reach out for any inquiries, collaborations, or further information:
+
+- **Author**: Gerard Nynkeu  
+- **LinkedIn**: [Gerard Nynkeu Njike](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)  
+- **GitHub**: [gerardnynkeu](https://github.com/gerardnynkeu)  
+- **Email**: [gerardnynkeu@yahoo.de](mailto:gerardnynkeu@yahoo.de)  
