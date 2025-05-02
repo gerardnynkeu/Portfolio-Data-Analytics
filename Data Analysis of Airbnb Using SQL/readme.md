@@ -62,7 +62,12 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
   - Identified a few dominant hosts with multiple properties, suggesting semi-professional operations.  
 
 ## Key Findings
-Summarize the key insights derived from the analysis.
+
+- City Center holds the majority of listings and commands the highest average prices.
+- Private rooms offer a budget-friendly alternative, often under £100/night.
+- Top hosts own a significant portion of listings, showing a skewed distribution.
+- Seasonality plays a role in review activity, with peaks during warmer months.
+- High availability does not always correlate with higher pricing, suggesting untapped opportunities.
 
 ## What I Learned
 Share your learnings and takeaways from this project.
