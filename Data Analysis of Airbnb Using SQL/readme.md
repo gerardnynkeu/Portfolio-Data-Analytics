@@ -13,7 +13,8 @@
 10. [Contact Me](#contact-me)
 
 ## Overview
-Provide a brief introduction to the project and its purpose.
+
+This project presents a comprehensive SQL-driven exploratory analysis of Airbnb listings in York City, based on a public dataset available on Kaggle. The goal was to extract meaningful insights regarding host activity, pricing trends, room types, availability, and review behavior, using structured query language (SQL) exclusively.
 
 ## Objectives
 Highlight the main goals of the project.
