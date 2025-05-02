@@ -87,11 +87,9 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 📦 airbnb-york-sql-analysis/ ┣ 📄 README.md # Project overview and documentation ┣ 📄 airbnb_york_analysis.sql # Key SQL queries used for the analysis ┗ 📄 screenshots/ # Visual summaries of key charts
 
 
-
-
-
 ## About Me
-Provide a short section about yourself, your background, and your interests in data analytics.
+
+I'm an aspiring Junior Data Analyst with a passion for data storytelling and a strong foundation in SQL, Python, and data visualization. I enjoy uncovering hidden trends in complex datasets and turning them into actionable insights that drive better decisions.
 
 ## Contact Me
 Share your contact information or links to your professional profiles (e.g., LinkedIn, email).
