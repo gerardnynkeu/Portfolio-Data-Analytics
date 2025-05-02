@@ -39,7 +39,27 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 - Visualization: SQL output tables + built-in Kaggle chart tools
 
 ## Key Analysis Areas
-Identify the core areas of analysis conducted in the project.
+
+
+- **Listing Overview by Area**  
+  - Counted listings per neighborhood group to identify the most saturated areas.  
+  - Revealed the city center as the most active location.  
+
+- **Price Insights by Room Type**  
+  - Compared average prices across Entire Homes, Private Rooms, and Shared Rooms.  
+  - Entire Homes showed significantly higher pricing, especially in central areas.  
+
+- **Review Trends**  
+  - Analyzed monthly review frequency to detect demand seasonality.  
+  - Noticed peaks in review activity during the spring and summer months.  
+
+- **Availability vs. Price**  
+  - Explored how availability (365 days) correlates with pricing.  
+  - Discovered a subset of affordable, highly available listings — potential sweet spots for budget-conscious travelers.  
+
+- **Top Hosts**  
+  - Ranked hosts by the number of listings.  
+  - Identified a few dominant hosts with multiple properties, suggesting semi-professional operations.  
 
 ## Key Findings
 Summarize the key insights derived from the analysis.
