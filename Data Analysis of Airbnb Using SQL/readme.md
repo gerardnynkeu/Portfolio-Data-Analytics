@@ -29,7 +29,14 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 - **Communicate findings in a clear, business-oriented manner**
 
 ## Tools & Technologies
-List the tools and technologies you used for this project (e.g., SQL, Jupyter Notebook, etc.).
+
+- Platform: Kaggle Notebooks
+
+- Language: SQL (BigQuery syntax)
+
+- Data Source: Inside Airbnb Open Data
+
+- Visualization: SQL output tables + built-in Kaggle chart tools
 
 ## Key Analysis Areas
 Identify the core areas of analysis conducted in the project.
