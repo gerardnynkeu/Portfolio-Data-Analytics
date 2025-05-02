@@ -83,7 +83,12 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 - Compare with other cities to contextualize York’s market
 
 ## Repository Structure
-Describe the structure of the repository, including file or folder organization.
+
+📦 airbnb-york-sql-analysis/ ┣ 📄 README.md # Project overview and documentation ┣ 📄 airbnb_york_analysis.sql # Key SQL queries used for the analysis ┗ 📄 screenshots/ # Visual summaries of key charts
+
+
+
+
 
 ## About Me
 Provide a short section about yourself, your background, and your interests in data analytics.
