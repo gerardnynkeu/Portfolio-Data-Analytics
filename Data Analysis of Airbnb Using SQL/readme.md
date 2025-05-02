@@ -70,7 +70,11 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 - High availability does not always correlate with higher pricing, suggesting untapped opportunities.
 
 ## What I Learned
-Share your learnings and takeaways from this project.
+
+- Improved my proficiency in writing efficient SQL queries to explore, group, and filter large datasets
+- Gained a deeper understanding of Airbnb's business model and dynamics
+- Strengthened my ability to tell a data story using only SQL and Markdown
+- Practiced translating technical findings into actionable business insights
 
 ## Next Steps
 Outline future improvements or follow-up tasks for the project.
