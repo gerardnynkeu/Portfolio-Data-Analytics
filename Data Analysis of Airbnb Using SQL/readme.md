@@ -36,6 +36,8 @@ This project presents a comprehensive SQL-driven exploratory analysis of Airbnb 
 
 - Data Source: Inside Airbnb Open Data
 
+You can find the Airbnb NYC 2019 dataset used in this project [here](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Data%20Analysis%20of%20Airbnb%20Using%20SQL/AB_NYC_2019.csv).
+
 - Visualization: SQL output tables + built-in Kaggle chart tools
 
 ## Key Analysis Areas
