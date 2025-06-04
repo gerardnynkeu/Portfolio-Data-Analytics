@@ -1,3 +1,9 @@
+
+<!-- HTML for full-width image -->
+<img src="introduction%20sql.png" alt="Introduction SQL" style="width:100%; display:block; margin: 0 auto;" />
+
+
+
 # Einführung in SQL
 
 SQL (Structured Query Language) ist die standardisierte Sprache zur Verwaltung und Abfrage von Datenbanken. Diese Sprache bildet das Herzstück nahezu aller modernen Datenbanksysteme und ist ein unverzichtbares Werkzeug für Datenanalysten, Entwickler und Systemadministratoren.
