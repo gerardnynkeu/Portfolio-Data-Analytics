@@ -66,5 +66,8 @@ Eine Zeile (Datensatz) repräsentiert einen Kunden
 Eine Spalte (Feld) enthält Informationen zu einem bestimmten Attribut (z. B. CustomerName)
 
 Fazit
-SQL ist eine mächtige Sprache, die in der modernen Datenwelt unverzichtbar ist. Mit SQL kannst du Daten abfragen, verändern und strukturieren – effizient, standardisiert und flexibel. Ganz gleich, ob du Webanwendungen entwickelst oder große Datenanalysen durchführst – SQL gehört zu den wichtigsten Werkzeugen, die du beherrschen solltest.
+SQL ist eine mächtige Sprache, die in der modernen Datenwelt unverzichtbar ist. Mit SQL
+kannst du Daten abfragen, verändern und strukturieren – effizient, standardisiert
+und flexibel. Ganz gleich, ob du Webanwendungen entwickelst oder große Datenanalysen
+durchführst – SQL gehört zu den wichtigsten Werkzeugen, die du beherrschen solltest.
 
