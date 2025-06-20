@@ -91,6 +91,11 @@ The objective is to:
 └── dataset/
 └── marketing_campaign.csv
 
+## Customer Personality Analysis
+
+You can view the full project notebook here:  
+[Customer Personality Analysis - Jupyter Notebook](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/Customer%20Personality%20Analysis/customer-personality-analysis.ipynb)
+
 ---
 
 ## 👤 Author
