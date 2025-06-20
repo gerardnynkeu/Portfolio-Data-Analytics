@@ -89,6 +89,10 @@ Several classification models were trained and evaluated:
 └── dataset/
 └── HR_comma_sep.csv
 
+## 🔗 Project Links
+
+- [Full Kaggle Project Notebook](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/HR%20Analytics%3A%20Employee%20Attrition%20Analysis/hr-analytics-employee-attrition-analysis.ipynb)
+
 
 ## ✍️ Author
 
