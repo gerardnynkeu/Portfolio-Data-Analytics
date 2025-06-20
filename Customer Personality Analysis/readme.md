@@ -91,7 +91,6 @@ The objective is to:
 └── dataset/
 └── marketing_campaign.csv
 
-
 ---
 
 ## 👤 Author
@@ -99,7 +98,7 @@ The objective is to:
 **Gerard Nynkeu**  
 Aspiring Data Analyst | Passionate about customer insights & business analytics
 
-> 📫 Let’s connect on [LinkedIn](#)  
+> 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)  
 > ⭐ Feel free to star this repository if you found it useful!
 
 ---
