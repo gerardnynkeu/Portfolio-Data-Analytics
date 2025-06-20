@@ -59,7 +59,7 @@ The analysis revealed significant disparities in educational infrastructure and 
 ## 🔗 Credits
 
 - **Dataset Source**: [Kaggle - Education Dataset](https://www.kaggle.com/)
-- **Author**: [Your Name Here]
+- **Author**: Gerard Nynkeu
 
 ---
 
