@@ -4,6 +4,9 @@
 
 This project focuses on analyzing district-wise educational infrastructure and literacy rates across various Indian states. Using descriptive statistics, the notebook explores disparities in education, infrastructure distribution, and correlations between population and literacy. This work aims to provide insights useful for educational planning, policy-making, and equitable resource allocation.
 
+
+[District-wise Education Statistics Analysis - Descriptive Statistics Notebook](https://github.com/gerardnynkeu/Portfolio-Data-Analytics/blob/main/District-wise%20Education%20Statistics%20Analysis/education-districtwise-descriptive-statistics.ipynb)
+
 ---
 
 ## 📁 Dataset Description
