@@ -92,12 +92,9 @@ Several classification models were trained and evaluated:
 
 ## ✍️ Author
 
-**Gerard Nynkeu**  
-Aspiring Data Analyst | Passionate about solving business problems with data
-
----
-
-> ⭐ If you found this project insightful, feel free to give it a star or connect with me on [LinkedIn](#)!
+> **Gerard Nynkeu**  
+Aspiring Data Analyst | Passionate about solving business problems with data  
+[LinkedIn](https://www.linkedin.com/in/gerard-nynkeu-njike-63282a327/)
 
 
 
